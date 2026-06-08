@@ -1,0 +1,111 @@
+name: Daily Platform Stats
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch TryHackMe + HackerOne stats
+        run: |
+          mkdir -p logs
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+
+          cat > logs/platform-stats.md << EOF
+          # Platform Stats — $DATE
+
+          > Auto-fetched daily · Last updated: $TIME
+
+          EOF
+
+          python3 << 'PYEOF'
+          import urllib.request, json, re, html
+
+          # ── TryHackMe ──────────────────────────────────────────────
+          THM_USER = "webstyr"
+
+          def thm_fetch(path):
+              url = f"https://tryhackme.com{path}"
+              req = urllib.request.Request(url, headers={
+                  "User-Agent": "Mozilla/5.0 (compatible; webstyr-bot/1.0)",
+                  "Accept": "application/json",
+              })
+              try:
+                  with urllib.request.urlopen(req, timeout=15) as r:
+                      return json.load(r)
+              except Exception:
+                  return None
+
+          rank_data   = thm_fetch(f"/api/user/rank/{THM_USER}")
+          badges_data = thm_fetch(f"/api/user/badges/{THM_USER}")
+
+          with open("logs/platform-stats.md", "a") as f:
+              f.write("## TryHackMe · webstyr\n\n")
+              f.write(f"[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/{THM_USER}.png)](https://tryhackme.com/p/{THM_USER})\n\n")
+
+              f.write("| Metric | Value |\n|--------|-------|\n")
+
+              if rank_data:
+                  f.write(f"| Global Rank | #{rank_data.get('globalRank', 'N/A')} |\n")
+                  f.write(f"| Points | {rank_data.get('points', 'N/A')} |\n")
+                  f.write(f"| Rooms Completed | {rank_data.get('completedRooms', 'N/A')} |\n")
+                  f.write(f"| Country Rank | #{rank_data.get('countryRank', 'N/A')} |\n")
+              else:
+                  f.write("| Status | Profile fetched via badge |\n")
+
+              badge_count = len(badges_data) if isinstance(badges_data, list) else "N/A"
+              f.write(f"| Badges | {badge_count} |\n\n")
+
+          # ── HackerOne ──────────────────────────────────────────────
+          H1_USER = "webstyr"
+
+          def h1_scrape():
+              url = f"https://hackerone.com/{H1_USER}"
+              req = urllib.request.Request(url, headers={
+                  "User-Agent": "Mozilla/5.0 (compatible; webstyr-bot/1.0)",
+                  "Accept": "text/html",
+              })
+              try:
+                  with urllib.request.urlopen(req, timeout=15) as r:
+                      return r.read().decode("utf-8", errors="ignore")
+              except Exception:
+                  return ""
+
+          page = h1_scrape()
+
+          def extract(pattern, text, default="N/A"):
+              m = re.search(pattern, text)
+              return html.unescape(m.group(1)).strip() if m else default
+
+          reputation = extract(r'"reputation"[:\s]+(\d+)', page)
+          signal     = extract(r'"signal"[:\s]+([\d.]+)', page)
+          impact     = extract(r'"impact"[:\s]+([\d.]+)', page)
+          rank       = extract(r'"rank"[:\s]+(\d+)', page)
+
+          with open("logs/platform-stats.md", "a") as f:
+              f.write("## HackerOne · webstyr\n\n")
+              f.write(f"[![HackerOne](https://img.shields.io/badge/HackerOne-webstyr-ff6633?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/{H1_USER})\n\n")
+              f.write("| Metric | Value |\n|--------|-------|\n")
+              f.write(f"| Reputation | {reputation} |\n")
+              f.write(f"| Signal | {signal} |\n")
+              f.write(f"| Impact | {impact} |\n")
+              f.write(f"| Rank | #{rank} |\n\n")
+
+          with open("logs/platform-stats.md", "a") as f:
+              f.write("---\n")
+              f.write(f"*Sources: [TryHackMe](https://tryhackme.com/p/webstyr) · [HackerOne](https://hackerone.com/webstyr)*\n")
+          PYEOF
+
+      - name: Commit platform stats
+        run: |
+          git config user.name "webstyr-bot"
+          git config user.email "achwasonga@gmail.com"
+          git add logs/platform-stats.md
+          git diff --staged --quiet || git commit -m "chore(stats): daily platform update $(date -u +%Y-%m-%d)"
+          git push

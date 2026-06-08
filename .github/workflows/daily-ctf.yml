@@ -1,0 +1,91 @@
+name: Daily CTF Challenge
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-ctf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch CTF challenge from CTFtime
+        run: |
+          mkdir -p logs
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+
+          # Fetch upcoming events from CTFtime API
+          RESPONSE=$(curl -s --max-time 30 \
+            "https://ctftime.org/api/v1/events/?limit=10&start=$(date +%s)" \
+            -H "User-Agent: webstyr-ctf-tracker/1.0")
+
+          cat > logs/ctf-challenge.md << 'HEADER'
+          # CTF Challenge of the Day
+          HEADER
+
+          echo "" >> logs/ctf-challenge.md
+          echo "> Auto-fetched daily from CTFtime · Last updated: $TIME" >> logs/ctf-challenge.md
+          echo "" >> logs/ctf-challenge.md
+
+          echo "$RESPONSE" | python3 - << 'PYEOF'
+          import sys, json, random, datetime
+
+          try:
+              events = json.load(sys.stdin)
+          except Exception:
+              events = []
+
+          with open("logs/ctf-challenge.md", "a") as f:
+              if events:
+                  # Pick a random event from the list
+                  e = random.choice(events[:10]) if len(events) >= 10 else events[0]
+                  title    = e.get("title", "Unknown CTF")
+                  url      = e.get("url", e.get("ctftime_url", "#"))
+                  desc     = e.get("description", "No description available.")
+                  desc     = (desc[:300] + "...") if len(desc) > 300 else desc
+                  fmt      = e.get("format", "Unknown")
+                  weight   = e.get("weight", "N/A")
+                  start    = e.get("start", "")[:10]
+                  finish   = e.get("finish", "")[:10]
+                  org      = e.get("organizers", [{}])
+                  org_name = org[0].get("name", "Unknown") if org else "Unknown"
+
+                  f.write(f"## [{title}]({url})\n\n")
+                  f.write(f"| Field | Value |\n|-------|-------|\n")
+                  f.write(f"| Format | {fmt} |\n")
+                  f.write(f"| Weight | {weight} |\n")
+                  f.write(f"| Organizer | {org_name} |\n")
+                  f.write(f"| Start | {start} |\n")
+                  f.write(f"| End | {finish} |\n\n")
+                  f.write(f"### Description\n\n{desc}\n\n")
+              else:
+                  # Fallback: curated challenge list
+                  challenges = [
+                      ("Pwn College", "https://pwn.college", "Binary exploitation and system security", "pwn/re"),
+                      ("PicoCTF", "https://picoctf.org", "Beginner-friendly challenges across all categories", "misc"),
+                      ("HackTheBox", "https://hackthebox.com", "Real-world penetration testing labs", "web/pwn/re"),
+                      ("OverTheWire: Bandit", "https://overthewire.org/wargames/bandit/", "Linux fundamentals via wargame", "linux"),
+                      ("CryptoHack", "https://cryptohack.org", "Cryptography challenges", "crypto"),
+                  ]
+                  c = random.choice(challenges)
+                  f.write(f"## [{c[0]}]({c[1]})\n\n")
+                  f.write(f"| Field | Value |\n|-------|-------|\n")
+                  f.write(f"| Category | {c[3]} |\n\n")
+                  f.write(f"### Description\n\n{c[2]}\n\n")
+
+          f_tail = open("logs/ctf-challenge.md", "a")
+          f_tail.write("---\n")
+          f_tail.write("*Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*\n")
+          f_tail.close()
+          PYEOF
+
+      - name: Commit CTF challenge
+        run: |
+          git config user.name "webstyr-bot"
+          git config user.email "achwasonga@gmail.com"
+          git add logs/ctf-challenge.md
+          git diff --staged --quiet || git commit -m "chore(ctf): daily challenge update $(date -u +%Y-%m-%d)"
+          git push

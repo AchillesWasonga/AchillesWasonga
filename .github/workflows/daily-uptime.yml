@@ -1,0 +1,86 @@
+name: Daily Uptime Monitor
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+jobs:
+  check-uptime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check site uptime
+        run: |
+          mkdir -p logs
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+
+          check_site() {
+            local url=$1
+            local name=$2
+            local start=$(date +%s%3N)
+            local response=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 --connect-timeout 10 "$url")
+            local end=$(date +%s%3N)
+            local latency=$((end - start))
+
+            if [ "$response" -ge 200 ] && [ "$response" -lt 400 ]; then
+              echo "| [$name]($url) | ✅ UP | $response | ${latency}ms |"
+            else
+              echo "| [$name]($url) | ❌ DOWN | $response | ${latency}ms |"
+            fi
+          }
+
+          cat > logs/uptime.md << EOF
+          # Uptime Monitor — $DATE
+
+          > Auto-checked daily · Last updated: $TIME
+
+          | Site | Status | HTTP Code | Latency |
+          |------|--------|-----------|---------|
+          EOF
+
+          check_site "https://wasonga.com"        "wasonga.com"        >> logs/uptime.md
+          check_site "https://campdevoices.org"   "campdevoices.org"   >> logs/uptime.md
+          check_site "https://wasongaallan.com"   "wasongaallan.com"   >> logs/uptime.md
+
+          cat >> logs/uptime.md << EOF
+
+          ## History
+
+          EOF
+
+          # Append today's result to history log
+          RESULTS=""
+          for url in "https://wasonga.com" "https://campdevoices.org" "https://wasongaallan.com"; do
+            code=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 "$url")
+            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
+              RESULTS="$RESULTS ✅"
+            else
+              RESULTS="$RESULTS ❌"
+            fi
+          done
+
+          echo "| $DATE | $RESULTS |" >> logs/uptime-history.md 2>/dev/null || true
+
+          # Build history section
+          if [ -f logs/uptime-history.md ]; then
+            echo "| Date | wasonga.com | campdevoices.org | wasongaallan.com |" >> logs/uptime.md
+            echo "|------|-------------|------------------|------------------|" >> logs/uptime.md
+            tail -30 logs/uptime-history.md >> logs/uptime.md
+          fi
+
+          cat >> logs/uptime.md << 'EOF'
+
+          ---
+          *Monitored by webstyr-bot · checks run daily at 10:00 UTC*
+          EOF
+
+      - name: Commit uptime log
+        run: |
+          git config user.name "webstyr-bot"
+          git config user.email "achwasonga@gmail.com"
+          git add logs/uptime.md logs/uptime-history.md
+          git diff --staged --quiet || git commit -m "chore(uptime): daily check $(date -u +%Y-%m-%d)"
+          git push

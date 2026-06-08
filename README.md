@@ -106,7 +106,42 @@
 <p align="center"><img src="./arc-reactor.svg" width="60" alt="arc reactor"/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=999999&color=7AD9FF&center=true&vCenter=true&width=500&lines=%E2%96%BE+TRANSMISSION_04+%3A%3A+COMMS" alt="COMMS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=999999&color=7AD9FF&center=true&vCenter=true&width=500&lines=%E2%96%BE+TRANSMISSION_04+%3A%3A+PLATFORMS" alt="PLATFORMS"/>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/webstyr">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/webstyr.png" alt="TryHackMe"/>
+  </a>
+  &nbsp;
+  <a href="https://hackerone.com/webstyr">
+    <img src="https://img.shields.io/badge/HackerOne-webstyr-ff6633?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="./logs/platform-stats.md">
+    <img src="https://img.shields.io/badge/Platform_Stats-view_log-7ad9ff?style=flat-square&labelColor=050818" alt="Platform stats log"/>
+  </a>
+  <a href="./logs/cve-feed.md">
+    <img src="https://img.shields.io/badge/CVE_Feed-daily-ff6b35?style=flat-square&labelColor=050818" alt="CVE feed"/>
+  </a>
+  <a href="./logs/uptime.md">
+    <img src="https://img.shields.io/badge/Uptime_Monitor-live-39ff14?style=flat-square&labelColor=050818" alt="Uptime"/>
+  </a>
+  <a href="./logs/research.md">
+    <img src="https://img.shields.io/badge/Research_Digest-daily-7ad9ff?style=flat-square&labelColor=050818" alt="Research"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="./divider.svg" alt="divider" width="800"/>
+</p>
+
+<p align="center"><img src="./arc-reactor.svg" width="60" alt="arc reactor"/></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=999999&color=7AD9FF&center=true&vCenter=true&width=500&lines=%E2%96%BE+TRANSMISSION_05+%3A%3A+COMMS" alt="COMMS"/>
 </p>
 
 <p align="center">

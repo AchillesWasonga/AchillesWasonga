@@ -1,0 +1,75 @@
+name: Daily CVE Feed
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-cves:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch top CVEs from NVD
+        run: |
+          mkdir -p logs
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+
+          # Fetch recent critical/high CVEs from NVD API v2
+          RESPONSE=$(curl -s --max-time 30 \
+            "https://services.nvd.nist.gov/rest/json/cves/2.0?cvssV3Severity=CRITICAL&resultsPerPage=10&startIndex=0" \
+            -H "Accept: application/json")
+
+          cat > logs/cve-feed.md << EOF
+          # CVE Feed — $DATE
+
+          > Auto-fetched daily from NVD · Last updated: $TIME
+
+          | CVE ID | Description | CVSS Score | Published |
+          |--------|-------------|------------|-----------|
+          EOF
+
+          echo "$RESPONSE" | python3 - << 'PYEOF'
+          import sys, json, textwrap
+
+          data = json.load(sys.stdin)
+          vulns = data.get("vulnerabilities", [])
+
+          with open("logs/cve-feed.md", "a") as f:
+              for v in vulns:
+                  cve = v.get("cve", {})
+                  cve_id = cve.get("id", "N/A")
+                  published = cve.get("published", "")[:10]
+                  descs = cve.get("descriptions", [])
+                  desc = next((d["value"] for d in descs if d["lang"] == "en"), "No description")
+                  desc = (desc[:120] + "...") if len(desc) > 120 else desc
+                  desc = desc.replace("|", "\\|")
+
+                  metrics = cve.get("metrics", {})
+                  score = "N/A"
+                  for key in ["cvssMetricV31", "cvssMetricV30", "cvssMetricV2"]:
+                      if key in metrics and metrics[key]:
+                          score = metrics[key][0].get("cvssData", {}).get("baseScore", "N/A")
+                          break
+
+                  f.write(f"| [{cve_id}](https://nvd.nist.gov/vuln/detail/{cve_id}) | {desc} | {score} | {published} |\n")
+
+              if not vulns:
+                  f.write("| — | No data returned from NVD | — | — |\n")
+          PYEOF
+
+          cat >> logs/cve-feed.md << EOF
+
+          ---
+          *Sources: [NVD](https://nvd.nist.gov/) · [CVE.org](https://www.cve.org/)*
+          EOF
+
+      - name: Commit CVE feed
+        run: |
+          git config user.name "webstyr-bot"
+          git config user.email "achwasonga@gmail.com"
+          git add logs/cve-feed.md
+          git diff --staged --quiet || git commit -m "chore(cve): daily feed update $(date -u +%Y-%m-%d)"
+          git push
