@@ -15,39 +15,54 @@ lines = [
 ]
 
 # ── TryHackMe ──────────────────────────────────────────────────────────────
-lines += ["## TryHackMe · webstyr", "", f"[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/{THM_USER}.png)](https://tryhackme.com/p/{THM_USER})", ""]
+# THM blocks API calls from bots; badge image is the only reliable source.
+# Scrape the public profile page for stats instead.
+lines += [
+    "## TryHackMe · webstyr",
+    "",
+    f"[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/{THM_USER}.png)](https://tryhackme.com/p/{THM_USER})",
+    "",
+]
 
-def thm_fetch(path):
-    try:
-        req = urllib.request.Request(
-            f"https://tryhackme.com{path}",
-            headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
-        )
-        with urllib.request.urlopen(req, timeout=15) as r:
-            return json.load(r)
-    except Exception as e:
-        print(f"Warning: THM fetch {path} failed: {e}", file=sys.stderr)
-        return None
+try:
+    req = urllib.request.Request(
+        f"https://tryhackme.com/p/{THM_USER}",
+        headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        }
+    )
+    with urllib.request.urlopen(req, timeout=15) as r:
+        page = r.read().decode("utf-8", errors="ignore")
 
-rank_data   = thm_fetch(f"/api/user/rank/{THM_USER}")
-badges_data = thm_fetch(f"/api/user/badges/{THM_USER}")
+    def scrape(pattern, text, default="N/A"):
+        m = re.search(pattern, text)
+        return html.unescape(m.group(1)).strip() if m else default
 
-lines += ["| Metric | Value |", "|--------|-------|"]
-if rank_data:
+    rank   = scrape(r'"globalRank"\s*:\s*(\d+)', page)
+    points = scrape(r'"points"\s*:\s*(\d+)', page)
+    rooms  = scrape(r'"completedRooms"\s*:\s*(\d+)', page)
+    badges = scrape(r'"totalBadges"\s*:\s*(\d+)', page)
+
     lines += [
-        f"| Global Rank | #{rank_data.get('globalRank', 'N/A')} |",
-        f"| Points | {rank_data.get('points', 'N/A')} |",
-        f"| Rooms Completed | {rank_data.get('completedRooms', 'N/A')} |",
-        f"| Country Rank | #{rank_data.get('countryRank', 'N/A')} |",
+        "| Metric | Value |",
+        "|--------|-------|",
+        f"| Global Rank | #{rank} |",
+        f"| Points | {points} |",
+        f"| Rooms Completed | {rooms} |",
+        f"| Badges | {badges} |",
+        "",
     ]
-else:
-    lines.append("| Status | Profile fetched via badge |")
+except Exception as e:
+    print(f"Warning: THM scrape failed: {e}", file=sys.stderr)
+    lines += [
+        "| Metric | Value |",
+        "|--------|-------|",
+        "| Status | See badge above for live stats |",
+        "",
+    ]
 
-badge_count = len(badges_data) if isinstance(badges_data, list) else "N/A"
-lines.append(f"| Badges | {badge_count} |")
-lines.append("")
-
-# ── HackerOne ──────────────────────────────────────────────────────────────
+# ── HackerOne (public GraphQL API) ─────────────────────────────────────────
 lines += [
     "## HackerOne · webstyr",
     "",
@@ -56,33 +71,89 @@ lines += [
 ]
 
 try:
+    query = json.dumps({
+        "query": """
+        {
+          user(username: \"""" + H1_USER + """\") {
+            reputation
+            signal
+            impact
+            rank
+            hackerProfile {
+              bio
+              website
+            }
+          }
+        }
+        """
+    }).encode()
+
     req = urllib.request.Request(
-        f"https://hackerone.com/{H1_USER}",
-        headers={"User-Agent": "Mozilla/5.0", "Accept": "text/html"}
+        "https://hackerone.com/graphql",
+        data=query,
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+            "X-Requested-With": "XMLHttpRequest",
+        }
     )
     with urllib.request.urlopen(req, timeout=15) as r:
-        page = r.read().decode("utf-8", errors="ignore")
+        data = json.load(r)
+
+    user = data.get("data", {}).get("user", {}) or {}
+    reputation = user.get("reputation", "N/A")
+    signal     = user.get("signal", "N/A")
+    impact     = user.get("impact", "N/A")
+    rank       = user.get("rank", "N/A")
+
+    lines += [
+        "| Metric | Value |",
+        "|--------|-------|",
+        f"| Reputation | {reputation} |",
+        f"| Signal | {signal} |",
+        f"| Impact | {impact} |",
+        f"| Rank | #{rank} |",
+        "",
+    ]
 except Exception as e:
-    page = ""
-    print(f"Warning: H1 scrape failed: {e}", file=sys.stderr)
+    print(f"Warning: H1 GraphQL failed: {e}", file=sys.stderr)
+    # fallback: scrape public profile page
+    try:
+        req = urllib.request.Request(
+            f"https://hackerone.com/{H1_USER}",
+            headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+        )
+        with urllib.request.urlopen(req, timeout=15) as r:
+            page = r.read().decode("utf-8", errors="ignore")
 
-def extract(pattern, text, default="N/A"):
-    m = re.search(pattern, text)
-    return html.unescape(m.group(1)).strip() if m else default
+        def extract(pattern, text, default="N/A"):
+            m = re.search(pattern, text)
+            return html.unescape(m.group(1)).strip() if m else default
 
-reputation = extract(r'"reputation"[:\s]+(\d+)', page)
-signal     = extract(r'"signal"[:\s]+([\d.]+)', page)
-impact     = extract(r'"impact"[:\s]+([\d.]+)', page)
-rank       = extract(r'"rank"[:\s]+(\d+)', page)
+        reputation = extract(r'"reputation[_"]?\s*[":]+\s*(\d+)', page)
+        signal     = extract(r'"signal[_"]?\s*[":]+\s*([\d.]+)', page)
+        impact     = extract(r'"impact[_"]?\s*[":]+\s*([\d.]+)', page)
+        rank       = extract(r'"rank[_"]?\s*[":]+\s*(\d+)', page)
+
+        lines += [
+            "| Metric | Value |",
+            "|--------|-------|",
+            f"| Reputation | {reputation} |",
+            f"| Signal | {signal} |",
+            f"| Impact | {impact} |",
+            f"| Rank | #{rank} |",
+            "",
+        ]
+    except Exception as e2:
+        print(f"Warning: H1 scrape also failed: {e2}", file=sys.stderr)
+        lines += [
+            "| Metric | Value |",
+            "|--------|-------|",
+            f"| Profile | [hackerone.com/{H1_USER}](https://hackerone.com/{H1_USER}) |",
+            "",
+        ]
 
 lines += [
-    "| Metric | Value |",
-    "|--------|-------|",
-    f"| Reputation | {reputation} |",
-    f"| Signal | {signal} |",
-    f"| Impact | {impact} |",
-    f"| Rank | #{rank} |",
-    "",
     "---",
     f"*Sources: [TryHackMe](https://tryhackme.com/p/{THM_USER}) · [HackerOne](https://hackerone.com/{H1_USER})*",
 ]

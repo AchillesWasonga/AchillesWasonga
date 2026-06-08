@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check site uptime
         run: |
@@ -69,7 +71,6 @@ jobs:
         run: |
           git config user.name "webstyr-bot"
           git config user.email "achwasonga@gmail.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add logs/uptime.md logs/uptime-history.md
           git diff --staged --quiet || git commit -m "chore(uptime): daily check $(date -u +%Y-%m-%d)"
           git push

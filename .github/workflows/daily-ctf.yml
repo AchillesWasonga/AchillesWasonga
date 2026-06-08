@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch CTF challenge
         run: python3 scripts/fetch_ctf.py
@@ -18,7 +20,6 @@ jobs:
         run: |
           git config user.name "webstyr-bot"
           git config user.email "achwasonga@gmail.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add logs/ctf-challenge.md
           git diff --staged --quiet || git commit -m "chore(ctf): daily challenge update $(date -u +%Y-%m-%d)"
           git push
