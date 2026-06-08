@@ -1,5 +1,26 @@
-# Platform Stats
+# Platform Stats — 2026-06-08
 
-> Populated daily by `webstyr-bot` · Trigger the `Daily Platform Stats` workflow to load data.
+> Auto-fetched daily · Last updated: 21:37 UTC
 
-Run the workflow from the Actions tab to populate.
+## TryHackMe · webstyr
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/webstyr.png)](https://tryhackme.com/p/webstyr)
+
+| Metric | Value |
+|--------|-------|
+| Status | Profile fetched via badge |
+| Badges | N/A |
+
+## HackerOne · webstyr
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-webstyr-ff6633?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/webstyr)
+
+| Metric | Value |
+|--------|-------|
+| Reputation | N/A |
+| Signal | N/A |
+| Impact | N/A |
+| Rank | #N/A |
+
+---
+*Sources: [TryHackMe](https://tryhackme.com/p/webstyr) · [HackerOne](https://hackerone.com/webstyr)*

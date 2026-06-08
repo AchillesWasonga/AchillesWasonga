@@ -11,124 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch security research from HN + arXiv
-        run: |
-          mkdir -p logs
-          DATE=$(date -u +"%Y-%m-%d")
-          TIME=$(date -u +"%H:%M UTC")
+      - name: Fetch security research
+        run: python3 scripts/fetch_research.py
 
-          cat > logs/research.md << EOF
-          # Security Research — $DATE
-
-          > Auto-fetched daily from Hacker News & arXiv · Last updated: $TIME
-
-          EOF
-
-          # --- Hacker News: top security stories ---
-          echo "## Hacker News · Security & Hacking" >> logs/research.md
-          echo "" >> logs/research.md
-          echo "| Title | Points | Comments |" >> logs/research.md
-          echo "|-------|--------|----------|" >> logs/research.md
-
-          python3 << 'PYEOF'
-          import urllib.request, json, re
-
-          SECURITY_TERMS = [
-              "exploit", "vulnerability", "CVE", "hack", "malware", "ransomware",
-              "phishing", "zero-day", "0day", "pentest", "pentesting", "injection",
-              "XSS", "SQL", "RCE", "LLM", "AI security", "reverse engineer",
-              "cryptography", "encryption", "breach", "threat", "attack", "payload",
-              "shellcode", "privilege", "escalation", "lateral movement", "red team",
-              "blue team", "OSINT", "recon", "bug bounty", "CTF", "capture the flag",
-          ]
-
-          try:
-              with urllib.request.urlopen("https://hacker-news.firebaseio.com/v0/topstories.json", timeout=15) as r:
-                  story_ids = json.load(r)[:80]
-
-              stories = []
-              for sid in story_ids:
-                  try:
-                      with urllib.request.urlopen(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json", timeout=10) as r:
-                          s = json.load(r)
-                          title = s.get("title", "")
-                          if any(t.lower() in title.lower() for t in SECURITY_TERMS):
-                              stories.append(s)
-                      if len(stories) >= 8:
-                          break
-                  except Exception:
-                      continue
-
-              with open("logs/research.md", "a") as f:
-                  if stories:
-                      for s in stories:
-                          title   = s.get("title", "N/A").replace("|", "\\|")
-                          url     = s.get("url", f"https://news.ycombinator.com/item?id={s.get('id')}")
-                          points  = s.get("score", 0)
-                          comments = s.get("descendants", 0)
-                          f.write(f"| [{title}]({url}) | {points} | {comments} |\n")
-                  else:
-                      f.write("| No security stories in top 80 today | — | — |\n")
-          except Exception as e:
-              with open("logs/research.md", "a") as f:
-                  f.write(f"| Error fetching HN: {e} | — | — |\n")
-          PYEOF
-
-          # --- arXiv: latest security/AI papers ---
-          echo "" >> logs/research.md
-          echo "## arXiv · Latest Papers (cs.CR + cs.AI)" >> logs/research.md
-          echo "" >> logs/research.md
-          echo "| Title | Authors | Published |" >> logs/research.md
-          echo "|-------|---------|-----------|" >> logs/research.md
-
-          python3 << 'PYEOF'
-          import urllib.request, xml.etree.ElementTree as ET
-
-          NS = "http://www.w3.org/2005/Atom"
-
-          def fetch_arxiv(category, max_results=5):
-              url = (
-                  f"https://export.arxiv.org/api/query?"
-                  f"search_query=cat:{category}&sortBy=submittedDate"
-                  f"&sortOrder=descending&max_results={max_results}"
-              )
-              try:
-                  with urllib.request.urlopen(url, timeout=20) as r:
-                      return ET.parse(r)
-              except Exception:
-                  return None
-
-          entries = []
-          for cat in ["cs.CR", "cs.AI"]:
-              tree = fetch_arxiv(cat, 4)
-              if tree:
-                  for entry in tree.findall(f"{{{NS}}}entry"):
-                      title   = (entry.findtext(f"{{{NS}}}title") or "").replace("\n", " ").strip()
-                      link    = entry.findtext(f"{{{NS}}}id", "").strip()
-                      published = (entry.findtext(f"{{{NS}}}published") or "")[:10]
-                      authors = [a.findtext(f"{{{NS}}}name") for a in entry.findall(f"{{{NS}}}author")]
-                      author_str = ", ".join(authors[:2]) + (" et al." if len(authors) > 2 else "")
-                      entries.append((title, link, author_str, published))
-
-          with open("logs/research.md", "a") as f:
-              for title, link, authors, published in entries[:8]:
-                  t = title.replace("|", "\\|")
-                  a = authors.replace("|", "\\|")
-                  f.write(f"| [{t}]({link}) | {a} | {published} |\n")
-              if not entries:
-                  f.write("| Could not fetch arXiv papers | — | — |\n")
-          PYEOF
-
-          cat >> logs/research.md << 'EOF'
-
-          ---
-          *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
-          EOF
-
-      - name: Commit research log
+      - name: Commit and push
         run: |
           git config user.name "webstyr-bot"
           git config user.email "achwasonga@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add logs/research.md
           git diff --staged --quiet || git commit -m "chore(research): daily security digest $(date -u +%Y-%m-%d)"
           git push

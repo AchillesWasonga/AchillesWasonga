@@ -21,66 +21,55 @@ jobs:
             local url=$1
             local name=$2
             local start=$(date +%s%3N)
-            local response=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 --connect-timeout 10 "$url")
+            local code=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 --connect-timeout 10 "$url")
             local end=$(date +%s%3N)
-            local latency=$((end - start))
-
-            if [ "$response" -ge 200 ] && [ "$response" -lt 400 ]; then
-              echo "| [$name]($url) | ✅ UP | $response | ${latency}ms |"
+            local ms=$((end - start))
+            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
+              echo "| [$name]($url) | UP | $code | ${ms}ms |"
             else
-              echo "| [$name]($url) | ❌ DOWN | $response | ${latency}ms |"
+              echo "| [$name]($url) | DOWN | $code | ${ms}ms |"
             fi
           }
 
-          cat > logs/uptime.md << EOF
-          # Uptime Monitor — $DATE
+          {
+            echo "# Uptime Monitor — $DATE"
+            echo ""
+            echo "> Auto-checked daily · Last updated: $TIME"
+            echo ""
+            echo "| Site | Status | HTTP | Latency |"
+            echo "|------|--------|------|---------|"
+            check_site "https://wasonga.com"      "wasonga.com"
+            check_site "https://campdevoices.org" "campdevoices.org"
+            check_site "https://wasongaallan.com" "wasongaallan.com"
+            echo ""
+            echo "## History"
+            echo ""
+            echo "| Date | wasonga.com | campdevoices.org | wasongaallan.com |"
+            echo "|------|-------------|------------------|------------------|"
+          } > logs/uptime.md
 
-          > Auto-checked daily · Last updated: $TIME
-
-          | Site | Status | HTTP Code | Latency |
-          |------|--------|-----------|---------|
-          EOF
-
-          check_site "https://wasonga.com"        "wasonga.com"        >> logs/uptime.md
-          check_site "https://campdevoices.org"   "campdevoices.org"   >> logs/uptime.md
-          check_site "https://wasongaallan.com"   "wasongaallan.com"   >> logs/uptime.md
-
-          cat >> logs/uptime.md << EOF
-
-          ## History
-
-          EOF
-
-          # Append today's result to history log
-          RESULTS=""
+          ROW="| $DATE"
           for url in "https://wasonga.com" "https://campdevoices.org" "https://wasongaallan.com"; do
             code=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 "$url")
             if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
-              RESULTS="$RESULTS ✅"
+              ROW="$ROW | UP"
             else
-              RESULTS="$RESULTS ❌"
+              ROW="$ROW | DOWN"
             fi
           done
+          echo "$ROW |" >> logs/uptime-history.md
 
-          echo "| $DATE | $RESULTS |" >> logs/uptime-history.md 2>/dev/null || true
+          tail -30 logs/uptime-history.md >> logs/uptime.md
 
-          # Build history section
-          if [ -f logs/uptime-history.md ]; then
-            echo "| Date | wasonga.com | campdevoices.org | wasongaallan.com |" >> logs/uptime.md
-            echo "|------|-------------|------------------|------------------|" >> logs/uptime.md
-            tail -30 logs/uptime-history.md >> logs/uptime.md
-          fi
+          echo "" >> logs/uptime.md
+          echo "---" >> logs/uptime.md
+          echo "*Monitored by webstyr-bot · checks run daily at 10:00 UTC*" >> logs/uptime.md
 
-          cat >> logs/uptime.md << 'EOF'
-
-          ---
-          *Monitored by webstyr-bot · checks run daily at 10:00 UTC*
-          EOF
-
-      - name: Commit uptime log
+      - name: Commit and push
         run: |
           git config user.name "webstyr-bot"
           git config user.email "achwasonga@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add logs/uptime.md logs/uptime-history.md
           git diff --staged --quiet || git commit -m "chore(uptime): daily check $(date -u +%Y-%m-%d)"
           git push
