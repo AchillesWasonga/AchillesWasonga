@@ -1,22 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 21:37 UTC
+> Auto-fetched daily from CTFtime · Last updated: 21:57 UTC
 
-## [boroCTF 2026](https://boroctf.com/)
+## [RIFFHACK: Black Market Break-In](http://riffhack.biterra.co/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | KyteBytes |
-| Start | 2026-06-12 |
-| End | 2026-06-16 |
+| Weight | 0 |
+| Organizer | Biterra |
+| Start | 2026-06-19 |
+| End | 2026-06-22 |
 
 ### Description
 
-NOTE: Only High School students are eligible for prizes. Others can compete in the open division for bragging rights :)
+Outsmart the marketplace and bag the flags.
 
-boroCTF is a Capture-the-Flag competition specifically designed to raise awareness about cybersecurity. Our challenges are made to be more interesting and unique, rather than yo...
+Small beginner CTF.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
