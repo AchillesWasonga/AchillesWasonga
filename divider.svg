@@ -1,66 +1,61 @@
 <svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      @keyframes pulse-line {
-        0%   { stroke-dashoffset: 800; opacity: 0.3; }
-        50%  { opacity: 1; }
-        100% { stroke-dashoffset: 0;   opacity: 0.3; }
-      }
-      @keyframes pulse-line2 {
-        0%   { stroke-dashoffset: 0;   opacity: 0.2; }
-        50%  { opacity: 0.7; }
-        100% { stroke-dashoffset: 800; opacity: 0.2; }
-      }
-      @keyframes glow-dot {
-        0%, 100% { opacity: 0.4; r: 2; }
-        50%       { opacity: 1;   r: 3; }
-      }
-      .trace1 { animation: pulse-line  3s ease-in-out infinite; }
-      .trace2 { animation: pulse-line2 3s ease-in-out infinite; }
-      .dot    { animation: glow-dot    2s ease-in-out infinite; fill: #00d4ff; }
-    </style>
-    <filter id="lineglow">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="lg">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- flat baseline -->
-  <line x1="0" y1="15" x2="160" y2="15" stroke="#0d2a40" stroke-width="0.8"/>
-
-  <!-- oscilloscope wave in the center -->
-  <polyline
-    points="160,15 180,15 190,4 200,26 210,4 220,26 230,15 250,15 265,10 275,20 285,15 310,15"
-    fill="none" stroke="#00d4ff" stroke-width="1.4"
-    stroke-dasharray="800" class="trace1"
-    filter="url(#lineglow)"/>
-
-  <!-- faint echo -->
-  <polyline
-    points="160,15 180,15 190,4 200,26 210,4 220,26 230,15 250,15 265,10 275,20 285,15 310,15"
-    fill="none" stroke="#7ad9ff" stroke-width="0.5"
-    stroke-dasharray="800" class="trace2"/>
-
-  <!-- flat continuation -->
+  <!-- flat baselines -->
+  <line x1="0"   y1="15" x2="160" y2="15" stroke="#0d2a40" stroke-width="0.8"/>
   <line x1="310" y1="15" x2="490" y2="15" stroke="#0d2a40" stroke-width="0.8"/>
-
-  <!-- second wave -->
-  <polyline
-    points="490,15 510,15 520,6 530,24 540,6 550,24 560,15 580,15 592,11 600,19 608,15 630,15"
-    fill="none" stroke="#00d4ff" stroke-width="1.4"
-    stroke-dasharray="800" class="trace1"
-    filter="url(#lineglow)"/>
-  <polyline
-    points="490,15 510,15 520,6 530,24 540,6 550,24 560,15 580,15 592,11 600,19 608,15 630,15"
-    fill="none" stroke="#7ad9ff" stroke-width="0.5"
-    stroke-dasharray="800" class="trace2"/>
-
-  <!-- flat end -->
   <line x1="630" y1="15" x2="800" y2="15" stroke="#0d2a40" stroke-width="0.8"/>
 
-  <!-- glowing dots at wave peaks -->
-  <circle cx="190" cy="4"  r="2" class="dot" style="animation-delay:0s"/>
-  <circle cx="210" cy="4"  r="2" class="dot" style="animation-delay:0.3s"/>
-  <circle cx="520" cy="6"  r="2" class="dot" style="animation-delay:0.6s"/>
-  <circle cx="540" cy="6"  r="2" class="dot" style="animation-delay:0.9s"/>
+  <!-- wave 1 primary trace -->
+  <polyline fill="none" stroke="#00d4ff" stroke-width="1.4"
+    points="160,15 180,15 190,4 200,26 210,4 220,26 230,15 250,15 265,10 275,20 285,15 310,15"
+    filter="url(#lg)">
+    <animate attributeName="stroke-dasharray" from="800 0" to="0 800" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- wave 1 echo -->
+  <polyline fill="none" stroke="#7ad9ff" stroke-width="0.5"
+    points="160,15 180,15 190,4 200,26 210,4 220,26 230,15 250,15 265,10 275,20 285,15 310,15">
+    <animate attributeName="stroke-dasharray" from="0 800" to="800 0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- wave 2 primary trace -->
+  <polyline fill="none" stroke="#00d4ff" stroke-width="1.4"
+    points="490,15 510,15 520,6 530,24 540,6 550,24 560,15 580,15 592,11 600,19 608,15 630,15"
+    filter="url(#lg)">
+    <animate attributeName="stroke-dasharray" from="800 0" to="0 800" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- wave 2 echo -->
+  <polyline fill="none" stroke="#7ad9ff" stroke-width="0.5"
+    points="490,15 510,15 520,6 530,24 540,6 550,24 560,15 580,15 592,11 600,19 608,15 630,15">
+    <animate attributeName="stroke-dasharray" from="0 800" to="800 0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- glowing peak dots -->
+  <circle cx="190" cy="4" fill="#00d4ff">
+    <animate attributeName="r"       values="2;3;2" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="210" cy="4" fill="#00d4ff">
+    <animate attributeName="r"       values="2;3;2" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="6" fill="#00d4ff">
+    <animate attributeName="r"       values="2;3;2" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="6" fill="#00d4ff">
+    <animate attributeName="r"       values="2;3;2" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
 </svg>

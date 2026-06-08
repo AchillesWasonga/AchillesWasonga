@@ -64,7 +64,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AchillesWasonga&show_icons=true&hide_border=true&bg_color=050818&title_color=7ad9ff&text_color=e0f4ff&icon_color=00d4ff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AchillesWasonga&hide_border=true&background=050818&stroke=1a3a5a&ring=00d4ff&fire=7ad9ff&currStreakLabel=7ad9ff&sideLabels=e0f4ff&dates=5a9fc4&currStreakNum=ffffff&sideNums=e0f4ff" alt="Streak stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=AchillesWasonga&hide_border=true&background=050818&stroke=1a3a5a&ring=00d4ff&fire=7ad9ff&currStreakLabel=7ad9ff&sideLabels=e0f4ff&dates=5a9fc4&currStreakNum=ffffff&sideNums=e0f4ff" alt="Streak stats"/>
 </p>
 
 <p align="center">
