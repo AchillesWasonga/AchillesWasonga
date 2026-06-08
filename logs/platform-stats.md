@@ -1,6 +1,6 @@
 # Platform Stats — 2026-06-08
 
-> Auto-fetched daily · Last updated: 21:37 UTC
+> Auto-fetched daily · Last updated: 21:58 UTC
 
 ## TryHackMe · webstyr
 
@@ -8,8 +8,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Status | Profile fetched via badge |
-| Badges | N/A |
+| Status | See badge above for live stats |
 
 ## HackerOne · webstyr
 
