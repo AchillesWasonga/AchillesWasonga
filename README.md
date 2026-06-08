@@ -29,11 +29,10 @@
 > whoami
 
   name        Achilles Wasonga
-  role        Security Engineer  @  Caid Technologies (NYC)
-  origin      Kibera & Kayole, Nairobi   →   Princeton   →   Washington Heights
-  build       Princeton CS · full-stack · cloud security
-  shipped     CloudMap  —  multi-cloud misconfiguration scanner (Python)
-  focus       offensive security · CAD/AI tooling · LLM eval
+  role        Security Engineer (NYC)
+  origin      Nairobi   →   Princeton   →   New York
+  build       Princeton CS · full-stack · cyber security . cloud . AR
+  focus       offensive security · cloud . CAD/AI tooling · LLM eval
 ```
 
 <p align="center"><img src="./arc-reactor.svg" width="70"/></p>
@@ -41,7 +40,7 @@
 <h2 align="center">▾ TRANSMISSION_02 :: ARSENAL</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,aws,linux,bash,docker,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,react,aws,azure,nodejs,postgres,linux,bash,metasploit,git&theme=dark"/>
 </p>
 
 <p align="center">
@@ -66,18 +65,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesWasonga&layout=compact&hide_border=true&bg_color=050818&title_color=7ad9ff&text_color=e0f4ff&langs_count=8"/>
 </p>
-
-<p align="center"><img src="./arc-reactor.svg" width="70"/></p>
-
-<h2 align="center">▾ TRANSMISSION_04 :: FEATURED MISSION</h2>
-
-<p align="center">
-  <a href="https://github.com/AchillesWasonga/CloudMap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchillesWasonga&repo=CloudMap&hide_border=true&bg_color=050818&title_color=7ad9ff&text_color=e0f4ff&icon_color=00d4ff"/>
-  </a>
-</p>
-
-<p align="center"><i>Open-source scanner for misconfigurations across AWS, GCP, and Azure.</i></p>
 
 <p align="center"><img src="./arc-reactor.svg" width="70"/></p>
 
