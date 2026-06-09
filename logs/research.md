@@ -1,32 +1,32 @@
-# Security Research — 2026-06-08
+# Security Research — 2026-06-09
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 21:37 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) | 113 | 12 |
-| [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/) | 118 | 19 |
-| [Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust](https://gitdot.io/) | 50 | 36 |
-| [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/) | 123 | 179 |
-| [Proliferate (YC S25) is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) | 1 | 0 |
-| [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) | 293 | 119 |
-| [Tiny hackable CUDA language model implementation](https://github.com/markusheimerl/gpt) | 75 | 13 |
-| [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/) | 294 | 70 |
+| [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) | 233 | 97 |
+| [Thi.ng – open-source building blocks for computational design and art](https://thi.ng) | 66 | 12 |
+| [Show HN: Gitdot – A better GitHub. Open-source, written in Rust](https://gitdot.io/) | 274 | 251 |
+| [Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) | 605 | 257 |
+| [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/) | 154 | 212 |
+| [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/) | 139 | 22 |
+| [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) | 299 | 121 |
+| [Tiny hackable CUDA language model implementation](https://github.com/markusheimerl/gpt) | 78 | 13 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Verifiable and Confidential DNN Inference on Low-End Edge Devices](http://arxiv.org/abs/2606.07470v1) | Mohamed Khalil Kiri, Ivan De Oliveira Nunes et al. | 2026-06-05 |
-| [Sort, Partition, Randomize: Optimal Binary Hypothesis Testing under Local Differential Privacy](http://arxiv.org/abs/2606.07443v1) | Elena Ghazi, Jawad Nasser et al. | 2026-06-05 |
-| [Lost in Migration: Exposing Android Framework Vulnerabilities in Parallel Java-Kotlin Implementations](http://arxiv.org/abs/2606.07420v1) | Rui Li, Wenrui Diao et al. | 2026-06-05 |
-| [An End-to-End Encrypted Control Pipeline for Multi-Agent Coordination via CKKS Homomorphic Encryption](http://arxiv.org/abs/2606.07375v1) | Sai Sandeep Damera, Maria Charitidou et al. | 2026-06-05 |
-| [How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1) | Luca Avena, Gianmarco Bet et al. | 2026-06-05 |
-| [MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](http://arxiv.org/abs/2606.07512v1) | Cong Chen, Guo Gan et al. | 2026-06-05 |
-| [Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](http://arxiv.org/abs/2606.07500v1) | Fatema Siddika, Md Anwar Hossen et al. | 2026-06-05 |
-| [Twelve quick tips for designing AI-driven HPC workflows](http://arxiv.org/abs/2606.07491v1) | Jamie J. Alnasir | 2026-06-05 |
+| [Human-Centred Risk Mitigation for AI-Mediated Information Manipulation: A SOCMINT Framework Based on Information Manipulation Sets](http://arxiv.org/abs/2606.09754v1) | Antonio Scala | 2026-06-08 |
+| [A Bell-State Extension of Loop-Back Quantum Key Distribution](http://arxiv.org/abs/2606.09723v1) | Luis Adrián Lizama-Pérez | 2026-06-08 |
+| [What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](http://arxiv.org/abs/2606.09700v1) | Qin Yang, Lu Malloy et al. | 2026-06-08 |
+| [Observability for Delegated Execution in Agentic AI Systems](http://arxiv.org/abs/2606.09692v1) | Abhinav Mishra, Kumar Sharad | 2026-06-08 |
+| [OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](http://arxiv.org/abs/2606.09826v1) | Mingxian Lin, Shengju Qian et al. | 2026-06-08 |
+| [An Agency-Transferring Model-Free Policy Enhancement Technique](http://arxiv.org/abs/2606.09825v1) | Anton Bolychev, Georgiy Malaniya et al. | 2026-06-08 |
+| [PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](http://arxiv.org/abs/2606.09816v1) | Danqi Zhuang, Jisui Huang et al. | 2026-06-08 |
+| [AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](http://arxiv.org/abs/2606.09811v1) | Jisong Cai, Long Ling et al. | 2026-06-08 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
