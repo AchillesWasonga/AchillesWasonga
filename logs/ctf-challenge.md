@@ -1,20 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:15 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:26 UTC
 
-## [Anti-Slop CTF 2026](https://ctf.antislopp.i.ng/)
+## [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | hackme |
-| Start | 2026-06-13 |
-| End | 2026-06-15 |
+| Organizer | NUSGreyhats |
+| Start | 2026-06-27 |
+| End | 2026-06-28 |
 
 ### Description
 
-This CTF is designed around anti-AI and unsloppable challenges that resist agent automation and low-effort guessing. The problems aim to reward careful reasoning, persistence, and creative human intuition rather than generic agentic tooling output. Some challenges may be difficult, but they are inte...
+Grey Cat The Flag is an annual CTF organized by NUS Greyhats, supported by National Cybersecurity R&D Labs (NCL).
+
+Top xx teams will continue to compete in Grey Cat The Flag finals in Singapore.
+
+Infra sponsored by goo.gle/ctfsponsorship
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
