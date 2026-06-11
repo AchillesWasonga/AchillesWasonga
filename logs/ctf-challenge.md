@@ -1,24 +1,23 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:26 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:32 UTC
 
-## [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)
+## [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | NUSGreyhats |
-| Start | 2026-06-27 |
-| End | 2026-06-28 |
+| Organizer | CyberSciOrganizers |
+| Start | 2026-06-13 |
+| End | 2026-06-14 |
 
 ### Description
 
-Grey Cat The Flag is an annual CTF organized by NUS Greyhats, supported by National Cybersecurity R&D Labs (NCL).
-
-Top xx teams will continue to compete in Grey Cat The Flag finals in Singapore.
-
-Infra sponsored by goo.gle/ctfsponsorship
+CyberSci is Canada's national Cyber Security Challenge for university and college students.
+- Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world.
+- Just starting out? This is the best way to learn and rise to the top.
+- A...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
