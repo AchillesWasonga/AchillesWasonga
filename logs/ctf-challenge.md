@@ -1,23 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:32 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:30 UTC
 
-## [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)
+## [BCACTF 7.0](https://www.bcactf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | CyberSciOrganizers |
-| Start | 2026-06-13 |
-| End | 2026-06-14 |
+| Weight | 65.05 |
+| Organizer | Bing Chilling Academies |
+| Start | 2026-06-19 |
+| End | 2026-06-22 |
 
 ### Description
 
-CyberSci is Canada's national Cyber Security Challenge for university and college students.
-- Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world.
-- Just starting out? This is the best way to learn and rise to the top.
-- A...
+Welcome to BCACTF 7.0!!!
+
+Returning for the seventh year in a row, this highschool CTF from the Bergen County Academies presents challenges in a variety of difficulties targeting everyone from beginners to CTF veterans!
+
+Infra sponsored by goo.gle/ctfsponsorship.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
