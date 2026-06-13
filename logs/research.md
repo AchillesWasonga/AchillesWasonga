@@ -1,19 +1,19 @@
-# Security Research — 2026-06-12
+# Security Research — 2026-06-13
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:05 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:36 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) | 509 | 281 |
-| [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | 43 | 4 |
-| [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/) | 41 | 10 |
-| [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) | 281 | 118 |
-| [How a new DSL may survive in the era of LLMs](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms) | 47 | 16 |
-| [MTG Bench: Testing how well LLMs can play Magic](https://mtgautodeck.com/articles/mtg-bench/) | 58 | 30 |
-| [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) | 72 | 8 |
-| [Codex for Open Source](https://openai.com/form/codex-for-oss/) | 40 | 1 |
+| [Open source AI must win](https://opensourceaimustwin.com/?share=v2) | 1035 | 320 |
+| [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) | 229 | 140 |
+| [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) | 404 | 222 |
+| [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra) | 43 | 8 |
+| [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | 431 | 226 |
+| [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/) | 98 | 28 |
+| [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment) | 14 | 1 |
+| [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) | 549 | 307 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
