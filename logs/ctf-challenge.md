@@ -1,24 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:30 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:00 UTC
 
-## [BCACTF 7.0](https://www.bcactf.com/)
+## [SCTF 2026](https://sctf2026.xctf.org.cn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 65.05 |
-| Organizer | Bing Chilling Academies |
-| Start | 2026-06-19 |
-| End | 2026-06-22 |
+| Weight | 0.0 |
+| Organizer | Syclover |
+| Start | 2026-06-14 |
+| End | 2026-06-15 |
 
 ### Description
 
-Welcome to BCACTF 7.0!!!
-
-Returning for the seventh year in a row, this highschool CTF from the Bergen County Academies presents challenges in a variety of difficulties targeting everyone from beginners to CTF veterans!
-
-Infra sponsored by goo.gle/ctfsponsorship.
+SCTF 2026 is a Jeopardy-style Online Capture The Flag Competition presented by Team Syclover from Chengdu University of Information Technology. The contest is open to all participants around the world. Teams can compete from any location. No restriction on the number of participants of any team.
+Th...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
