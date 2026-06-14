@@ -1,19 +1,18 @@
-# Security Research — 2026-06-13
+# Security Research — 2026-06-14
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:36 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:41 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Open source AI must win](https://opensourceaimustwin.com/?share=v2) | 1035 | 320 |
-| [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) | 229 | 140 |
-| [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) | 404 | 222 |
-| [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra) | 43 | 8 |
-| [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | 431 | 226 |
-| [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/) | 98 | 28 |
-| [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment) | 14 | 1 |
-| [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) | 549 | 307 |
+| [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/) | 181 | 33 |
+| [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon) | 97 | 44 |
+| [Codex for open source](https://openai.com/form/codex-for-oss/) | 239 | 99 |
+| [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500) | 300 | 188 |
+| [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) | 454 | 236 |
+| [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra) | 72 | 11 |
+| [Open source AI must win](https://opensourceaimustwin.com/?share=v2) | 1539 | 467 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
