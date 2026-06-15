@@ -1,6 +1,6 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:10 UTC
+> Auto-fetched daily from CTFtime · Last updated: 11:03 UTC
 
 ## [Google Capture The Flag 2026](https://g.co/ctf)
 
