@@ -1,32 +1,32 @@
-# Security Research — 2026-06-15
+# Security Research — 2026-06-16
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 13:03 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:35 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) | 34 | 19 |
-| [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) | 530 | 213 |
-| [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) | 369 | 194 |
-| [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/) | 126 | 27 |
-| [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/) | 63 | 34 |
-| [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/) | 351 | 73 |
-| [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon) | 156 | 61 |
-| [Codex for open source](https://openai.com/form/codex-for-oss/) | 270 | 116 |
+| [I hacked into the worst e-bike and fixed it [video]](https://www.youtube.com/watch?v=hPrtVGimBYs) | 114 | 52 |
+| [Salesforce to Acquire Fin (formerly Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) | 318 | 232 |
+| [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) | 136 | 185 |
+| [Micro Radar: a tiny open-source flight radar for your desk](https://github.com/AnthonySturdy/micro-radar) | 30 | 6 |
+| [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html) | 42 | 4 |
+| [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) | 769 | 308 |
+| [Vance: Iran can have access to $300B reconstruction fund](https://thehill.com/homenews/administration/5924963-vance-iran-300b-reconstruction-fund/) | 71 | 44 |
+| [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/) | 100 | 93 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks](http://arxiv.org/abs/2606.14629v1) | Jianzhe Lin | 2026-06-12 |
-| [Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures](http://arxiv.org/abs/2606.14554v1) | Shawn M. Reynolds, Hassan Reza | 2026-06-12 |
-| [Detecting Bot Detection: Prevalence, Techniques, and Implications for Web Measurement Research](http://arxiv.org/abs/2606.14525v1) | Ralf Gundelach, Michael Mühlhauser et al. | 2026-06-12 |
-| [From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails](http://arxiv.org/abs/2606.14517v1) | Yuguang Zhou, Xunguang Wang et al. | 2026-06-12 |
-| [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](http://arxiv.org/abs/2606.14697v1) | Sicheng Yang, Hangjie Yuan et al. | 2026-06-12 |
-| [Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2606.14693v1) | Pengxin Wang, Lihao Guo et al. | 2026-06-12 |
-| [Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit](http://arxiv.org/abs/2606.14688v1) | Xiaoyu Li, Andi Han et al. | 2026-06-12 |
-| [CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification](http://arxiv.org/abs/2606.14686v1) | Rafi Ahamed, Md. Abir Rahman et al. | 2026-06-12 |
+| [Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](http://arxiv.org/abs/2606.17035v1) | Xiaolin Li, Ning Wang et al. | 2026-06-15 |
+| [Di5Guise: 5G Privacy with vSIM](http://arxiv.org/abs/2606.16943v1) | Shirin Ebadi, Zach Moolman et al. | 2026-06-15 |
+| [The Ghosts of Polymarket: When Off-Chain Matches Meet On-Chain Reverts](http://arxiv.org/abs/2606.16852v1) | Yiming Shen, Yuhan Jin et al. | 2026-06-15 |
+| [How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation](http://arxiv.org/abs/2606.16821v1) | Yimeng Chen, Zhe Ren et al. | 2026-06-15 |
+| [The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers](http://arxiv.org/abs/2606.17037v1) | Alper Yıldırım | 2026-06-15 |
+| [HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](http://arxiv.org/abs/2606.17028v1) | Alper Yıldırım | 2026-06-15 |
+| [FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](http://arxiv.org/abs/2606.17020v1) | Jiaju Han, Ben Zhang et al. | 2026-06-15 |
+| [TokenPilot: Cache-Efficient Context Management for LLM Agents](http://arxiv.org/abs/2606.17016v1) | Buqiang Xu, Zirui Xue et al. | 2026-06-15 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
