@@ -1,19 +1,19 @@
-# Security Research — 2026-06-19
+# Security Research — 2026-06-20
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:20 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:37 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 826 | 214 |
-| [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10) | 81 | 16 |
-| [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos) | 60 | 9 |
-| [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no) | 31 | 3 |
-| [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/) | 411 | 251 |
-| [Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/introduction/) | 69 | 17 |
-| [Lore – Open source version control system designed for scalability](https://lore.org/) | 1236 | 669 |
-| [Apple A12 and A13 Chips: New Unpatchable Exploit](https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/) | 36 | 3 |
+| [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/) | 37 | 2 |
+| [AURpocalypse now: a look at the recent AUR attacks](https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/) | 87 | 61 |
+| [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits) | 84 | 31 |
+| [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10) | 312 | 89 |
+| [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) | 206 | 128 |
+| [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) | 489 | 155 |
+| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 953 | 244 |
+| [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos) | 97 | 25 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
