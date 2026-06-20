@@ -1,26 +1,30 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:31 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:02 UTC
 
-## [MntcrlCTF 2026](https://ctf.mntcrl.it/)
+## [R3CTF 2026](https://ctf2026.r3kapig.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | M0NT3C4RL0 |
-| Start | 2026-06-27 |
-| End | 2026-06-28 |
+| Weight | 35.95 |
+| Organizer | r3kapig |
+| Start | 2026-07-04 |
+| End | 2026-07-06 |
 
 ### Description
 
-We are pleased to announce MntcrlCTF 2026!
+R3CTF 2026 is a online jeopardy-style CTF organized by r3kapig.
 
-The CTF will be a standard 24 hours online jeopardy CTF and it will verge on web, crypto, misc, rev, pwn, osint and forensics.
+Categories:
+Pwn, Web, Crypto, Reverse, Blockchain, Misc. Forensics and etc....
 
-We hope you'll have fun playing the competition!
+Sponsors:
+To be determined. If you’re interested, please feel free to contact us at root@r3kapig.com
 
-You can play at: https://ctf.mntcrl.it
+Infra sponsored by goo.gle/ctfsponsorship
+
+...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
