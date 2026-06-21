@@ -1,12 +1,12 @@
-# Uptime Monitor — 2026-06-20
+# Uptime Monitor — 2026-06-21
 
-> Auto-checked daily · Last updated: 10:48 UTC
+> Auto-checked daily · Last updated: 11:04 UTC
 
 | Site | Status | HTTP | Latency |
 |------|--------|------|---------|
-| [wasonga.com](https://wasonga.com) | UP | 200 | 236ms |
-| [campdevoices.org](https://campdevoices.org) | UP | 200 | 169ms |
-| [wasongaallan.com](https://wasongaallan.com) | UP | 200 | 415ms |
+| [wasonga.com](https://wasonga.com) | UP | 200 | 234ms |
+| [campdevoices.org](https://campdevoices.org) | UP | 200 | 260ms |
+| [wasongaallan.com](https://wasongaallan.com) | UP | 200 | 328ms |
 
 ## History
 
@@ -25,6 +25,7 @@
 | 2026-06-18 | UP | UP | UP |
 | 2026-06-19 | UP | UP | UP |
 | 2026-06-20 | UP | UP | UP |
+| 2026-06-21 | UP | UP | UP |
 
 ---
 *Monitored by webstyr-bot · checks run daily at 10:00 UTC*
