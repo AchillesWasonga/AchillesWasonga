@@ -1,18 +1,15 @@
-# Security Research — 2026-06-21
+# Security Research — 2026-06-22
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:54 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:57 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) | 245 | 171 |
-| [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/) | 188 | 64 |
-| [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback) | 156 | 38 |
-| [Show HN: Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews) | 97 | 23 |
-| [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits) | 116 | 42 |
-| [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos) | 103 | 28 |
-| [AURpocalypse now: a look at the recent AUR attacks](https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/) | 131 | 96 |
+| [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) | 164 | 32 |
+| [I Canceled My French Tutor and Built an LLM Tool That Does It Better](https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built) | 41 | 13 |
+| [Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs](https://github.com/hrudulmmn/crespo) | 8 | 1 |
+| [Ask HN: Do you have an unusual income source](https://news.ycombinator.com/item?id=48625774) | 31 | 14 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
