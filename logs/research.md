@@ -1,28 +1,28 @@
-# Security Research — 2026-06-22
+# Security Research — 2026-06-23
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:57 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) | 164 | 32 |
-| [I Canceled My French Tutor and Built an LLM Tool That Does It Better](https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built) | 41 | 13 |
-| [Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs](https://github.com/hrudulmmn/crespo) | 8 | 1 |
-| [Ask HN: Do you have an unusual income source](https://news.ycombinator.com/item?id=48625774) | 31 | 14 |
+| [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288) | 12 | 8 |
+| [Prompt Injection as Role Confusion](https://role-confusion.github.io) | 197 | 102 |
+| [Wolves are reconquering Europe. Can people learn to live with them?](https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them) | 26 | 7 |
+| [A zero-install static site hosting service for hackers](https://pgs.sh/) | 5 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](http://arxiv.org/abs/2606.20553v1) | Shanghao Shi, Chaoyu Zhang et al. | 2026-06-18 |
-| [Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](http://arxiv.org/abs/2606.20520v1) | Jun He, Deying Yu | 2026-06-18 |
-| [Efficient and Sound Probabilistic Verification for AI Agents](http://arxiv.org/abs/2606.20510v1) | Alaia Solko-Breslin, Pramod Kaushik Mudrakarta et al. | 2026-06-18 |
-| [Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software](http://arxiv.org/abs/2606.20502v1) | Arastoo Zibaeirad, Marco Vieira | 2026-06-18 |
-| [How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1) | Joshua Engels, Callum McDougall et al. | 2026-06-18 |
-| [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](http://arxiv.org/abs/2606.20554v1) | Ruizhong Qiu, Yinglong Xia et al. | 2026-06-18 |
-| [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | Gina Wong, Drew Prinster et al. | 2026-06-18 |
-| [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | Nityanand Mathur, Hamees Sayed et al. | 2026-06-18 |
+| [A quantum algorithm for one-shot signatures](http://arxiv.org/abs/2606.23612v1) | Gopikrishnan Muraleedharan, Minh Thuy Truc Pham et al. | 2026-06-22 |
+| [Optimal Small Set Expanders and Their Codes](http://arxiv.org/abs/2606.23579v1) | Tristram Bogart, Marcelo Fiori et al. | 2026-06-22 |
+| [A Watermark for Vision-Language-Action and World Action Models](http://arxiv.org/abs/2606.23574v1) | Yule Liu, Shuai Liu et al. | 2026-06-22 |
+| [TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization](http://arxiv.org/abs/2606.23496v1) | Matan Ben-Tov, Mahmood Sharif | 2026-06-22 |
+| [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](http://arxiv.org/abs/2606.23680v1) | Sikai Li, Shuning Li et al. | 2026-06-22 |
+| [Semantic Browsing: Controllable Diversity for Image Generation](http://arxiv.org/abs/2606.23679v1) | Sara Dorfman, Maya Vishnevsky et al. | 2026-06-22 |
+| [AIR: Adaptive Interleaved Reasoning with Code in MLLMs](http://arxiv.org/abs/2606.23678v1) | Cong Han, Xiaohan Lan et al. | 2026-06-22 |
+| [Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?](http://arxiv.org/abs/2606.23676v1) | Dingzhi Yu, Hongyi Tao et al. | 2026-06-22 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
