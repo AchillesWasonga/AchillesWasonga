@@ -1,24 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:54 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:15 UTC
 
-## [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)
+## [TraceBash CTF 2026](https://ctf.tracebash.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | NUSGreyhats |
-| Start | 2026-06-27 |
-| End | 2026-06-28 |
+| Organizer | TraceBash |
+| Start | 2026-06-26 |
+| End | 2026-06-27 |
 
 ### Description
 
-Grey Cat The Flag is an annual CTF organized by NUS Greyhats, supported by National Cybersecurity R&D Labs (NCL).
+Welcome to TraceBash CTF 2026, organized by Team TraceBash, a globally ranked cybersecurity team dedicated to fostering learning, collaboration, and competition among cybersecurity enthusiasts worldwide.
 
-Top xx teams will continue to compete in Grey Cat The Flag finals in Singapore.
-
-Infra sponsored by goo.gle/ctfsponsorship
+We've hidden secrets in places they probably shouldn't be. Some are buried inside web applica...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
