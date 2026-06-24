@@ -1,28 +1,32 @@
-# Security Research — 2026-06-23
+# Security Research — 2026-06-24
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:54 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288) | 12 | 8 |
-| [Prompt Injection as Role Confusion](https://role-confusion.github.io) | 197 | 102 |
-| [Wolves are reconquering Europe. Can people learn to live with them?](https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them) | 26 | 7 |
-| [A zero-install static site hosting service for hackers](https://pgs.sh/) | 5 | 1 |
+| [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/) | 30 | 2 |
+| [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) | 305 | 169 |
+| [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html) | 152 | 31 |
+| [European Commission's Metsola Overrides MEPs to Force Through Chat Control](https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/) | 38 | 25 |
+| [Show HN: Graphical SQL Builder and Debugger](https://github.com/webofmarius/SQLJoiner) | 11 | 4 |
+| [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/) | 112 | 13 |
+| [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen) | 55 | 32 |
+| [A Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) | 30 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [A quantum algorithm for one-shot signatures](http://arxiv.org/abs/2606.23612v1) | Gopikrishnan Muraleedharan, Minh Thuy Truc Pham et al. | 2026-06-22 |
-| [Optimal Small Set Expanders and Their Codes](http://arxiv.org/abs/2606.23579v1) | Tristram Bogart, Marcelo Fiori et al. | 2026-06-22 |
-| [A Watermark for Vision-Language-Action and World Action Models](http://arxiv.org/abs/2606.23574v1) | Yule Liu, Shuai Liu et al. | 2026-06-22 |
-| [TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization](http://arxiv.org/abs/2606.23496v1) | Matan Ben-Tov, Mahmood Sharif | 2026-06-22 |
-| [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](http://arxiv.org/abs/2606.23680v1) | Sikai Li, Shuning Li et al. | 2026-06-22 |
-| [Semantic Browsing: Controllable Diversity for Image Generation](http://arxiv.org/abs/2606.23679v1) | Sara Dorfman, Maya Vishnevsky et al. | 2026-06-22 |
-| [AIR: Adaptive Interleaved Reasoning with Code in MLLMs](http://arxiv.org/abs/2606.23678v1) | Cong Han, Xiaohan Lan et al. | 2026-06-22 |
-| [Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?](http://arxiv.org/abs/2606.23676v1) | Dingzhi Yu, Hongyi Tao et al. | 2026-06-22 |
+| [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](http://arxiv.org/abs/2606.24819v1) | Sarah Meiklejohn, Sunny Consolvo et al. | 2026-06-23 |
+| [Burnyard: Future of Malware Analysis](http://arxiv.org/abs/2606.24778v1) | Rama Ramana Sharma Parnandi, Carter Yagemann | 2026-06-23 |
+| [On the Limits of Stretching Quantum Pseudorandomness](http://arxiv.org/abs/2606.24736v1) | Boyang Chen, Andrea Coladangelo et al. | 2026-06-23 |
+| [PowerFuzz: Power-Based Black-Box Firmware Fuzzing](http://arxiv.org/abs/2606.24692v1) | Dakshina Tharindu, Sahan Sanjaya et al. | 2026-06-23 |
+| [InSight: Self-Guided Skill Acquisition via Steerable VLAs](http://arxiv.org/abs/2606.24884v1) | Maggie Wang, Lars Osterberg et al. | 2026-06-23 |
+| [FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](http://arxiv.org/abs/2606.24874v1) | Haorui Ji, Weizhe Liu et al. | 2026-06-23 |
+| [OpenThoughts-Agent: Data Recipes for Agentic Models](http://arxiv.org/abs/2606.24855v1) | Negin Raoof, Richard Zhuang et al. | 2026-06-23 |
+| [It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces](http://arxiv.org/abs/2606.24854v1) | Blade Frisch, Will Wade et al. | 2026-06-23 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
