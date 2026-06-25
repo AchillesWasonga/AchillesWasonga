@@ -1,24 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:04 UTC
 
-## [LYKNCTF](https://ctf.itzdenkii.me/)
+## [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | FolodyCTF |
-| Start | 2026-07-06 |
-| End | 2026-07-08 |
+| Organizer | NUSGreyhats |
+| Start | 2026-06-27 |
+| End | 2026-06-28 |
 
 ### Description
 
-LYKNCTF is a beginner CTF hosted by LYKN Team (Gen Z cybersecurity students, driven by curiosity and obsessed with CTFs). Join us online for jeopardy-style fun with challenges in Pwn, Reverse, Forensics, Crypto, Misc, Osint, Web
+Grey Cat The Flag is an annual CTF organized by NUS Greyhats, supported by National Cybersecurity R&D Labs (NCL).
 
-Team size: 4
+Top xx teams will continue to compete in Grey Cat The Flag finals in Singapore.
 
-Discord Server: https://discord.gg/HY7GWNN5wJ
+Infra sponsored by goo.gle/ctfsponsorship
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
