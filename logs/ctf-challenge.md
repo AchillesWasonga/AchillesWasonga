@@ -1,24 +1,16 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:04 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:05 UTC
 
-## [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)
+## [HackTheBox](https://hackthebox.com)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | NUSGreyhats |
-| Start | 2026-06-27 |
-| End | 2026-06-28 |
+| Category | web/pwn/re |
 
 ### Description
 
-Grey Cat The Flag is an annual CTF organized by NUS Greyhats, supported by National Cybersecurity R&D Labs (NCL).
-
-Top xx teams will continue to compete in Grey Cat The Flag finals in Singapore.
-
-Infra sponsored by goo.gle/ctfsponsorship
+Real-world penetration testing labs
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
