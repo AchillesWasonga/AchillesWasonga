@@ -1,32 +1,32 @@
-# Security Research — 2026-06-25
+# Security Research — 2026-06-26
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:53 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:51 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR) | 95 | 17 |
-| [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) | 30 | 3 |
-| [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) | 395 | 68 |
-| [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported) | 22 | 23 |
-| [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/) | 83 | 6 |
-| [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser) | 132 | 63 |
-| [Optimizing [sqlx:test] rebuild time](https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html) | 14 | 1 |
-| [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/) | 131 | 18 |
+| [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/) | 214 | 109 |
+| [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) | 200 | 72 |
+| [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) | 289 | 147 |
+| [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) | 728 | 149 |
+| [AMD Readies Full Open-Source HDMI 2.1 Support for Linux](https://www.techpowerup.com/348723/amd-readies-full-open-source-hdmi-2-1-support-for-linux) | 8 | 1 |
+| [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) | 502 | 222 |
+| [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR) | 194 | 45 |
+| [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) | 442 | 81 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems](http://arxiv.org/abs/2606.26057v1) | Seth Dobrin, Łukasz Chmiel | 2026-06-24 |
-| [Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning](http://arxiv.org/abs/2606.26036v1) | Poojitha Thota, Shirin Nilizadeh | 2026-06-24 |
-| [Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem](http://arxiv.org/abs/2606.26028v1) | Xihan Xiong, Zelin Li et al. | 2026-06-24 |
-| [Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries](http://arxiv.org/abs/2606.26021v1) | Tânia Carvalho, Maxime Cordy | 2026-06-24 |
-| [Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1) | Dong Jing, Tianqi Zhang et al. | 2026-06-24 |
-| [On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity](http://arxiv.org/abs/2606.26091v1) | Andrei Liviu Nicolicioiu, Mohammad Pezeshki et al. | 2026-06-24 |
-| [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](http://arxiv.org/abs/2606.26080v1) | Changdae Oh, Wendi Li et al. | 2026-06-24 |
-| [A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding](http://arxiv.org/abs/2606.26078v1) | Sen Li, Haichao Cui et al. | 2026-06-24 |
+| [Tilikum: Transaction Fair Ordering on a DAG without Weak Edges](http://arxiv.org/abs/2606.27250v1) | Giulio Segalini, Yigit Çolakoğlu et al. | 2026-06-25 |
+| [The Observer World: A Cryptographic Extension of Impagliazzo's Five Worlds](http://arxiv.org/abs/2606.27139v1) | Fabio F. G. Buono | 2026-06-25 |
+| [PRISM: PE Relational Inter-Section Matrix. A 2D Section-Aware Dataset for Static PE Malware Detection](http://arxiv.org/abs/2606.27109v1) | José M. Sacristán, Ana I. González-Tablas | 2026-06-25 |
+| [Application of LLMs to Threat Assessment of Foreign Peacekeeping Missions](http://arxiv.org/abs/2606.27106v1) | Gerhard Backfried, Christian Schmidt et al. | 2026-06-25 |
+| [Autoregressive Boltzmann Generators](http://arxiv.org/abs/2606.27361v1) | Danyal Rehman, Charlie B. Tan et al. | 2026-06-25 |
+| [Error-Conditioned Neural Solvers](http://arxiv.org/abs/2606.27354v1) | Haina Jiang, Liam Wang et al. | 2026-06-25 |
+| [Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching](http://arxiv.org/abs/2606.27342v1) | Nicholas Pulsone, Gregory Goren et al. | 2026-06-25 |
+| [Language-Based Digital Twins for Elderly Cognitive Assistance](http://arxiv.org/abs/2606.27334v1) | Mohammad Mehdi Hosseini, Mohammad H. Mahoor et al. | 2026-06-25 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
