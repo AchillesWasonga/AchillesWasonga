@@ -1,19 +1,19 @@
-# Security Research — 2026-06-26
+# Security Research — 2026-06-27
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:51 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:30 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/) | 214 | 109 |
-| [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) | 200 | 72 |
-| [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) | 289 | 147 |
-| [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) | 728 | 149 |
-| [AMD Readies Full Open-Source HDMI 2.1 Support for Linux](https://www.techpowerup.com/348723/amd-readies-full-open-source-hdmi-2-1-support-for-linux) | 8 | 1 |
-| [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) | 502 | 222 |
-| [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR) | 194 | 45 |
-| [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) | 442 | 81 |
+| [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 306 | 73 |
+| [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) | 37 | 6 |
+| [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/) | 69 | 11 |
+| [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/) | 78 | 18 |
+| [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) | 223 | 180 |
+| [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474) | 92 | 38 |
+| [We all depend on open source. We will defend it together](https://akrites.org/letter/) | 454 | 222 |
+| [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) | 553 | 86 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
