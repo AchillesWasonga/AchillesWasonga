@@ -1,24 +1,30 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:43 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:00 UTC
 
-## [Junior.Crypt.2026 CTF](http://ctf-spcs.mf.grsu.by/)
+## [MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 23.42 |
-| Organizer | Beavers0 |
-| Start | 2026-07-11 |
-| End | 2026-07-12 |
+| Weight | 0.0 |
+| Organizer | ESGI |
+| Start | 2026-07-03 |
+| End | 2026-07-04 |
 
 ### Description
 
-Junior.Crypt.2026 CTF is a 24-hour online cybersecurity competition for students and anyone eager to test their skills and have fun.
+Organisé par les étudiants de l'ESGI, le MindBreak c'est : 
+▶ Une compétition CTF la nuit par équipe de 1 à 4 ;
+▶19h to 6h
+▶ Formulaire d'inscription
+Coming soon !
 
-The event is organized by Beavers0 CTF team. 
+⚠️CTF en présentiel uniquement, 242 rue du faubourg st antoine, 75012
 
-Join solo or form a team of up to three members and take on challenges in Crypto, Forensics, Misc, OSINT, PWN, Reve...
+Merci à nos sponsors et soutient
+- ESGI
+- BDE Sigma
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
