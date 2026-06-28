@@ -1,19 +1,19 @@
-# Security Research — 2026-06-27
+# Security Research — 2026-06-28
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:30 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:33 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 306 | 73 |
-| [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) | 37 | 6 |
-| [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/) | 69 | 11 |
-| [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/) | 78 | 18 |
-| [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) | 223 | 180 |
-| [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474) | 92 | 38 |
-| [We all depend on open source. We will defend it together](https://akrites.org/letter/) | 454 | 222 |
-| [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) | 553 | 86 |
+| [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) | 75 | 23 |
+| [From Hallmark to neon signs: A look at Jim Parkinson's career in letter art](https://typographica.org/on-typography/jim-parkinson-1941-2025/) | 8 | 0 |
+| [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust) | 85 | 5 |
+| [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 769 | 329 |
+| [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/) | 146 | 26 |
+| [Monlite – documents, vectors, cache, and job queue in one SQLite file](https://github.com/qataruts/monlite) | 7 | 0 |
+| [Show HN: Kiso, an open-source publishing engine for Open Knowledge Format](https://oak-invest.github.io/kiso/) | 15 | 0 |
+| [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/) | 108 | 21 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
