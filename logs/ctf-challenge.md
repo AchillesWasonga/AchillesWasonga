@@ -1,30 +1,26 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:00 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:35 UTC
 
-## [MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)
+## [R3CTF 2026](https://ctf2026.r3kapig.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | ESGI |
-| Start | 2026-07-03 |
-| End | 2026-07-04 |
+| Weight | 35.95 |
+| Organizer | r3kapig |
+| Start | 2026-07-04 |
+| End | 2026-07-06 |
 
 ### Description
 
-Organisé par les étudiants de l'ESGI, le MindBreak c'est : 
-▶ Une compétition CTF la nuit par équipe de 1 à 4 ;
-▶19h to 6h
-▶ Formulaire d'inscription
-Coming soon !
+R3CTF 2026 will mark the final Jeopardy-style edition in the R3CTF series.
 
-⚠️CTF en présentiel uniquement, 242 rue du faubourg st antoine, 75012
+Challenge categories:
+This year, the categories will not be disclosed to participants in advance, but they may include, without limitation, Web, Crypto, Pwn, Reverse, Misc, Forensics, Blockchain, and more.
 
-Merci à nos sponsors et soutient
-- ESGI
-- BDE Sigma
+Sponsors:
+N...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
