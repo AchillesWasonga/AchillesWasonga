@@ -1,26 +1,20 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:35 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:13 UTC
 
-## [R3CTF 2026](https://ctf2026.r3kapig.com/)
+## [DownUnderCTF 2026](https://2026.duc.tf/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 35.95 |
-| Organizer | r3kapig |
-| Start | 2026-07-04 |
-| End | 2026-07-06 |
+| Weight | 94.99 |
+| Organizer | DownUnderCTF |
+| Start | 2026-07-17 |
+| End | 2026-07-19 |
 
 ### Description
 
-R3CTF 2026 will mark the final Jeopardy-style edition in the R3CTF series.
-
-Challenge categories:
-This year, the categories will not be disclosed to participants in advance, but they may include, without limitation, Web, Crypto, Pwn, Reverse, Misc, Forensics, Blockchain, and more.
-
-Sponsors:
-N...
+DownUnderCTF is the largest online Australia and Aotearoa (NZ) run Capture The Flag (CTF) competition. This CTF aims to up-skill the next generation of Cyber Security Professionals and to grow the CTF community in the AUNZ region. DownUnderCTF is a completely free online event open to all participan...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
