@@ -1,6 +1,6 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:21 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:02 UTC
 
 ## [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)
 
