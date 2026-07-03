@@ -1,20 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:02 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:01 UTC
 
-## [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)
+## [Fluid Attacks' CTF 2026-2](https://fluidattacks.com/ctf)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 23.47 |
-| Organizer | ICEDTEA |
+| Weight | 0 |
+| Organizer | Fluid Attacks |
 | Start | 2026-07-04 |
-| End | 2026-07-06 |
+| End | 2026-07-05 |
 
 ### Description
 
-Welcome to No Hack No CTF 2026, organized by ICEDTEA, a passionate cybersecurity team from Taiwan dedicated to fostering learning and competition among cybersecurity enthusiasts worldwide. This event offers an exciting opportunity for participants to challenge themselves in a fair and competitive en...
+12-hour individual online CTF for the Latin American and Caribbean cybersecurity community. Put your technical skills, creativity, persistence, and speed to the test.
+
+Format: Individual | Duration: 12 hours | Mode: Online | Eligibility: Citizens or permanent residents of Latin America, Brazil, an...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
