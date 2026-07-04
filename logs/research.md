@@ -1,19 +1,19 @@
-# Security Research — 2026-07-03
+# Security Research — 2026-07-04
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:46 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:29 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) | 126 | 79 |
-| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 488 | 209 |
-| [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html) | 9 | 4 |
-| [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | 139 | 45 |
-| [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html) | 1637 | 703 |
-| [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/) | 174 | 110 |
-| [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) | 965 | 683 |
-| [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) | 463 | 93 |
+| [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) | 98 | 31 |
+| [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) | 356 | 157 |
+| [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/) | 97 | 16 |
+| [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected) | 219 | 25 |
+| [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515) | 157 | 173 |
+| [Valve open-source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) | 564 | 106 |
+| [PostgreSQL and the OOM killer: Why we use strict memory overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) | 172 | 106 |
+| [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html) | 1691 | 727 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
