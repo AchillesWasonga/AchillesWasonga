@@ -1,22 +1,41 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:01 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:43 UTC
 
-## [Fluid Attacks' CTF 2026-2](https://fluidattacks.com/ctf)
+## [OmniCTF 2026 Quals](https://omnictf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Fluid Attacks |
-| Start | 2026-07-04 |
-| End | 2026-07-05 |
+| Weight | 0.0 |
+| Organizer | OmniCTF |
+| Start | 2026-07-17 |
+| End | 2026-07-19 |
 
 ### Description
 
-12-hour individual online CTF for the Latin American and Caribbean cybersecurity community. Put your technical skills, creativity, persistence, and speed to the test.
+Discord - https://discord.gg/Tua6ZT7nYW
 
-Format: Individual | Duration: 12 hours | Mode: Online | Eligibility: Citizens or permanent residents of Latin America, Brazil, an...
+Homepage - 
+https://omnictf.com/
+
+Brought by:
+OmniCYBR, OctalO and Delta Obscura
+
+Partners:
+Spectrum, Deadoverflow, UNbreakable Romania
+
+Platinum Sponsors:
+CAIDO
+
+Silver Sponsors:
+Knight Squad Academy
+gen.xyz
+
+Infra Sponsor:
+Hetzner
+
+Look...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
