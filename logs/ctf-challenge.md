@@ -1,24 +1,41 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:49 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:32 UTC
 
-## [BroncoCTF 2026](https://broncoctf.ctfd.io/)
+## [OmniCTF 2026 Quals](https://omnictf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 17.41 |
-| Organizer | BroncoSec |
-| Start | 2026-07-11 |
-| End | 2026-07-12 |
+| Weight | 0.0 |
+| Organizer | OmniCTF |
+| Start | 2026-07-17 |
+| End | 2026-07-19 |
 
 ### Description
 
-CTF Discord: https://discord.gg/WT7HXqx8jP
+Discord - https://discord.gg/Tua6ZT7nYW
 
-BroncoCTF is an international CTF competition hosted by BroncoSec. It ran in-person conjunction with Hack for Humanity, Santa Clara University's social good hackathon.
+Homepage - 
+https://omnictf.com/
 
-This year, we are sponsored by SANS Institute, who sponsored the course scholarship...
+Brought by:
+OmniCYBR, OctalO and Delta Obscura
+
+Partners:
+Spectrum, Deadoverflow, UNbreakable Romania
+
+Platinum Sponsors:
+CAIDO
+
+Silver Sponsors:
+Knight Squad Academy
+gen.xyz
+
+Infra Sponsor:
+Hetzner
+
+Look...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
