@@ -1,24 +1,20 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:10 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:48 UTC
 
-## [BroncoCTF 2026](https://broncoctf.ctfd.io/)
+## [BDSec CTF 2026](https://2026.bdsec-ctf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 17.41 |
-| Organizer | BroncoSec |
-| Start | 2026-07-11 |
-| End | 2026-07-12 |
+| Weight | 15.62 |
+| Organizer | Knight Squad |
+| Start | 2026-07-20 |
+| End | 2026-07-21 |
 
 ### Description
 
-CTF Discord: https://discord.gg/WT7HXqx8jP
-
-BroncoCTF is an international CTF competition hosted by BroncoSec. It ran in-person conjunction with Hack for Humanity, Santa Clara University's social good hackathon.
-
-This year, we are sponsored by SANS Institute, who sponsored the course scholarship...
+BDSec CTF 2026 is an international, 24-hour online jeopardy-style Capture The Flag competition organized by Knight Squad, a cybersecurity team from Bangladesh. Held annually, BDSec CTF is designed to push boundaries, encourage learning, and celebrate strategic brilliance in cybersecurity — open to p...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
