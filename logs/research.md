@@ -1,32 +1,32 @@
-# Security Research — 2026-07-08
+# Security Research — 2026-07-09
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:34 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) | 25 | 2 |
-| [EVE Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why) | 65 | 4 |
-| [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat) | 168 | 52 |
-| [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/) | 107 | 12 |
-| [Show HN: PostgreSQL performance and cost across 23 EC2 instance types](https://postgres.saneengineer.com) | 86 | 16 |
-| [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record) | 36 | 20 |
-| [Show HN: Turbo – An open-source, fast HTTP server with a real-time config GUI](https://turbo.okzgn.com) | 6 | 1 |
-| [SQLite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/) | 14 | 0 |
+| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 999 | 272 |
+| [Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1](https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520) | 62 | 2 |
+| [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589) | 270 | 144 |
+| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 23 | 6 |
+| [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) | 131 | 14 |
+| [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/) | 348 | 285 |
+| [Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool](https://openscreenshot.app) | 14 | 3 |
+| [EVE Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why) | 397 | 138 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Crossroads: A Smart Contract Layer for Chain-Abstracted Assets](http://arxiv.org/abs/2607.06525v1) | James Austgen, Dani Vilardell et al. | 2026-07-07 |
-| [Differentially private quantum sensor networks](http://arxiv.org/abs/2607.06521v1) | Daniel J. Spencer, Kaiyan Shi et al. | 2026-07-07 |
-| [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](http://arxiv.org/abs/2607.06484v1) | Marwan Lazrag, Badis Hammi et al. | 2026-07-07 |
-| [Lower Bounds for PIR with Preprocessing from Blackbox Cryptography](http://arxiv.org/abs/2607.06451v1) | Alexander Hoover, Giuseppe Persiano et al. | 2026-07-07 |
-| [ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](http://arxiv.org/abs/2607.06565v1) | Tianjiao Yu, Xinzhuo Li et al. | 2026-07-07 |
-| [Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion](http://arxiv.org/abs/2607.06546v1) | Shervin Khalafi, Igor Krawczuk et al. | 2026-07-07 |
-| [Rethinking Indic AI from a Lens of Cultural Heritage Preservation](http://arxiv.org/abs/2607.06544v1) | Aparna Madva, Sharath Srivatsa et al. | 2026-07-07 |
-| [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](http://arxiv.org/abs/2607.06531v1) | Ghassen Marrakchi, Basarab Matei | 2026-07-07 |
+| [Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows](http://arxiv.org/abs/2607.07650v1) | Aklile Seyoum Mamo, Amanuel Kebede et al. | 2026-07-08 |
+| [Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security](http://arxiv.org/abs/2607.07635v1) | Md. Nahid Hasan, Golam Rabiul Alam | 2026-07-08 |
+| [Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain](http://arxiv.org/abs/2607.07625v1) | Qinglin Yang, Yuan Liu et al. | 2026-07-08 |
+| [NARAD: Non-colluding Aggregator-oblivious Record-And-Decrypt](http://arxiv.org/abs/2607.07596v1) | Akshit Vakati Venkata, Rajat Dugar et al. | 2026-07-08 |
+| [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](http://arxiv.org/abs/2607.07708v1) | Chen Tang, Yizhou Wang et al. | 2026-07-08 |
+| [Co-LMLM: Continuous-Query Limited Memory Language Models](http://arxiv.org/abs/2607.07707v1) | Yair Feldman, Linxi Zhao et al. | 2026-07-08 |
+| [Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](http://arxiv.org/abs/2607.07696v1) | Victor Giannakouris, Immanuel Trummer | 2026-07-08 |
+| [Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](http://arxiv.org/abs/2607.07695v1) | Yujiao Chen | 2026-07-08 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
