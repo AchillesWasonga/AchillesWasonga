@@ -1,32 +1,32 @@
-# Security Research — 2026-07-09
+# Security Research — 2026-07-10
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:59 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 999 | 272 |
-| [Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1](https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520) | 62 | 2 |
-| [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589) | 270 | 144 |
-| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 23 | 6 |
-| [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) | 131 | 14 |
-| [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/) | 348 | 285 |
-| [Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool](https://openscreenshot.app) | 14 | 3 |
-| [EVE Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why) | 397 | 138 |
+| [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) | 22 | 11 |
+| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 4 | 0 |
+| [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) | 52 | 20 |
+| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 33 | 10 |
+| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 1077 | 298 |
+| [Ask HN: Do we need a support group for developers alienated by LLMs?](https://news.ycombinator.com/item?id=48857085) | 16 | 11 |
+| [Show HN: Sighthound - open-source vulnerability scanner for source code](https://github.com/Corgea/Sighthound) | 16 | 0 |
+| [Hackers Use Fake Emergency Requests to Steal Data from Apple, Meta and Others](https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-use-fake-emergency-requests-to-steal-data-from-apple-meta-and-others-investigation-reveals) | 9 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows](http://arxiv.org/abs/2607.07650v1) | Aklile Seyoum Mamo, Amanuel Kebede et al. | 2026-07-08 |
-| [Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security](http://arxiv.org/abs/2607.07635v1) | Md. Nahid Hasan, Golam Rabiul Alam | 2026-07-08 |
-| [Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain](http://arxiv.org/abs/2607.07625v1) | Qinglin Yang, Yuan Liu et al. | 2026-07-08 |
-| [NARAD: Non-colluding Aggregator-oblivious Record-And-Decrypt](http://arxiv.org/abs/2607.07596v1) | Akshit Vakati Venkata, Rajat Dugar et al. | 2026-07-08 |
-| [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](http://arxiv.org/abs/2607.07708v1) | Chen Tang, Yizhou Wang et al. | 2026-07-08 |
-| [Co-LMLM: Continuous-Query Limited Memory Language Models](http://arxiv.org/abs/2607.07707v1) | Yair Feldman, Linxi Zhao et al. | 2026-07-08 |
-| [Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](http://arxiv.org/abs/2607.07696v1) | Victor Giannakouris, Immanuel Trummer | 2026-07-08 |
-| [Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](http://arxiv.org/abs/2607.07695v1) | Yujiao Chen | 2026-07-08 |
+| [TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model](http://arxiv.org/abs/2607.08666v1) | Jie Zhang, Xubo Fan et al. | 2026-07-09 |
+| [Stablecoins under Stress in a National Economy: Transaction-Level Evidence from Austrian Crypto-Asset Service Providers](http://arxiv.org/abs/2607.08524v1) | Pietro Saggese, Michael Sigmund et al. | 2026-07-09 |
+| [Locality of Curve-Decoding and Improved Proximity Gaps](http://arxiv.org/abs/2607.08516v1) | Rohan Goyal, Venkatesan Guruswami et al. | 2026-07-09 |
+| [TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories](http://arxiv.org/abs/2607.08400v1) | Zheng Gao, Xiaoyu Li et al. | 2026-07-09 |
+| [OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1) | Xinyan Chen, Ziyu Guo et al. | 2026-07-09 |
+| [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1) | Yifan Zhou, Qihao Yang et al. | 2026-07-09 |
+| [SLORR: Simple and Efficient In-Training Low-Rank Regularization](http://arxiv.org/abs/2607.08754v1) | David González-Martínez, Shiwei Liu | 2026-07-09 |
+| [Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](http://arxiv.org/abs/2607.08748v1) | Kristina Schaaff, Quintus Stierstorfer et al. | 2026-07-09 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
