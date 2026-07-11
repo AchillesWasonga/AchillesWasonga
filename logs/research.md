@@ -1,19 +1,17 @@
-# Security Research — 2026-07-10
+# Security Research — 2026-07-11
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:59 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:21 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) | 22 | 11 |
-| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 4 | 0 |
-| [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) | 52 | 20 |
-| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 33 | 10 |
-| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 1077 | 298 |
-| [Ask HN: Do we need a support group for developers alienated by LLMs?](https://news.ycombinator.com/item?id=48857085) | 16 | 11 |
-| [Show HN: Sighthound - open-source vulnerability scanner for source code](https://github.com/Corgea/Sighthound) | 16 | 0 |
-| [Hackers Use Fake Emergency Requests to Steal Data from Apple, Meta and Others](https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-use-fake-emergency-requests-to-steal-data-from-apple-meta-and-others-investigation-reveals) | 9 | 1 |
+| [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math) | 76 | 17 |
+| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 131 | 34 |
+| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 60 | 11 |
+| [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) | 262 | 179 |
+| [Show HN: SubjectiveZero, an open-source agentic node editor for creative coding](https://sxp.studio/apps/subz) | 23 | 4 |
+| [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147) | 13 | 0 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
