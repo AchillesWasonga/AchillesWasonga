@@ -1,24 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:31 UTC
 
-## [AxiomCTF 2026 Finals](https://ctf.4x10m.ru/)
+## [ENOWARS 10](https://10.enowars.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Attack-Defense |
-| Weight | 0.0 |
-| Organizer | 4x10m |
+| Weight | 83.5 |
+| Organizer | ENOFLAG |
 | Start | 2026-07-18 |
 | End | 2026-07-18 |
 
 ### Description
 
-Axiom CTF — ФИНАЛ!
+The 10th installation of the epic ENOWARS trilogy!
 
-Командные соревнования в формате Attack/Defense (A/D). Финальная битва сильнейших.
-
-Вам предстоит защищать свои сервисы и одновременно атаковать соперников — искать уязвимости, похищать флаги и оперативно закрывать бреши в своих системах. Динамичная игра, реальный киберполиго...
+More details are soon(TM) to come on our landing page.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
