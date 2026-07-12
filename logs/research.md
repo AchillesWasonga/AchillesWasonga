@@ -1,17 +1,19 @@
-# Security Research — 2026-07-11
+# Security Research — 2026-07-12
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:21 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:24 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math) | 76 | 17 |
-| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 131 | 34 |
-| [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon) | 60 | 11 |
-| [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) | 262 | 179 |
-| [Show HN: SubjectiveZero, an open-source agentic node editor for creative coding](https://sxp.studio/apps/subz) | 23 | 4 |
-| [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147) | 13 | 0 |
+| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 266 | 59 |
+| [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) | 149 | 21 |
+| [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) | 303 | 147 |
+| [Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL](https://github.com/sqlsure/sqlsure) | 33 | 6 |
+| [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/) | 65 | 7 |
+| [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning) | 10 | 1 |
+| [I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)](https://github.com/mrhustlex/TradingSpy-TradingAgentService) | 23 | 1 |
+| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 138 | 38 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
