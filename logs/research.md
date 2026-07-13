@@ -1,32 +1,32 @@
-# Security Research — 2026-07-12
+# Security Research — 2026-07-13
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:24 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 266 | 59 |
-| [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) | 149 | 21 |
-| [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) | 303 | 147 |
-| [Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL](https://github.com/sqlsure/sqlsure) | 33 | 6 |
-| [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/) | 65 | 7 |
-| [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning) | 10 | 1 |
-| [I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)](https://github.com/mrhustlex/TradingSpy-TradingAgentService) | 23 | 1 |
-| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 138 | 38 |
+| [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy) | 94 | 25 |
+| [First look at Quest, the final ship of Antarctic explorer Shackleton](https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229) | 37 | 3 |
+| [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) | 439 | 275 |
+| [Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/) | 105 | 74 |
+| [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/) | 215 | 121 |
+| [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/) | 80 | 26 |
+| [The Unreasonable Effectiveness of LLMs in Mathematics](https://www.chrishayduk.com/p/the-unreasonable-effectiveness-of) | 4 | 0 |
+| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 339 | 90 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model](http://arxiv.org/abs/2607.08666v1) | Jie Zhang, Xubo Fan et al. | 2026-07-09 |
-| [Stablecoins under Stress in a National Economy: Transaction-Level Evidence from Austrian Crypto-Asset Service Providers](http://arxiv.org/abs/2607.08524v1) | Pietro Saggese, Michael Sigmund et al. | 2026-07-09 |
-| [Locality of Curve-Decoding and Improved Proximity Gaps](http://arxiv.org/abs/2607.08516v1) | Rohan Goyal, Venkatesan Guruswami et al. | 2026-07-09 |
-| [TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories](http://arxiv.org/abs/2607.08400v1) | Zheng Gao, Xiaoyu Li et al. | 2026-07-09 |
-| [OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1) | Xinyan Chen, Ziyu Guo et al. | 2026-07-09 |
-| [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1) | Yifan Zhou, Qihao Yang et al. | 2026-07-09 |
-| [SLORR: Simple and Efficient In-Training Low-Rank Regularization](http://arxiv.org/abs/2607.08754v1) | David González-Martínez, Shiwei Liu | 2026-07-09 |
-| [Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](http://arxiv.org/abs/2607.08748v1) | Kristina Schaaff, Quintus Stierstorfer et al. | 2026-07-09 |
+| [Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks](http://arxiv.org/abs/2607.09659v1) | Song Son Ha, Florian Foerster et al. | 2026-07-10 |
+| [VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](http://arxiv.org/abs/2607.09653v1) | Katherine Swinea, Kshitiz Aryal et al. | 2026-07-10 |
+| [Portable Acceleration of Learning With Errors KEMs for Post-Quantum Cryptography](http://arxiv.org/abs/2607.09541v1) | Tiziana Liberati, Nitin Shukla et al. | 2026-07-10 |
+| [Statistically Undetectable Backdoors in Deep Neural Networks](http://arxiv.org/abs/2607.09532v1) | Andrej Bogdanov, Alon Rosen et al. | 2026-07-10 |
+| [PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](http://arxiv.org/abs/2607.09662v1) | Ren Takahashi, Emre Yusuf et al. | 2026-07-10 |
+| [Scalable Visual Pretraining for Language Intelligence](http://arxiv.org/abs/2607.09657v1) | Yiming Zhang, Zhonghan Zhao et al. | 2026-07-10 |
+| [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](http://arxiv.org/abs/2607.09654v1) | Shravan Murlidaran, Miguel P. Eckstein | 2026-07-10 |
+| [VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](http://arxiv.org/abs/2607.09653v1) | Katherine Swinea, Kshitiz Aryal et al. | 2026-07-10 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
