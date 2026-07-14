@@ -1,28 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:34 UTC
 
-## [EYCC CTF 2026 ](https://eycc.stemeghackclub.org/)
+## [AxiomCTF 2026 Finals](https://ctf.4x10m.ru/)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Mont5ab El2hwa |
-| Start | 2026-07-17 |
-| End | 2026-07-19 |
+| Format | Attack-Defense |
+| Weight | 0.0 |
+| Organizer | 4x10m |
+| Start | 2026-07-18 |
+| End | 2026-07-18 |
 
 ### Description
 
-EYCC (Egyptian Youth Cybersecurity Challenge) is Egypt's national CTF 
-competition for high school students, now in its second edition.
+Axiom CTF — ФИНАЛ!
 
-Format: Hybrid — 48h Online Qualifiers → On-site Grand Finals
-Eligibility: High school students in Egypt only
-Team Size: 2–5 members
-Entry: Free
+Командные соревнования в формате Attack/Defense (A/D). Финальная битва сильнейших.
 
-Categorie...
+Вам предстоит защищать свои сервисы и одновременно атаковать соперников — искать уязвимости, похищать флаги и оперативно закрывать бреши в своих системах. Динамичная игра, реальный киберполиго...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
