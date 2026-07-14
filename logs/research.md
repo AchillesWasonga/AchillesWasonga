@@ -1,32 +1,32 @@
-# Security Research — 2026-07-13
+# Security Research — 2026-07-14
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:00 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:29 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy) | 94 | 25 |
-| [First look at Quest, the final ship of Antarctic explorer Shackleton](https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229) | 37 | 3 |
-| [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) | 439 | 275 |
-| [Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/) | 105 | 74 |
-| [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/) | 215 | 121 |
-| [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/) | 80 | 26 |
-| [The Unreasonable Effectiveness of LLMs in Mathematics](https://www.chrishayduk.com/p/the-unreasonable-effectiveness-of) | 4 | 0 |
-| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 339 | 90 |
+| [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney) | 3 | 0 |
+| [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py) | 98 | 18 |
+| [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/) | 40 | 10 |
+| [Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices](https://hackney.app/) | 51 | 43 |
+| [The AI Whale Fall and Open Source](https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/) | 32 | 18 |
+| [Samsung Health app threatens data deletion if users opt out AI training](https://neow.in/cWsyMTV3) | 330 | 88 |
+| [Former NOAA employees built Climate.us to preserve climate data and resources](https://19thnews.org/2026/07/noaa-climate-data-website/) | 508 | 191 |
+| [Swiss Army Breaks with Microsoft: "Cyber Command" Relies on Open Source](https://www.heise.de/en/news/Swiss-Army-breaks-with-Microsoft-Cyber-Command-relies-on-Open-Source-11361516.html) | 10 | 0 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks](http://arxiv.org/abs/2607.09659v1) | Song Son Ha, Florian Foerster et al. | 2026-07-10 |
-| [VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](http://arxiv.org/abs/2607.09653v1) | Katherine Swinea, Kshitiz Aryal et al. | 2026-07-10 |
-| [Portable Acceleration of Learning With Errors KEMs for Post-Quantum Cryptography](http://arxiv.org/abs/2607.09541v1) | Tiziana Liberati, Nitin Shukla et al. | 2026-07-10 |
-| [Statistically Undetectable Backdoors in Deep Neural Networks](http://arxiv.org/abs/2607.09532v1) | Andrej Bogdanov, Alon Rosen et al. | 2026-07-10 |
-| [PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](http://arxiv.org/abs/2607.09662v1) | Ren Takahashi, Emre Yusuf et al. | 2026-07-10 |
-| [Scalable Visual Pretraining for Language Intelligence](http://arxiv.org/abs/2607.09657v1) | Yiming Zhang, Zhonghan Zhao et al. | 2026-07-10 |
-| [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](http://arxiv.org/abs/2607.09654v1) | Shravan Murlidaran, Miguel P. Eckstein | 2026-07-10 |
-| [VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](http://arxiv.org/abs/2607.09653v1) | Katherine Swinea, Kshitiz Aryal et al. | 2026-07-10 |
+| [When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems](http://arxiv.org/abs/2607.11751v1) | Yibo Hu, Ren Wang | 2026-07-13 |
+| [An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory](http://arxiv.org/abs/2607.11707v1) | Ahmed Omar Salim Adnan, Yogananda Manjunath et al. | 2026-07-13 |
+| [Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming](http://arxiv.org/abs/2607.11698v1) | Xutao Mao, Xiang Zheng et al. | 2026-07-13 |
+| [Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments](http://arxiv.org/abs/2607.11649v1) | Muhammet Emir Korkmaz, Kemal Bicakci et al. | 2026-07-13 |
+| [Metacognition in LLMs: Foundations, Progress, and Opportunities](http://arxiv.org/abs/2607.11881v1) | Gabrielle Kaili-May Liu, Areeb Gani et al. | 2026-07-13 |
+| [Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](http://arxiv.org/abs/2607.11875v1) | Tiberiu Musat, Tiago Pimentel et al. | 2026-07-13 |
+| [A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation](http://arxiv.org/abs/2607.11874v1) | Yunhai Feng, Natalie Leung et al. | 2026-07-13 |
+| [Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias](http://arxiv.org/abs/2607.11871v1) | Zixiang Xu, Sixian Li et al. | 2026-07-13 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
