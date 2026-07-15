@@ -1,24 +1,20 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:34 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:36 UTC
 
-## [AxiomCTF 2026 Finals](https://ctf.4x10m.ru/)
+## [BDSec CTF 2026](https://2026.bdsec-ctf.com/)
 
 | Field | Value |
 |-------|-------|
-| Format | Attack-Defense |
-| Weight | 0.0 |
-| Organizer | 4x10m |
-| Start | 2026-07-18 |
-| End | 2026-07-18 |
+| Format | Jeopardy |
+| Weight | 15.62 |
+| Organizer | Knight Squad |
+| Start | 2026-07-20 |
+| End | 2026-07-21 |
 
 ### Description
 
-Axiom CTF — ФИНАЛ!
-
-Командные соревнования в формате Attack/Defense (A/D). Финальная битва сильнейших.
-
-Вам предстоит защищать свои сервисы и одновременно атаковать соперников — искать уязвимости, похищать флаги и оперативно закрывать бреши в своих системах. Динамичная игра, реальный киберполиго...
+BDSec CTF 2026 is an international, 24-hour online jeopardy-style Capture The Flag competition organized by Knight Squad, a cybersecurity team from Bangladesh. Held annually, BDSec CTF is designed to push boundaries, encourage learning, and celebrate strategic brilliance in cybersecurity — open to p...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
