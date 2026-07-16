@@ -1,29 +1,32 @@
-# Security Research — 2026-07-15
+# Security Research — 2026-07-16
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:30 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:31 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) | 383 | 180 |
-| [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler) | 248 | 107 |
-| [Guardian Angels: LLM Personalization for Productivity and Security](https://gwern.net/guardian-angel) | 87 | 15 |
-| [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era) | 149 | 119 |
-| [Cyberstalkers Are Exploiting Chrome Sync to Spy on Victims](https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/) | 22 | 1 |
+| [Grok Build is open source](https://github.com/xai-org/grok-build) | 480 | 521 |
+| [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) | 208 | 77 |
+| [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) | 294 | 128 |
+| [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) | 452 | 265 |
+| [Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859) | 60 | 17 |
+| [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) | 95 | 42 |
+| [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) | 47 | 20 |
+| [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/) | 120 | 31 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Watermark Forensics for Generative Models: An Information-Theoretic Perspective](http://arxiv.org/abs/2607.13003v1) | Xiaoyu Li, Zheng Gao et al. | 2026-07-14 |
-| [Silent Alarm: A J-Space Protocol for Comparing Danger Recognition Across Models and Quantization Levels](http://arxiv.org/abs/2607.12792v1) | Roman Prosvirnin, Victor Minchenkov et al. | 2026-07-14 |
-| [A Scalable Cloud-Orchestrated and Service-Oriented Multi-Domain QKD Network with PQC Integration](http://arxiv.org/abs/2607.12765v1) | Konstantinos Krilakis, Antonia Tsili et al. | 2026-07-14 |
-| [Stability Buys Time: A Re-Keying Game for Encrypted Multi-Agent Control](http://arxiv.org/abs/2607.12742v1) | Sai Sandeep Damera, John S. Baras | 2026-07-14 |
-| [Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](http://arxiv.org/abs/2607.13034v1) | Junjie Yin, Xinyu Feng | 2026-07-14 |
-| [TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](http://arxiv.org/abs/2607.13028v1) | Zhouchonghao Wu, Akshay Rangesh et al. | 2026-07-14 |
-| [PalmClaw: A Native On-Device Agent Framework for Mobile Phones](http://arxiv.org/abs/2607.13027v1) | Hongru Cai, Yongqi Li et al. | 2026-07-14 |
-| [Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model](http://arxiv.org/abs/2607.13013v1) | Harsha Vardhan Khurdula, Abhinav Kumar Singh et al. | 2026-07-14 |
+| [Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation](http://arxiv.org/abs/2607.14006v1) | Mohammad Allahbakhsh, Mohammad Hassan Bahari et al. | 2026-07-15 |
+| [Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation](http://arxiv.org/abs/2607.13987v1) | Sanket Badhe, Priyanka Tiwari | 2026-07-15 |
+| [ProfMalPlus: Agent-Coordinated Detection of Malicious NPM Packages via Static-Dynamic Analysis Synergy](http://arxiv.org/abs/2607.13965v1) | Yiheng Huang, Zhijia Zhao et al. | 2026-07-15 |
+| [HORCRUX: A Complete PQC RISC-V eXtension Architecture](http://arxiv.org/abs/2607.13939v1) | Alessandra Dolmeta, Valeria Piscopo et al. | 2026-07-15 |
+| [Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models](http://arxiv.org/abs/2607.14049v1) | Hefeng Zhou, Jinxuan Zhang et al. | 2026-07-15 |
+| [Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education](http://arxiv.org/abs/2607.14046v1) | Xanthi Kokkinou, Chaido Mizeli et al. | 2026-07-15 |
+| [AI-accelerated End-to-End Framework for Rapid Professional Upskilling](http://arxiv.org/abs/2607.14044v1) | Tam Nguyen, Hung Nguyen et al. | 2026-07-15 |
+| [Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study](http://arxiv.org/abs/2607.14041v1) | Zhan Chen, Jiqiao Ma et al. | 2026-07-15 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
