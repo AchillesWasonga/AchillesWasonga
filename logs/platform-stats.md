@@ -1,6 +1,6 @@
-# Platform Stats — 2026-07-16
+# Platform Stats — 2026-07-17
 
-> Auto-fetched daily · Last updated: 12:26 UTC
+> Auto-fetched daily · Last updated: 12:21 UTC
 
 ## TryHackMe · webstyr
 
