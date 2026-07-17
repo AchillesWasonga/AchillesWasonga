@@ -1,32 +1,32 @@
-# Security Research — 2026-07-16
+# Security Research — 2026-07-17
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:31 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:28 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Grok Build is open source](https://github.com/xai-org/grok-build) | 480 | 521 |
-| [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) | 208 | 77 |
-| [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) | 294 | 128 |
-| [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) | 452 | 265 |
-| [Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859) | 60 | 17 |
-| [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) | 95 | 42 |
-| [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) | 47 | 20 |
-| [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/) | 120 | 31 |
+| [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need) | 29 | 17 |
+| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 700 | 154 |
+| [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) | 149 | 18 |
+| [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/) | 205 | 149 |
+| [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) | 239 | 246 |
+| [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020) | 41 | 19 |
+| [Ask HN: Do you say please and thank you to your LLMs?](https://news.ycombinator.com/item?id=48945125) | 9 | 21 |
+| [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089) | 33 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation](http://arxiv.org/abs/2607.14006v1) | Mohammad Allahbakhsh, Mohammad Hassan Bahari et al. | 2026-07-15 |
-| [Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation](http://arxiv.org/abs/2607.13987v1) | Sanket Badhe, Priyanka Tiwari | 2026-07-15 |
-| [ProfMalPlus: Agent-Coordinated Detection of Malicious NPM Packages via Static-Dynamic Analysis Synergy](http://arxiv.org/abs/2607.13965v1) | Yiheng Huang, Zhijia Zhao et al. | 2026-07-15 |
-| [HORCRUX: A Complete PQC RISC-V eXtension Architecture](http://arxiv.org/abs/2607.13939v1) | Alessandra Dolmeta, Valeria Piscopo et al. | 2026-07-15 |
-| [Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models](http://arxiv.org/abs/2607.14049v1) | Hefeng Zhou, Jinxuan Zhang et al. | 2026-07-15 |
-| [Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education](http://arxiv.org/abs/2607.14046v1) | Xanthi Kokkinou, Chaido Mizeli et al. | 2026-07-15 |
-| [AI-accelerated End-to-End Framework for Rapid Professional Upskilling](http://arxiv.org/abs/2607.14044v1) | Tam Nguyen, Hung Nguyen et al. | 2026-07-15 |
-| [Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study](http://arxiv.org/abs/2607.14041v1) | Zhan Chen, Jiqiao Ma et al. | 2026-07-15 |
+| [Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](http://arxiv.org/abs/2607.15263v1) | Paul Kassianik, Blaine Nelson et al. | 2026-07-16 |
+| [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | Weimeng Wang, Ziqiang Wang et al. | 2026-07-16 |
+| [Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents](http://arxiv.org/abs/2607.15143v1) | Aadesh Bagmar, Pushkar Saraf | 2026-07-16 |
+| [Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs](http://arxiv.org/abs/2607.15118v1) | Elvira Moreno, Tiziano Marinaro et al. | 2026-07-16 |
+| [RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1) | Yunfan Jiang, Yevgen Chebotar et al. | 2026-07-16 |
+| [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) | Yasheng Sun, Zezi Zeng et al. | 2026-07-16 |
+| [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) | Victoria Graf, Hannaneh Hajishirzi et al. | 2026-07-16 |
+| [SceneBind: Binding What and Where Across Vision, Audio and Language](http://arxiv.org/abs/2607.15265v1) | Mingfei Chen, Zijun Cui et al. | 2026-07-16 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
