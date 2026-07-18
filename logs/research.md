@@ -1,19 +1,19 @@
-# Security Research — 2026-07-17
+# Security Research — 2026-07-18
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:28 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:21 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need) | 29 | 17 |
-| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 700 | 154 |
-| [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) | 149 | 18 |
-| [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/) | 205 | 149 |
-| [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) | 239 | 246 |
-| [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020) | 41 | 19 |
-| [Ask HN: Do you say please and thank you to your LLMs?](https://news.ycombinator.com/item?id=48945125) | 9 | 21 |
-| [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089) | 33 | 1 |
+| [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) | 261 | 68 |
+| [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch) | 125 | 40 |
+| [The state of open source AI](https://stateofopensource.ai/) | 456 | 328 |
+| [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/) | 95 | 6 |
+| [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1) | 196 | 159 |
+| [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) | 297 | 296 |
+| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 797 | 173 |
+| [Tannakian Reconstruction](https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/) | 32 | 3 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
