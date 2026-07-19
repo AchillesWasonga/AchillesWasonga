@@ -1,19 +1,18 @@
-# Security Research — 2026-07-18
+# Security Research — 2026-07-19
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:21 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:23 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) | 261 | 68 |
-| [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch) | 125 | 40 |
-| [The state of open source AI](https://stateofopensource.ai/) | 456 | 328 |
-| [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/) | 95 | 6 |
-| [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1) | 196 | 159 |
-| [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) | 297 | 296 |
-| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 797 | 173 |
-| [Tannakian Reconstruction](https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/) | 32 | 3 |
+| [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) | 38 | 27 |
+| [Perforce charges $500 for training training videos.. and it's AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic) | 36 | 53 |
+| [Follow the money, especially in open source](https://www.osnews.com/story/145548/follow-the-money-especially-in-open-source/) | 4 | 0 |
+| [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/) | 32 | 42 |
+| [LG Monitors Caught Installing Adware and App with Access to All System Resources](https://www.privacyguides.org/news/2026/07/17/lg-monitors-caught-installing-adware-and-app-with-access-to-all-system-resources-without-asking/) | 6 | 1 |
+| [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch) | 167 | 56 |
+| [When China's open-source AI is a trap](https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap) | 7 | 3 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
