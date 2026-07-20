@@ -1,31 +1,30 @@
-# Security Research — 2026-07-19
+# Security Research — 2026-07-20
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:23 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:55 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) | 38 | 27 |
-| [Perforce charges $500 for training training videos.. and it's AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic) | 36 | 53 |
-| [Follow the money, especially in open source](https://www.osnews.com/story/145548/follow-the-money-especially-in-open-source/) | 4 | 0 |
-| [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/) | 32 | 42 |
-| [LG Monitors Caught Installing Adware and App with Access to All System Resources](https://www.privacyguides.org/news/2026/07/17/lg-monitors-caught-installing-adware-and-app-with-access-to-all-system-resources-without-asking/) | 6 | 1 |
-| [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch) | 167 | 56 |
-| [When China's open-source AI is a trap](https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap) | 7 | 3 |
+| [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) | 171 | 85 |
+| [1-Bit LLM in the Browser](https://huggingface.co/spaces/webml-community/bonsai-webgpu) | 49 | 19 |
+| [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/) | 77 | 6 |
+| [LLMs aren't remotely like compilers or power tools](https://blainehansen.me/post/llms-not-power-tools/) | 19 | 11 |
+| [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) | 47 | 48 |
+| [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds) | 89 | 27 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](http://arxiv.org/abs/2607.15263v1) | Paul Kassianik, Blaine Nelson et al. | 2026-07-16 |
-| [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | Weimeng Wang, Ziqiang Wang et al. | 2026-07-16 |
-| [Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents](http://arxiv.org/abs/2607.15143v1) | Aadesh Bagmar, Pushkar Saraf | 2026-07-16 |
-| [Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs](http://arxiv.org/abs/2607.15118v1) | Elvira Moreno, Tiziano Marinaro et al. | 2026-07-16 |
-| [RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1) | Yunfan Jiang, Yevgen Chebotar et al. | 2026-07-16 |
-| [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) | Yasheng Sun, Zezi Zeng et al. | 2026-07-16 |
-| [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) | Victoria Graf, Hannaneh Hajishirzi et al. | 2026-07-16 |
-| [SceneBind: Binding What and Where Across Vision, Audio and Language](http://arxiv.org/abs/2607.15265v1) | Mingfei Chen, Zijun Cui et al. | 2026-07-16 |
+| [Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities](http://arxiv.org/abs/2607.16175v1) | Md Erfan, Ahmed Ryan et al. | 2026-07-17 |
+| [DoSQ: A Cross-Layer Denial of Service Quality Attack by Exploiting Side Channels in 5G NR](http://arxiv.org/abs/2607.16102v1) | Mahmudul Hassan Ashik, Moinul Hossain | 2026-07-17 |
+| [Gasp: A DeFi Application Specic Rollup as a Consolidation Layer for All Assets](http://arxiv.org/abs/2607.16052v1) | Stanislav Vozarik, Mateusz Nowakowski et al. | 2026-07-17 |
+| [AI Watermark Evidence Fails Forensic Readiness: An Empirical Evaluation](http://arxiv.org/abs/2607.16010v1) | Saifur Rahman Tamim, Amir Labib Khan | 2026-07-17 |
+| [Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities](http://arxiv.org/abs/2607.16175v1) | Md Erfan, Ahmed Ryan et al. | 2026-07-17 |
+| [When Does Muon Help Agentic Reinforcement Learning?](http://arxiv.org/abs/2607.16169v1) | Kai Ruan, Jinghao Lin et al. | 2026-07-17 |
+| [An Exam for Active Observers](http://arxiv.org/abs/2607.16165v1) | Jiarui Zhang, Muzi Tao et al. | 2026-07-17 |
+| [When Do Multi-Agent Systems Help? An Information Bottleneck Perspective](http://arxiv.org/abs/2607.16133v1) | Wendi Yu, Lianhao Zhou et al. | 2026-07-17 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
