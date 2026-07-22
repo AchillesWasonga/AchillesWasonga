@@ -1,26 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:49 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:48 UTC
 
-## [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)
+## [VuwCTF 2026](https://2026.vuwctf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 39.0 |
-| Organizer | DeadSec |
+| Weight | 25.0 |
+| Organizer | VuwCTF |
 | Start | 2026-07-31 |
-| End | 2026-08-01 |
+| End | 2026-08-02 |
 
 ### Description
 
-DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team.
+VuwCTF returns for 2026!
 
-## Category
-There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc...
+For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are available on our website (https://vuwctf.com/2026).
 
-## Sponsor
-TBD
+Thank you to our sponsors who provide the support needed to r...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
