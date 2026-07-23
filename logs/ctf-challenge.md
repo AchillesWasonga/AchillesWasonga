@@ -2,23 +2,25 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:48 UTC
 
-## [VuwCTF 2026](https://2026.vuwctf.com/)
+## [DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 25.0 |
-| Organizer | VuwCTF |
-| Start | 2026-07-31 |
-| End | 2026-08-02 |
+| Weight | 0.0 |
+| Organizer | diver_osint |
+| Start | 2026-07-25 |
+| End | 2026-07-26 |
 
 ### Description
 
-VuwCTF returns for 2026!
+DIVER OSINT CTF is the real-world oriented OSINT CTF.
+We provide country/region-neutral OSINT challenges.
+Challenges will be available in English and Japanese.
+Anyone is welcome to join.
 
-For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are available on our website (https://vuwctf.com/2026).
-
-Thank you to our sponsors who provide the support needed to r...
+Discord: https://discord.diverctf.org/
+Twitter: https://x.com/DIVER_OSINT_CTF
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
