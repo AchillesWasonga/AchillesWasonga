@@ -1,19 +1,16 @@
-# Security Research — 2026-07-24
+# Security Research — 2026-07-25
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:32 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:25 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | 255 | 131 |
-| [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16) | 253 | 281 |
-| [Hetzner is working on LLM Inference](https://sliplane.io/blog/hetzner-inference) | 22 | 6 |
-| [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro) | 169 | 26 |
-| [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/) | 285 | 196 |
-| [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777) | 66 | 13 |
-| [A Pragmatic Approach to LLMs](https://gracefulliberty.com/articles/pragmatic-llms/) | 6 | 0 |
-| [Show HN: Remux – an open-source tmux workspace designed for iPhone](https://github.com/h3nock/remux) | 94 | 31 |
+| [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777) | 230 | 67 |
+| [The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da](https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/) | 4 | 0 |
+| [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) | 493 | 282 |
+| [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html) | 104 | 67 |
+| [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro) | 186 | 33 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
