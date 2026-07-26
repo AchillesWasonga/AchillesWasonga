@@ -1,16 +1,16 @@
-# Security Research — 2026-07-25
+# Security Research — 2026-07-26
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:25 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:27 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777) | 230 | 67 |
-| [The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da](https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/) | 4 | 0 |
-| [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) | 493 | 282 |
-| [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html) | 104 | 67 |
-| [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro) | 186 | 33 |
+| [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot) | 73 | 22 |
+| [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai) | 204 | 48 |
+| [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) | 168 | 151 |
+| [Becoming a Research Engineer at a Big LLM Lab](https://www.maxmynter.com/pages/blog/jobhunt) | 34 | 14 |
+| [Agentic test processes, LLM benchmarks, and other notes on agentic coding](https://danluu.com/ai-coding/) | 15 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
