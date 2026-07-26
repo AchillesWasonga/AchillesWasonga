@@ -1,27 +1,26 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:32 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:40 UTC
 
-## [D^3CTF 2026](https://d3c.tf/)
+## [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 69.22 |
-| Organizer | D^3CTF Organizers |
-| Start | 2026-07-25 |
-| End | 2026-07-26 |
+| Weight | 39.0 |
+| Organizer | DeadSec |
+| Start | 2026-07-31 |
+| End | 2026-08-01 |
 
 ### Description
 
-Organized by @Vidar, @CNSS, @L-Team, the 7th D^3CTF is coming!
+DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team.
 
-D^3 means "the cube of Dian", i.e., the cube of "electronic" in Chinese. As the three teams co-hosting this CTF game come from three "University of Electronic" in China (UESTC, Xidian, HDU).
+## Category
+There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc...
 
-Have fun!
-
-[+] Sponsors:
-・Infrastruct...
+## Sponsor
+TBD
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
