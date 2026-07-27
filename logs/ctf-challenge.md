@@ -1,26 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:40 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:18 UTC
 
-## [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)
+## [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 39.0 |
-| Organizer | DeadSec |
-| Start | 2026-07-31 |
-| End | 2026-08-01 |
+| Weight | 84.79 |
+| Organizer | LIT CTF |
+| Start | 2026-08-01 |
+| End | 2026-08-03 |
 
 ### Description
 
-DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team.
+Lexington Informatics Tournament CTF 2026 is a Jeopardy-style, beginner-friendly online CTF that's open to everyone. It is hosted by members of the LexMACS club from Lexington High School with the help of some amazing guest writers. You may form teams of up to 3 contestants!
 
-## Category
-There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc...
-
-## Sponsor
-TBD
+Current and Past Spon...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
