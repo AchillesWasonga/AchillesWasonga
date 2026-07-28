@@ -1,6 +1,6 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 10:18 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:53 UTC
 
 ## [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)
 
