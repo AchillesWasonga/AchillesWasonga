@@ -1,32 +1,32 @@
-# Security Research — 2026-07-28
+# Security Research — 2026-07-29
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:39 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:43 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Don't ask an LLM for a confidence score](https://justinflick.com/2026/07/27/llm-confidence-scores.html) | 40 | 3 |
-| [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/) | 160 | 52 |
-| [OpenAI's rogue model attack is just the beginning](https://blog.peterwildeford.com/p/openais-rogue-model-attack-is-just) | 30 | 6 |
-| [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) | 910 | 89 |
-| [Microsoft unveils AI security tools it says outperform competing platforms](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/) | 11 | 3 |
-| [Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)](https://macyou.co/benchmarks) | 12 | 3 |
-| [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/) | 44 | 2 |
-| [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc) | 276 | 153 |
+| [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf) | 27 | 11 |
+| [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers) | 93 | 36 |
+| [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) | 123 | 56 |
+| [Now is the time to give LLMs access to the ACM digital library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/) | 172 | 146 |
+| [DMARC has been public since 2012 but most company domains still don't enforce it](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026) | 192 | 143 |
+| [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html) | 105 | 66 |
+| [Underwater oxygen loss threatens earth's stability, researchers warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn) | 158 | 86 |
+| [Ubuntu's TPM encryption switches to snap kernel that blocks deb kernel packages](https://bare.systems/posts/ubuntu-tpm-snap/) | 46 | 24 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](http://arxiv.org/abs/2607.24692v1) | Jhonatan Tavori, Gur-Eyal Sela et al. | 2026-07-27 |
-| [Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents](http://arxiv.org/abs/2607.24625v1) | Arseny Kravchenko, Vadim Liventsev et al. | 2026-07-27 |
-| [Modeling Local Exploit Hazard - A Bayesian Framework for Quantifying Exploit Risk and Operational Efficiency](http://arxiv.org/abs/2607.24618v1) | Stephen Shaffer, Laura Voicu | 2026-07-27 |
-| [TRACE-CTI: Auditable Post-Extraction Governance of TTP Claims with Knowledge Graphs](http://arxiv.org/abs/2607.24563v1) | Federico Valletta, Giacomo Longo et al. | 2026-07-27 |
-| [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1) | Hangjie Yuan, Yichen Qian et al. | 2026-07-27 |
-| [Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation](http://arxiv.org/abs/2607.24731v1) | Bingnan Li, Haozhe Wang et al. | 2026-07-27 |
-| [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](http://arxiv.org/abs/2607.24730v1) | Krithi Shailya, Ananya Lakshmi Ravi et al. | 2026-07-27 |
-| [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](http://arxiv.org/abs/2607.24720v1) | Tianyi Men, Zhuoran Jin et al. | 2026-07-27 |
+| [Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?](http://arxiv.org/abs/2607.25995v1) | Farooq Shaikh | 2026-07-28 |
+| [\textsc{IH-Benchmark}: A Conflict-Centered Benchmark for Instruction-Hierarchy Robustness in LLM Applications](http://arxiv.org/abs/2607.25987v1) | Conor McCauley, Zeliang Kan et al. | 2026-07-28 |
+| [E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing](http://arxiv.org/abs/2607.25968v1) | Ayanga Imesha Kumari Kalupahana, Vishruti Ranjan et al. | 2026-07-28 |
+| [From Role Prompt to Infinite Thinking: Exploiting Persona Conditioning for Inference Cost Attacks in LLMs](http://arxiv.org/abs/2607.25936v1) | Zhiyi Mou, Wangze Ni et al. | 2026-07-28 |
+| [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) | Haolei Xu, Xiaowen Xu et al. | 2026-07-28 |
+| [$π\mathbf{R}^2$: Reactive Real-time Flow Policies](http://arxiv.org/abs/2607.26055v1) | Sungjae Park, Shubham Tulsiani | 2026-07-28 |
+| [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | Abhishek Pillai, Samir Kumar Nayak et al. | 2026-07-28 |
+| [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1) | Elias Fernández Domingos, The Anh Han | 2026-07-28 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
