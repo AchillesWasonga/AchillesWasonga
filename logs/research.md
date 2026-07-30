@@ -1,32 +1,32 @@
-# Security Research — 2026-07-29
+# Security Research — 2026-07-30
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:43 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:36 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf) | 27 | 11 |
-| [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers) | 93 | 36 |
-| [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) | 123 | 56 |
-| [Now is the time to give LLMs access to the ACM digital library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/) | 172 | 146 |
-| [DMARC has been public since 2012 but most company domains still don't enforce it](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026) | 192 | 143 |
-| [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html) | 105 | 66 |
-| [Underwater oxygen loss threatens earth's stability, researchers warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn) | 158 | 86 |
-| [Ubuntu's TPM encryption switches to snap kernel that blocks deb kernel packages](https://bare.systems/posts/ubuntu-tpm-snap/) | 46 | 24 |
+| [LLM Honeypot](https://llm2human.pages.dev/) | 281 | 84 |
+| [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) | 390 | 159 |
+| [Cisco FMC static credential vulnerability exploited as a zero-day](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh) | 4 | 0 |
+| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | 825 | 292 |
+| [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers) | 245 | 76 |
+| [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/) | 88 | 36 |
+| [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) | 62 | 15 |
+| [OpenDerm – Open-source robotic 3D skin imaging](https://openderm.github.io/) | 16 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?](http://arxiv.org/abs/2607.25995v1) | Farooq Shaikh | 2026-07-28 |
-| [\textsc{IH-Benchmark}: A Conflict-Centered Benchmark for Instruction-Hierarchy Robustness in LLM Applications](http://arxiv.org/abs/2607.25987v1) | Conor McCauley, Zeliang Kan et al. | 2026-07-28 |
-| [E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing](http://arxiv.org/abs/2607.25968v1) | Ayanga Imesha Kumari Kalupahana, Vishruti Ranjan et al. | 2026-07-28 |
-| [From Role Prompt to Infinite Thinking: Exploiting Persona Conditioning for Inference Cost Attacks in LLMs](http://arxiv.org/abs/2607.25936v1) | Zhiyi Mou, Wangze Ni et al. | 2026-07-28 |
-| [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) | Haolei Xu, Xiaowen Xu et al. | 2026-07-28 |
-| [$π\mathbf{R}^2$: Reactive Real-time Flow Policies](http://arxiv.org/abs/2607.26055v1) | Sungjae Park, Shubham Tulsiani | 2026-07-28 |
-| [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | Abhishek Pillai, Samir Kumar Nayak et al. | 2026-07-28 |
-| [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1) | Elias Fernández Domingos, The Anh Han | 2026-07-28 |
+| [Function Privatization in the Local Model](http://arxiv.org/abs/2607.27164v1) | Yuting Liang, Tian Shu et al. | 2026-07-29 |
+| [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | Yongjian Guo, Wanlun Ma et al. | 2026-07-29 |
+| [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](http://arxiv.org/abs/2607.27080v1) | Xuanze Chen, Xukang Xie et al. | 2026-07-29 |
+| [HoF-Bench: Rediscovering Real AI-Discovered CVEs Without Frontier Models](http://arxiv.org/abs/2607.27030v1) | Petr Simecek, Elnaz Babayeva et al. | 2026-07-29 |
+| [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | Peter Kirgis, Sayash Kapoor et al. | 2026-07-29 |
+| [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) | Julien Benchek, Austin Bennett et al. | 2026-07-29 |
+| [The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making](http://arxiv.org/abs/2607.27179v1) | Nia Nixon, Jaeyoon Choi et al. | 2026-07-29 |
+| [Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork](http://arxiv.org/abs/2607.27177v1) | Peter Tisnikar, Maja Swieczkowska et al. | 2026-07-29 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
