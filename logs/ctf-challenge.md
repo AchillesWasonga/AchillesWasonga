@@ -1,24 +1,26 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:50 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:54 UTC
 
-## [BushBash CTF](http://bushbash.cssa.club/)
+## [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | CSSA |
+| Weight | 39.0 |
+| Organizer | DeadSec |
 | Start | 2026-07-31 |
-| End | 2026-08-02 |
+| End | 2026-08-01 |
 
 ### Description
 
-BushBash CTF is a CTF run by the ANU Computer Science Students’ Association which will run for 48 hours with online only participation available and having an on site capability over the 48 hours on campus with an opening and closing event.
+DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team.
 
-Categories of OSINT, rev, pwn, web, crypto and misc.
+## Category
+There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc...
 
-...
+## Sponsor
+TBD
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
