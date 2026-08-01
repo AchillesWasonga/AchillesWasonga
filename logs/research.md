@@ -1,19 +1,19 @@
-# Security Research — 2026-07-31
+# Security Research — 2026-08-01
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:41 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:26 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) | 116 | 20 |
-| [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/) | 265 | 211 |
-| [Hacker Public Radio](https://hackerpublicradio.org/) | 153 | 29 |
-| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | 306 | 112 |
-| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 50 | 65 |
-| [Yann LeCun's $1B Bet Against LLMs [Part 1] [video]](https://www.youtube.com/watch?v=kYkIdXwW2AE) | 6 | 0 |
-| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | 896 | 330 |
-| [Anthropic says Claude AI hacked three organisations during cyber tests](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po) | 18 | 8 |
+| [AWS Secrets Manager Terraform: Least-Privilege Access](https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/) | 15 | 0 |
+| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 154 | 165 |
+| [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/) | 246 | 127 |
+| [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/) | 121 | 74 |
+| [The Chatbot Act Forces One Parenting Model on Every Family](https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family) | 11 | 0 |
+| [PostgreSQL and the Linux OOM Killer: A Better Default](https://clickhouse.com/blog/strict-memory-overcommit-for-postgres) | 4 | 0 |
+| [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet) | 39 | 4 |
+| [Just brute force your embeddings](https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings) | 31 | 13 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
