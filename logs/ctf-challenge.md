@@ -1,26 +1,23 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:54 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:38 UTC
 
-## [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)
+## [SCAN 2026 Online Qualifier](https://scan.sx/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 39.0 |
-| Organizer | DeadSec |
-| Start | 2026-07-31 |
-| End | 2026-08-01 |
+| Weight | 0 |
+| Organizer | D Asset Inc. |
+| Start | 2026-08-02 |
+| End | 2026-08-03 |
 
 ### Description
 
-DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team.
+SCAN (Secure Crypto Asset Networks) is an international blockchain investigation and digital asset tracing competition. Teams will solve real-world blockchain intelligence and cryptocurrency investigation challenges to qualify for the offline finals in Seoul.
 
-## Category
-There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc...
-
-## Sponsor
-TBD
+/Registration/
+Online registration o...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
