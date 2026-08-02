@@ -1,4 +1,4 @@
-# Security Research — 2026-08-01
+# Security Research — 2026-08-02
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:26 UTC
 
@@ -6,14 +6,13 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [AWS Secrets Manager Terraform: Least-Privilege Access](https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/) | 15 | 0 |
-| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 154 | 165 |
-| [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/) | 246 | 127 |
-| [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/) | 121 | 74 |
-| [The Chatbot Act Forces One Parenting Model on Every Family](https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family) | 11 | 0 |
-| [PostgreSQL and the Linux OOM Killer: A Better Default](https://clickhouse.com/blog/strict-memory-overcommit-for-postgres) | 4 | 0 |
-| [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet) | 39 | 4 |
-| [Just brute force your embeddings](https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings) | 31 | 13 |
+| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 30 | 2 |
+| [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular) | 16 | 8 |
+| [US bank places trust in ransomware crew that promised to delete its data](https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888) | 6 | 0 |
+| [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/) | 10 | 8 |
+| [JobRadar: Open-source job search agent that scores listings with a local LLM](https://github.com/ANIRudH-lab-life/job-radar) | 3 | 0 |
+| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 179 | 215 |
+| [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation) | 28 | 8 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
