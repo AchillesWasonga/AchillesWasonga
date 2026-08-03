@@ -1,31 +1,30 @@
-# Security Research — 2026-08-02
+# Security Research — 2026-08-03
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:26 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 12:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 30 | 2 |
-| [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular) | 16 | 8 |
-| [US bank places trust in ransomware crew that promised to delete its data](https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888) | 6 | 0 |
-| [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/) | 10 | 8 |
-| [JobRadar: Open-source job search agent that scores listings with a local LLM](https://github.com/ANIRudH-lab-life/job-radar) | 3 | 0 |
-| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 179 | 215 |
-| [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation) | 28 | 8 |
+| [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) | 61 | 13 |
+| [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/) | 110 | 86 |
+| [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/) | 7 | 0 |
+| [EU enforces labeling AI generated content](https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies) | 13 | 5 |
+| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 176 | 26 |
+| [KotlinLLM](https://github.com/JetBrains-Research/kotlinllm-plugin) | 18 | 1 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Formalization of security](http://arxiv.org/abs/2607.28551v1) | Gilles Barthe | 2026-07-30 |
-| [Implementing Homomorphic Encryption-Based Logic Locking in System-on-Chip Designs](http://arxiv.org/abs/2607.28542v1) | Ye Ziyang, Makoto Ikeda | 2026-07-30 |
-| [Cybersecurity Detection Classification with Reasoning-enabled Language Models](http://arxiv.org/abs/2607.28460v1) | Amol Khanna, Manu Nandan et al. | 2026-07-30 |
-| [Emerging Challenges in Threat Modeling for GenAI-Augmented Systems: A View from the Trenches](http://arxiv.org/abs/2607.28431v1) | Nicolás E. Díaz Ferreyra, Manish Mahesh Kumar et al. | 2026-07-30 |
-| [Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1) | Jonathan J. Heckman, Shani Meynet et al. | 2026-07-30 |
-| [ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](http://arxiv.org/abs/2607.28627v1) | Yao Xiao, Reuben Tan et al. | 2026-07-30 |
-| [PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball](http://arxiv.org/abs/2607.28623v1) | Lizhi Yang, Junheng Li et al. | 2026-07-30 |
-| [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) | Bing Yan, Gregory Wolfe et al. | 2026-07-30 |
+| [CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention](http://arxiv.org/abs/2607.29604v1) | Bryan Kwan, Benjamin Tan | 2026-07-31 |
+| [Beyond Resilience: Antifragility in Critical Infrastructure Cybersecurity](http://arxiv.org/abs/2607.29550v1) | Stephen Flowerday, Mauricio Papa et al. | 2026-07-31 |
+| [Bending the Curve: Operational Cyber Epidemiology for Ransomware](http://arxiv.org/abs/2607.29444v1) | Stephen V Flowerday, Nikolay Lipskiy et al. | 2026-07-31 |
+| [AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair](http://arxiv.org/abs/2607.29422v1) | Michael Fu, Qiyue Mei et al. | 2026-07-31 |
+| [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](http://arxiv.org/abs/2607.29677v1) | Boyang Zhang, Adrian Lyjak et al. | 2026-07-31 |
+| [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | Yimin Chen, Brian Fricke et al. | 2026-07-31 |
+| [AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers](http://arxiv.org/abs/2607.29626v1) | Tianyu Huai, Tingshuo Fan et al. | 2026-07-31 |
+| [The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations](http://arxiv.org/abs/2607.29624v1) | Ilya Mikhelson | 2026-07-31 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
