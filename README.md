@@ -36,20 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,react,aws,azure,nodejs,postgres,linux,bash,git&theme=dark" alt="Tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=security+%3A%3A+Nmap+%7C+Burp+Suite+%7C+Metasploit+%7C+Wireshark+%7C+Kali+%7C+Gobuster+%7C+Nessus" alt="Security tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-004f9e?style=flat-square&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-2e86ab?style=flat-square&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Gobuster-050818?style=flat-square&logoColor=7ad9ff" alt="Gobuster"/>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,aws,linux,kali,git&theme=dark" alt="Tech stack"/>
 </p>
 
 <p align="center">
