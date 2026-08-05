@@ -1,14 +1,14 @@
 # Uptime Monitor — 2026-08-05
 
-> Auto-checked daily · Last updated: 22:52 UTC
+> Auto-checked daily · Last updated: 22:53 UTC
 
 | Site | Status | HTTP | Latency |
 |------|--------|------|---------|
-| [wasonga.com](https://wasonga.com) | UP | 200 | 336ms |
-| [campdevoices.org](https://campdevoices.org) | UP | 200 | 310ms |
-| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 231ms |
-| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 283ms |
-| [elitetechafrica.org](https://www.elitetechafrica.org/) | UP | 200 | 217ms |
+| [wasonga.com](https://wasonga.com) | UP | 200 | 286ms |
+| [campdevoices.org](https://campdevoices.org) | UP | 200 | 285ms |
+| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 344ms |
+| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 362ms |
+| [elitetechafrica.org](https://www.elitetechafrica.org/) | UP | 200 | 488ms |
 
 ## History
 
