@@ -1,0 +1,50 @@
+name: Commit and push
+description: >
+  Commit the given files and push, retrying through transient GitHub errors
+  (HTTP 5xx) and rebasing when another daily workflow pushed first.
+
+inputs:
+  files:
+    description: Space-separated paths to stage
+    required: true
+  message:
+    description: Commit message
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        FILES: ${{ inputs.files }}
+        MESSAGE: ${{ inputs.message }}
+      run: |
+        set -uo pipefail
+
+        git config user.name "webstyr-bot"
+        git config user.email "achwasonga@gmail.com"
+
+        git add -- $FILES
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        git commit -m "$MESSAGE"
+
+        branch="$(git rev-parse --abbrev-ref HEAD)"
+        for attempt in 1 2 3 4 5; do
+          if git push origin "HEAD:$branch"; then
+            echo "Pushed on attempt $attempt."
+            exit 0
+          fi
+          echo "Push failed (attempt $attempt of 5)."
+          if [ "$attempt" -lt 5 ]; then
+            # Covers both causes: a racing workflow (rebase fixes it) and a
+            # transient 5xx (the backoff does).
+            git pull --rebase origin "$branch" || git rebase --abort || true
+            sleep $((attempt * 10))
+          fi
+        done
+
+        echo "::error::Push failed after 5 attempts."
+        exit 1

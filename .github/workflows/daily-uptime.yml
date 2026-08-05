@@ -15,65 +15,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - id: meta
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
       - name: Check site uptime
-        run: |
-          mkdir -p logs
-          DATE=$(date -u +"%Y-%m-%d")
-          TIME=$(date -u +"%H:%M UTC")
+        run: python3 scripts/check_uptime.py
 
-          check_site() {
-            local url=$1
-            local name=$2
-            local start=$(date +%s%3N)
-            local code=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 --connect-timeout 10 "$url")
-            local end=$(date +%s%3N)
-            local ms=$((end - start))
-            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
-              echo "| [$name]($url) | UP | $code | ${ms}ms |"
-            else
-              echo "| [$name]($url) | DOWN | $code | ${ms}ms |"
-            fi
-          }
-
-          {
-            echo "# Uptime Monitor — $DATE"
-            echo ""
-            echo "> Auto-checked daily · Last updated: $TIME"
-            echo ""
-            echo "| Site | Status | HTTP | Latency |"
-            echo "|------|--------|------|---------|"
-            check_site "https://wasonga.com"      "wasonga.com"
-            check_site "https://campdevoices.org" "campdevoices.org"
-            check_site "https://wasongaallan.com" "wasongaallan.com"
-            echo ""
-            echo "## History"
-            echo ""
-            echo "| Date | wasonga.com | campdevoices.org | wasongaallan.com |"
-            echo "|------|-------------|------------------|------------------|"
-          } > logs/uptime.md
-
-          ROW="| $DATE"
-          for url in "https://wasonga.com" "https://campdevoices.org" "https://wasongaallan.com"; do
-            code=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 "$url")
-            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
-              ROW="$ROW | UP"
-            else
-              ROW="$ROW | DOWN"
-            fi
-          done
-          echo "$ROW |" >> logs/uptime-history.md
-
-          tail -30 logs/uptime-history.md >> logs/uptime.md
-
-          echo "" >> logs/uptime.md
-          echo "---" >> logs/uptime.md
-          echo "*Monitored by webstyr-bot · checks run daily at 10:00 UTC*" >> logs/uptime.md
-
-      - name: Commit and push
-        run: |
-          git config user.name "webstyr-bot"
-          git config user.email "achwasonga@gmail.com"
-          git add logs/uptime.md logs/uptime-history.md
-          git diff --staged --quiet || git commit -m "chore(uptime): daily check $(date -u +%Y-%m-%d)"
-          git push
+      - uses: ./.github/actions/commit-push
+        with:
+          files: logs/uptime.md logs/uptime-history.md
+          message: "chore(uptime): daily check ${{ steps.meta.outputs.date }}"

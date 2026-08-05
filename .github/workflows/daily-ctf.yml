@@ -15,14 +15,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - id: meta
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
       - name: Fetch CTF challenge
         run: python3 scripts/fetch_ctf.py
 
-      - name: Commit and push
-        run: |
-          git config user.name "webstyr-bot"
-          git config user.email "achwasonga@gmail.com"
-          git add logs/ctf-challenge.md
-          git diff --staged --quiet || git commit -m "chore(ctf): daily challenge update $(date -u +%Y-%m-%d)"
-          git push
+      - uses: ./.github/actions/commit-push
+        with:
+          files: logs/ctf-challenge.md
+          message: "chore(ctf): daily challenge update ${{ steps.meta.outputs.date }}"
