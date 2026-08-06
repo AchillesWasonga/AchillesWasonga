@@ -1,32 +1,32 @@
-# Security Research — 2026-08-05
+# Security Research — 2026-08-06
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:40 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:43 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) | 4 | 0 |
-| [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html) | 101 | 55 |
-| [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377) | 56 | 10 |
-| [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) | 72 | 31 |
-| [Colorimeter 3nh CR4501 RAL Hack](https://github.com/hallko1234/cr4501-ral-hack) | 14 | 3 |
-| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | 1357 | 559 |
-| [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/) | 37 | 26 |
-| [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/) | 234 | 97 |
+| [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) | 289 | 296 |
+| [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) | 284 | 186 |
+| [The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/) | 13 | 1 |
+| [Meta says AI model accessed the internet and hacked another firm](https://www.bbc.co.uk/news/articles/cx2kgdnyk2po) | 24 | 12 |
+| [Servers can be backdoored by exploiting buggy motherboard controll](https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/) | 11 | 6 |
+| [Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18](https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/) | 187 | 124 |
+| [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) | 69 | 82 |
+| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | 1389 | 564 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints](http://arxiv.org/abs/2608.03937v1) | Noor Hussein, Anil K. Jain et al. | 2026-08-04 |
-| [Delay Attacks on the German Smart Metering Infrastructure: A Security Analysis of CLS Channel Timing Constraints](http://arxiv.org/abs/2608.03751v1) | Fabio Stoll, Benjamin Pottkamp et al. | 2026-08-04 |
-| [Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy](http://arxiv.org/abs/2608.03737v1) | Sandaru Jayawardana, Sennur Ulukus et al. | 2026-08-04 |
-| [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](http://arxiv.org/abs/2608.03700v1) | Yongli Xiang, Zhifang Zhang et al. | 2026-08-04 |
-| [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1) | Changle Qu, Sunhao Dai et al. | 2026-08-04 |
-| [Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](http://arxiv.org/abs/2608.04001v1) | Mohsen Hariri, Weicong Chen et al. | 2026-08-04 |
-| [Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](http://arxiv.org/abs/2608.03983v1) | Hailong Jiang, Feng Yu et al. | 2026-08-04 |
-| [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](http://arxiv.org/abs/2608.03979v1) | Zhen Fang, Yu Zeng et al. | 2026-08-04 |
+| [Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming](http://arxiv.org/abs/2608.05108v1) | Yanting Wang, Chenlong Yin et al. | 2026-08-05 |
+| [Hardware Design and Security in the Era of Chiplets and LLMs](http://arxiv.org/abs/2608.05063v1) | Johann Knechtel, Ozgur Sinanoglu et al. | 2026-08-05 |
+| [Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing](http://arxiv.org/abs/2608.05055v1) | Andrew B. Kahng, Yiting Liu | 2026-08-05 |
+| [Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning](http://arxiv.org/abs/2608.05045v1) | Yuxuan Huang, Xingyu Zeng et al. | 2026-08-05 |
+| [Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1) | Boxiu Li, Zimo Wen et al. | 2026-08-05 |
+| [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | Indraneil Paul, Falko Helm et al. | 2026-08-05 |
+| [Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains](http://arxiv.org/abs/2608.05138v1) | Ayoub Kirouane, Christos Petrocheilos | 2026-08-05 |
+| [OPD-V: Visual On-Policy Self-Distillation with Modality Balance](http://arxiv.org/abs/2608.05131v1) |  Aniri, Jinhe Bi et al. | 2026-08-05 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
