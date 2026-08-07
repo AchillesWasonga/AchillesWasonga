@@ -1,20 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:54 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:20 UTC
 
-## [THJCC CTF 2026 summer](https://ctf2026-sum.thjcc.org/)
+## [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | CakeisTheFake |
-| Start | 2026-08-15 |
-| End | 2026-08-16 |
+| Weight | 24.7 |
+| Organizer | ScriptSorcerers |
+| Start | 2026-08-08 |
+| End | 2026-08-10 |
 
 ### Description
 
-THJCC CTF is a cybersecurity competition tailored specifically for high school and vocational school students in Taiwan. It is co-hosted by the SCINT (Northern Taiwan Student Information Community) and like-minded students nationwide, and has received the support of multiple domestic cybersecurity o...
+ScriptSorcerers is back with scriptCTF 2026! scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels!
+...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
