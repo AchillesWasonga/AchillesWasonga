@@ -1,19 +1,18 @@
-# Security Research — 2026-08-07
+# Security Research — 2026-08-08
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:16 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:07 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/) | 307 | 218 |
-| [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939) | 94 | 31 |
-| [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) | 116 | 6 |
-| [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) | 90 | 57 |
-| [Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware](https://socket.dev/blog/ai-agent-open-source-malware) | 40 | 25 |
-| [Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86](https://github.com/V4bel/Zapscape) | 72 | 12 |
-| [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) | 418 | 496 |
-| [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) | 75 | 97 |
+| [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych) | 71 | 4 |
+| [Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS](https://textlog.cc/about) | 171 | 70 |
+| [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re) | 30 | 2 |
+| [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) | 111 | 77 |
+| [OpenAI Trained Models for Months While Those Models Were Coordinating Exploits](https://thezvi.substack.com/p/openai-trained-its-models-for-months) | 14 | 3 |
+| [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) | 143 | 9 |
+| [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/) | 332 | 243 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
