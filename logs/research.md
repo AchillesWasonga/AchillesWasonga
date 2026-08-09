@@ -1,4 +1,4 @@
-# Security Research — 2026-08-08
+# Security Research — 2026-08-09
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:07 UTC
 
@@ -6,22 +6,16 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych) | 71 | 4 |
-| [Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS](https://textlog.cc/about) | 171 | 70 |
-| [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re) | 30 | 2 |
-| [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/) | 111 | 77 |
-| [OpenAI Trained Models for Months While Those Models Were Coordinating Exploits](https://thezvi.substack.com/p/openai-trained-its-models-for-months) | 14 | 3 |
-| [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) | 143 | 9 |
-| [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/) | 332 | 243 |
+| [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) | 219 | 131 |
+| [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) | 155 | 40 |
+| [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 398 | 381 |
+| [8 Out of 10 Banks in Belgium Hate This One Weird EID RCE](https://amibeingpwned.com/blog/8-in-10-banks-in-belgium) | 17 | 5 |
+| [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country) | 230 | 150 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [A Sound Translation from Tamarin to ProVerif: Enabling Comparative Analysis](http://arxiv.org/abs/2608.06315v1) | Kevin Morio, Yavor Ivanov et al. | 2026-08-06 |
-| [Game Hopping in Lean](http://arxiv.org/abs/2608.06261v1) | Stefan Dziembowski, Grzegorz Fabiański et al. | 2026-08-06 |
-| [Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era](http://arxiv.org/abs/2608.06211v1) | Binze Wang, Jinyu Tian et al. | 2026-08-06 |
-| [Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture](http://arxiv.org/abs/2608.06130v1) | Leo Sambrook, Sampo Sovio | 2026-08-06 |
 | [Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1) | Xian Sun, Wei Chow et al. | 2026-08-06 |
 | [Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1) | Soorya Ram Shimgekar, Michelle Hu et al. | 2026-08-06 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | George Grispos, Sajda Qureshi | 2026-08-06 |
