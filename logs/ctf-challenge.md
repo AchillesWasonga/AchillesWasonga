@@ -1,25 +1,27 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:14 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:31 UTC
 
-## [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)
+## [COMPFEST CTF 2026](https://compfest.id/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | OxV01D |
-| Start | 2026-08-15 |
-| End | 2026-08-16 |
+| Weight | 96.0 |
+| Organizer | CSUI |
+| Start | 2026-08-29 |
+| End | 2026-08-30 |
 
 ### Description
 
-OxV0ID 2026 is an online Jeopardy-style CTF competition organized by the 0xV0ID team.
+Discord server: TBA
+Event URL: TBA
+COMPFEST Website: https://compfest.id
 
-Categories: Web, Pwn, Crypto, Reverse, Misc, Mobile, OSINT
-Team size: Unlimited 
+A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest.
 
-Join our Discord: https://discord.gg/sYt8HH9qU
+***
+Please keep in mind this e...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
