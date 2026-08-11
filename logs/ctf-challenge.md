@@ -1,27 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:31 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:20 UTC
 
-## [COMPFEST CTF 2026](https://compfest.id/)
+## [HackHowl 2026](https://hackhowl.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 96.0 |
-| Organizer | CSUI |
-| Start | 2026-08-29 |
-| End | 2026-08-30 |
+| Weight | 0.0 |
+| Organizer | Hack Howl |
+| Start | 2026-08-15 |
+| End | 2026-08-17 |
 
 ### Description
 
-Discord server: TBA
-Event URL: TBA
-COMPFEST Website: https://compfest.id
+HackHowl 2026
 
-A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest.
+HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure.
 
-***
-Please keep in mind this e...
+CTF: August 14–15 | Bug Bou...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
