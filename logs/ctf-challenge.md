@@ -2,19 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:25 UTC
 
-## [THJCC CTF 2026 summer](https://ctf2026-sum.thjcc.org/)
+## [HackHowl 2026](https://hackhowl.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | CakeisTheFake |
+| Organizer | Hack Howl |
 | Start | 2026-08-15 |
-| End | 2026-08-16 |
+| End | 2026-08-17 |
 
 ### Description
 
-THJCC CTF is a cybersecurity competition tailored specifically for high school and vocational school students in Taiwan. It is co-hosted by the SCINT (Northern Taiwan Student Information Community) and like-minded students nationwide, and has received the support of multiple domestic cybersecurity o...
+HackHowl 2026
+
+HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure.
+
+CTF: August 14–15 | Bug Bou...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
