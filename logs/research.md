@@ -1,30 +1,30 @@
-# Security Research — 2026-08-13
+# Security Research — 2026-08-14
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:16 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:14 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1068 | 198 |
-| [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights) | 281 | 213 |
-| [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) | 296 | 42 |
-| [White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/) | 55 | 12 |
-| [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) | 256 | 148 |
-| [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) | 686 | 301 |
+| [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain) | 38 | 10 |
+| [Covert CIA program said to be behind mysterious attacks on Galápagos boats](https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/) | 19 | 8 |
+| [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/) | 59 | 16 |
+| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1186 | 229 |
+| [Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory) | 61 | 36 |
+| [We eliminated 1,400 CVEs in NanoClaw's container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood) | 68 | 46 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents](http://arxiv.org/abs/2608.12273v1) | Junliang Liu, Ruoyu Li et al. | 2026-08-12 |
-| [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](http://arxiv.org/abs/2608.12246v1) | Jin Lu, Xuening Han et al. | 2026-08-12 |
-| [Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](http://arxiv.org/abs/2608.12190v1) | Md Yassir Mottalib, Md Yousuf et al. | 2026-08-12 |
-| [A Comparison of Malware Image Transformations Using Grad-CAM and Hybrid Learning Models](http://arxiv.org/abs/2608.12077v1) | Vibha Bhavikatti, Mark Stamp | 2026-08-12 |
-| [DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1) | Yan Deng, Fei Xu | 2026-08-12 |
-| [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](http://arxiv.org/abs/2608.12307v1) | Cheng Qian, Wenting Zhao et al. | 2026-08-12 |
-| [Redistribution-based Cost Inference Improves Sparse Safe Offline RL](http://arxiv.org/abs/2608.12306v1) | Ebenezer Gelo, Geraud Nangue Tasse et al. | 2026-08-12 |
-| [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1) | Saman Marandi, Yu-Shu Hu et al. | 2026-08-12 |
+| [Concept Drift Detection and Adaptive Retraining of Malware Classification Models](http://arxiv.org/abs/2608.13465v1) | Christofer Washington Berruz Chungata, Martin Jurecek et al. | 2026-08-13 |
+| [LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](http://arxiv.org/abs/2608.13450v1) | Md Wasiul Haque, Sagar Dasgupta et al. | 2026-08-13 |
+| [Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair](http://arxiv.org/abs/2608.13404v1) | Benjamin Agyekum, Fabio Santos | 2026-08-13 |
+| [TeleGapper: On the (un)reliability of Privacy Policies in Telegram Mini apps](http://arxiv.org/abs/2608.13390v1) | Luca Ferrari, Mariano Ceccato et al. | 2026-08-13 |
+| [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1) | Yaxin Luo, Haobin Jiang et al. | 2026-08-13 |
+| [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | Bobo Li, Hao Fei et al. | 2026-08-13 |
+| [HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](http://arxiv.org/abs/2608.13555v1) | Dairu Liu, Zekun Qi et al. | 2026-08-13 |
+| [QuoteBench: How Matched Scores Can Hide Command-Path Failures](http://arxiv.org/abs/2608.13547v1) | Shangao Li, Yao Zhang et al. | 2026-08-13 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
