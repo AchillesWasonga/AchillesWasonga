@@ -1,24 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:25 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:23 UTC
 
-## [HackHowl 2026](https://hackhowl.com/)
+## [Trace Athena OSINT CTF ](https://trace.athena-ctf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | Hack Howl |
+| Weight | 0 |
+| Organizer | Athena-CTF |
 | Start | 2026-08-15 |
-| End | 2026-08-17 |
+| End | 2026-08-15 |
 
 ### Description
 
-HackHowl 2026
+OSINT CTF. A 15 Hour open-source intelligence CTF. Nothing you need is hidden;it is simply scattered. Fifteen challenges, fifteen hours, and one rule that matters: everything stays passive.
 
-HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure.
-
-CTF: August 14–15 | Bug Bou...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
