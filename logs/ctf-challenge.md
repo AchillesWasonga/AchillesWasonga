@@ -1,21 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:23 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [Trace Athena OSINT CTF ](https://trace.athena-ctf.com/)
+## [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Athena-CTF |
-| Start | 2026-08-15 |
-| End | 2026-08-15 |
+| Weight | 0.0 |
+| Organizer | haruulzangi-organizers |
+| Start | 2026-08-22 |
+| End | 2026-08-23 |
 
 ### Description
 
-OSINT CTF. A 15 Hour open-source intelligence CTF. Nothing you need is hidden;it is simply scattered. Fifteen challenges, fifteen hours, and one rule that matters: everything stays passive.
-
+Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community.
+We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersec...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
