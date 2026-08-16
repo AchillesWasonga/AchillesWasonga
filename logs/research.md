@@ -1,4 +1,4 @@
-# Security Research — 2026-08-15
+# Security Research — 2026-08-16
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
 
@@ -6,14 +6,12 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 352 | 158 |
-| [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/) | 85 | 53 |
-| [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) | 43 | 12 |
-| [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | 404 | 246 |
-| [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html) | 11 | 4 |
-| [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700) | 41 | 0 |
-| [Ntfy – open-source Push to Mobile](https://ntfy.sh/) | 96 | 42 |
-| [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain) | 76 | 22 |
+| [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/) | 132 | 88 |
+| [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) | 122 | 59 |
+| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 448 | 241 |
+| [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | 487 | 282 |
+| [Growth of CVEs fixed in Postgres looks exponential](https://twitter.com/samokhvalov/status/2088870235705319924) | 3 | 0 |
+| [US Space Force gives Rocket Lab $397M to build threat-tracking 'Flatellites'](https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites) | 16 | 0 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
