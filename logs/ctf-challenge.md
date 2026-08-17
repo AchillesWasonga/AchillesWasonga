@@ -1,6 +1,6 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:14 UTC
 
 ## [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)
 
