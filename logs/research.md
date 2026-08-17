@@ -1,30 +1,30 @@
-# Security Research — 2026-08-16
+# Security Research — 2026-08-17
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:06 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/) | 132 | 88 |
-| [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) | 122 | 59 |
-| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 448 | 241 |
-| [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | 487 | 282 |
-| [Growth of CVEs fixed in Postgres looks exponential](https://twitter.com/samokhvalov/status/2088870235705319924) | 3 | 0 |
-| [US Space Force gives Rocket Lab $397M to build threat-tracking 'Flatellites'](https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites) | 16 | 0 |
+| [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/) | 146 | 43 |
+| [US Air Force jet engine manufacturing plagued by 'significant challenges'](https://www.militarytimes.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/) | 16 | 14 |
+| [What I learned securing Sniffnet with the GitHub secure open source fund](https://sniffnet.app/news/github-secure-open-source-fund/) | 17 | 3 |
+| [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/) | 50 | 46 |
+| [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/) | 132 | 60 |
+| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 455 | 247 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Concept Drift Detection and Adaptive Retraining of Malware Classification Models](http://arxiv.org/abs/2608.13465v1) | Christofer Washington Berruz Chungata, Martin Jurecek et al. | 2026-08-13 |
-| [LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](http://arxiv.org/abs/2608.13450v1) | Md Wasiul Haque, Sagar Dasgupta et al. | 2026-08-13 |
-| [Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair](http://arxiv.org/abs/2608.13404v1) | Benjamin Agyekum, Fabio Santos | 2026-08-13 |
-| [TeleGapper: On the (un)reliability of Privacy Policies in Telegram Mini apps](http://arxiv.org/abs/2608.13390v1) | Luca Ferrari, Mariano Ceccato et al. | 2026-08-13 |
-| [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1) | Yaxin Luo, Haobin Jiang et al. | 2026-08-13 |
-| [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | Bobo Li, Hao Fei et al. | 2026-08-13 |
-| [HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](http://arxiv.org/abs/2608.13555v1) | Dairu Liu, Zekun Qi et al. | 2026-08-13 |
-| [QuoteBench: How Matched Scores Can Hide Command-Path Failures](http://arxiv.org/abs/2608.13547v1) | Shangao Li, Yao Zhang et al. | 2026-08-13 |
+| [Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking](http://arxiv.org/abs/2608.14533v1) | Ruizhe Wang, Meng Xu et al. | 2026-08-14 |
+| [Trust Without Boundaries: An Architectural Analysis of Satellite Flight Software](http://arxiv.org/abs/2608.14532v1) | Jack Vanlyssel, Gruia-Catalin Roman et al. | 2026-08-14 |
+| [Lower Bounds on Black-Box Constructions of Pseudorandom Functions](http://arxiv.org/abs/2608.14501v1) | Bar Alon, Itai Dinur et al. | 2026-08-14 |
+| [STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X](http://arxiv.org/abs/2608.14418v1) | Yasir Ech-Chammakhy, Oussama Azrara et al. | 2026-08-14 |
+| [Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1) | Karel Becerra, Boris Mederos et al. | 2026-08-14 |
+| [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](http://arxiv.org/abs/2608.14530v1) | Zian Meng, Zhen Li et al. | 2026-08-14 |
+| [Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1) | Masahiro Kato, Taka Kato | 2026-08-14 |
+| [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](http://arxiv.org/abs/2608.14522v1) | Taenyun Kim, Edyta Bogucka et al. | 2026-08-14 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
