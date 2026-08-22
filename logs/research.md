@@ -1,17 +1,15 @@
-# Security Research — 2026-08-21
+# Security Research — 2026-08-22
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:06 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Vomit: Clean up Claude 5's token output with a separate LLM](https://github.com/zachahn/vomit) | 263 | 256 |
-| [Hacking with Claude on a $27 smart watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html) | 98 | 54 |
-| [Show HN: Open-source Stripe Connect alternative](https://zoneless.com) | 74 | 33 |
-| [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) | 399 | 92 |
-| [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023) | 805 | 321 |
-| [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements) | 227 | 112 |
+| [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) | 55 | 0 |
+| [DuckDB V2 PEG-based SQL parser](https://duckdb.org/2026/08/20/duckdb-20-peg-parser) | 69 | 6 |
+| [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate) | 39 | 15 |
+| [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix) | 23 | 6 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
