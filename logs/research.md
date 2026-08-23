@@ -1,15 +1,17 @@
-# Security Research — 2026-08-22
+# Security Research — 2026-08-23
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) | 55 | 0 |
-| [DuckDB V2 PEG-based SQL parser](https://duckdb.org/2026/08/20/duckdb-20-peg-parser) | 69 | 6 |
-| [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate) | 39 | 15 |
-| [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix) | 23 | 6 |
+| [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | 366 | 135 |
+| [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) | 165 | 76 |
+| [Hacker News RSS](https://hnrss.github.io/) | 17 | 0 |
+| [ProgramBench Vetted: Reverse Engineering from a Runnable Binary](https://vetto.ai/companies/programbench-vetted.html) | 27 | 1 |
+| [Show HN: Anonymous age verification with passkey-powered encryption](https://loginwithone.com/) | 40 | 19 |
+| [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/) | 76 | 4 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
