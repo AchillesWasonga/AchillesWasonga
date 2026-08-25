@@ -1,4 +1,4 @@
-# Platform Stats — 2026-08-24
+# Platform Stats — 2026-08-25
 
 > Auto-fetched daily · Last updated: 12:04 UTC
 
