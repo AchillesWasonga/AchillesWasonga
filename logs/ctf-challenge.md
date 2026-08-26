@@ -1,23 +1,23 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:12 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:14 UTC
 
-## [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)
+## [Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 96.0 |
-| Organizer | CSUI |
+| Weight | 25.0 |
+| Organizer | ASIS |
 | Start | 2026-08-29 |
 | End | 2026-08-30 |
 
 ### Description
 
-Since it seems that our event unfortunately collided with ASIS CTF and Blackhat MEA Qualifiers, we'll be extending the event duration from 24 hours to 48 hours so that those who compete on those events could still compete here after they're done :)
+This year, ASIS CTF Quals 2026 and Iran Olympics CTF 2026 have joined forces and will be held as a single, merged event!
 
-Discord server: https://discord.gg/g7UDHdCA6v
-E...
+Secure your spot in the top 3 global teams or the top 7 Iranian teams to win a fully-funded invitation to the highly anticipated onsite finals in Tehran this October:
+• Olympi...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
