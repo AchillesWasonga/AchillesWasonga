@@ -1,30 +1,28 @@
-# Security Research — 2026-08-26
+# Security Research — 2026-08-27
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:07 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 14:39 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0) | 120 | 34 |
-| [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | 133 | 56 |
-| [Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb) | 160 | 41 |
-| [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) | 600 | 680 |
-| [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) | 188 | 98 |
-| [One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN) | 31 | 16 |
+| [Apple threat notifications and spyware: what everyone should know](https://www.accessnow.org/apple-threat-notifications-and-spyware/) | 4 | 0 |
+| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 815 | 547 |
+| [Alzheimer's Damage in Mice Reversed with Just Two Injections](https://www.sciencealert.com/scientists-reverse-alzheimers-damage-in-mice-with-just-two-injections) | 14 | 2 |
+| [Changes to Sourcehut's terms of service regarding LLMs](https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/) | 55 | 8 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code](http://arxiv.org/abs/2608.24857v1) | Maitreyee Das Urmi, Jessica Pourleyli et al. | 2026-08-25 |
-| [Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](http://arxiv.org/abs/2608.24850v1) | Tran Duc Le | 2026-08-25 |
-| [Certified Randomness without Structure Against Shallow-Query Adversaries](http://arxiv.org/abs/2608.24832v1) | Dakshita Khurana, Bhaskar Roberts et al. | 2026-08-25 |
-| [Masked Differential-linear Distinguishers and Quantum Approaches](http://arxiv.org/abs/2608.24799v1) | Shobhit Pandey, Sarbani Sen et al. | 2026-08-25 |
-| [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | Zhaochen Yu, Yingcheng Wu et al. | 2026-08-25 |
-| [SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](http://arxiv.org/abs/2608.24870v1) | Kai Ruan, Jinghao Lin et al. | 2026-08-25 |
-| [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | Md Saikat Islam Khan Bappy, Oshani Seneviratne | 2026-08-25 |
-| [LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training](http://arxiv.org/abs/2608.24845v1) | Andreas Hochlehnert, Marianna Nezhurina et al. | 2026-08-25 |
+| [From Fleet to Lab: Revisiting the Security and Complexity of Industrial Rowhammer Mitigation](http://arxiv.org/abs/2608.26072v1) | Hritvik Taneja, Moinuddin Qureshi | 2026-08-26 |
+| [RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models](http://arxiv.org/abs/2608.26049v1) | Mahshid Rezakhani, Kimia Azar et al. | 2026-08-26 |
+| [Vulnerable Code Search: Transferable Attack for Code Language Models](http://arxiv.org/abs/2608.26031v1) | Kaicheng Wang, Liyan Huang et al. | 2026-08-26 |
+| [A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks](http://arxiv.org/abs/2608.26008v1) | Tongyan Hu, Bryan Hooi | 2026-08-26 |
+| [VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1) | Junxiang Xu, Ruisi Wang et al. | 2026-08-26 |
+| [A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1) | Kaichen Li, Zhilin Zhu et al. | 2026-08-26 |
+| [MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1) | Hao Yin, Paritosh Parmar et al. | 2026-08-26 |
+| [Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](http://arxiv.org/abs/2608.26090v1) | Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides et al. | 2026-08-26 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
