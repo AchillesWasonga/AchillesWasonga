@@ -1,28 +1,28 @@
-# Security Research — 2026-08-27
+# Security Research — 2026-08-28
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 14:39 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 14:59 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Apple threat notifications and spyware: what everyone should know](https://www.accessnow.org/apple-threat-notifications-and-spyware/) | 4 | 0 |
-| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 815 | 547 |
-| [Alzheimer's Damage in Mice Reversed with Just Two Injections](https://www.sciencealert.com/scientists-reverse-alzheimers-damage-in-mice-with-just-two-injections) | 14 | 2 |
-| [Changes to Sourcehut's terms of service regarding LLMs](https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/) | 55 | 8 |
+| [Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe) | 20 | 10 |
+| [Google forces Android apps to use memory more wisely as RAMpocalypse rages](https://www.theregister.com/software/2026/08/27/google-forces-android-apps-to-use-memory-more-wisely-as-rampocalypse-rages/5293071) | 9 | 0 |
+| [Authorities arrest 2 alleged members of prolific hacking group TeamPCP](https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/) | 5 | 0 |
+| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 990 | 682 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [From Fleet to Lab: Revisiting the Security and Complexity of Industrial Rowhammer Mitigation](http://arxiv.org/abs/2608.26072v1) | Hritvik Taneja, Moinuddin Qureshi | 2026-08-26 |
-| [RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models](http://arxiv.org/abs/2608.26049v1) | Mahshid Rezakhani, Kimia Azar et al. | 2026-08-26 |
-| [Vulnerable Code Search: Transferable Attack for Code Language Models](http://arxiv.org/abs/2608.26031v1) | Kaicheng Wang, Liyan Huang et al. | 2026-08-26 |
-| [A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks](http://arxiv.org/abs/2608.26008v1) | Tongyan Hu, Bryan Hooi | 2026-08-26 |
-| [VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1) | Junxiang Xu, Ruisi Wang et al. | 2026-08-26 |
-| [A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1) | Kaichen Li, Zhilin Zhu et al. | 2026-08-26 |
-| [MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1) | Hao Yin, Paritosh Parmar et al. | 2026-08-26 |
-| [Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](http://arxiv.org/abs/2608.26090v1) | Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides et al. | 2026-08-26 |
+| [Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](http://arxiv.org/abs/2608.27443v1) | Ting Yan | 2026-08-27 |
+| [RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1) | Junjie Zhang, Hui Liu et al. | 2026-08-27 |
+| [Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners](http://arxiv.org/abs/2608.27424v1) | Qianlong Lan, Vinothini Pandurangan et al. | 2026-08-27 |
+| [When Context Gets Root: Privilege Escalation in LLM Harnesses](http://arxiv.org/abs/2608.27299v1) | Xingbang He, Yuanwei Chen et al. | 2026-08-27 |
+| [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | Liyan Tang, Cyrus Rashtchian et al. | 2026-08-27 |
+| [SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1) | Dewu Zheng, Ruizhe Ye et al. | 2026-08-27 |
+| [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) | Dewu Zheng, Yanlin Wang et al. | 2026-08-27 |
+| [RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1) | Junjie Zhang, Hui Liu et al. | 2026-08-27 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
