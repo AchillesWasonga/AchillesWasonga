@@ -1,15 +1,15 @@
-# Security Research — 2026-08-28
+# Security Research — 2026-08-29
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 14:59 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe) | 20 | 10 |
-| [Google forces Android apps to use memory more wisely as RAMpocalypse rages](https://www.theregister.com/software/2026/08/27/google-forces-android-apps-to-use-memory-more-wisely-as-rampocalypse-rages/5293071) | 9 | 0 |
-| [Authorities arrest 2 alleged members of prolific hacking group TeamPCP](https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/) | 5 | 0 |
-| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 990 | 682 |
+| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 164 | 35 |
+| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 108 | 23 |
+| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | 330 | 113 |
+| [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/) | 52 | 72 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
