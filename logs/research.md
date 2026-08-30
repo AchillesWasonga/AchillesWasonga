@@ -1,15 +1,18 @@
-# Security Research — 2026-08-29
+# Security Research — 2026-08-30
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 164 | 35 |
-| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 108 | 23 |
-| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | 330 | 113 |
-| [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/) | 52 | 72 |
+| [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | 217 | 53 |
+| [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server) | 41 | 16 |
+| [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) | 403 | 99 |
+| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 291 | 79 |
+| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 227 | 61 |
+| [A safe MySQL upgrade that wasn't so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/) | 44 | 14 |
+| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | 391 | 125 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
