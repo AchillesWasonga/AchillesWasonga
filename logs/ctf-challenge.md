@@ -1,24 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:10 UTC
 
-## [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)
+## [WATCHLIST](https://ctf.xposedornot.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 69.75 |
-| Organizer | CCSIR.org |
-| Start | 2026-09-18 |
+| Weight | 0.0 |
+| Organizer | WatchList CTF |
+| Start | 2026-09-19 |
 | End | 2026-09-20 |
 
 ### Description
 
-Mark Your Calendars! The DefCamp Capture the Flag (D-CTF) Qualification Phase is Locked and Loaded for 2026!
+WATCHLIST is a 24-hour online Jeopardy CTF about digital investigation: forensics, OSINT, recon, and the hands-on work investigators actually do. It's a love letter to Person of Interest, narrated by The Machine.
 
-Get ready to dive into the most electrifying and audacious security CTF competition in Central and Eastern Europe—DefCamp Capture The Flag (D-CTF)!
-
-This is where the sharpest hackers an...
+There are 24 challenges across 6 categories: Forensics, Lab, OSINT, Recon, Trivia, a...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
