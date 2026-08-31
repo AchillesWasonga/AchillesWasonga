@@ -1,4 +1,4 @@
-# Security Research — 2026-08-30
+# Security Research — 2026-08-31
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
@@ -6,26 +6,27 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | 217 | 53 |
-| [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server) | 41 | 16 |
-| [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) | 403 | 99 |
-| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 291 | 79 |
-| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 227 | 61 |
-| [A safe MySQL upgrade that wasn't so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/) | 44 | 14 |
-| [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | 391 | 125 |
+| [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | 327 | 237 |
+| [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) | 112 | 38 |
+| [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) | 430 | 177 |
+| [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/) | 313 | 376 |
+| [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) | 255 | 203 |
+| [Berlin is being blackmailed by hackers](https://www.bbc.com/news/articles/cm2q7gv3l5qo) | 50 | 6 |
+| [When fruit is scarce, these monkeys hunt animals](https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/) | 68 | 37 |
+| [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) | 463 | 116 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](http://arxiv.org/abs/2608.27443v1) | Ting Yan | 2026-08-27 |
-| [RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1) | Junjie Zhang, Hui Liu et al. | 2026-08-27 |
-| [Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners](http://arxiv.org/abs/2608.27424v1) | Qianlong Lan, Vinothini Pandurangan et al. | 2026-08-27 |
-| [When Context Gets Root: Privilege Escalation in LLM Harnesses](http://arxiv.org/abs/2608.27299v1) | Xingbang He, Yuanwei Chen et al. | 2026-08-27 |
-| [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | Liyan Tang, Cyrus Rashtchian et al. | 2026-08-27 |
-| [SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1) | Dewu Zheng, Ruizhe Ye et al. | 2026-08-27 |
-| [From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1) | Dewu Zheng, Yanlin Wang et al. | 2026-08-27 |
-| [RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1) | Junjie Zhang, Hui Liu et al. | 2026-08-27 |
+| [Offline-Verifiable Accountability for Cross-Organization Agent Messaging: A Preserved Evidence-Bundle Approach](http://arxiv.org/abs/2608.28542v1) | Adil Alshammari, Hayretdin Bahsi | 2026-08-28 |
+| [Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM](http://arxiv.org/abs/2608.28529v1) | Pietro Tiberi, Gabriele Marcelli et al. | 2026-08-28 |
+| [Recognition Without Enforcement: Configuration-Dependent Failures in LLM Agent Instruction Arbitration and External Control](http://arxiv.org/abs/2608.28502v1) | Jun Wen Leong | 2026-08-28 |
+| [REPLICANT: Learning Policies for Evading and Hardening Malware Detectors](http://arxiv.org/abs/2608.28499v1) | Shae McFadden, Ilias Tsingenopoulos et al. | 2026-08-28 |
+| [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](http://arxiv.org/abs/2608.28578v1) | Nan Wang, Mohit Yadav et al. | 2026-08-28 |
+| [Learning a Size-Weight Frontier for Synthetic-Augmented Inference](http://arxiv.org/abs/2608.28576v1) | Chengpiao Huang, Kaizheng Wang | 2026-08-28 |
+| [Blog: Survey of Optimizers](http://arxiv.org/abs/2608.28557v1) | Ruoran Xu | 2026-08-28 |
+| [Logos: An Agent Harness on a Cross-Process Bus](http://arxiv.org/abs/2608.28553v1) | Hanzhang Jia, Liheng Zeng et al. | 2026-08-28 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
