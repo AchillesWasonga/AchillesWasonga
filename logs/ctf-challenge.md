@@ -1,22 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:10 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [WATCHLIST](https://ctf.xposedornot.com/)
+## [CAT CTF 26](https://ctf.catreloaded.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | WatchList CTF |
-| Start | 2026-09-19 |
-| End | 2026-09-20 |
+| Organizer | 0xL4ugh |
+| Start | 2026-09-11 |
+| End | 2026-09-12 |
 
 ### Description
 
-WATCHLIST is a 24-hour online Jeopardy CTF about digital investigation: forensics, OSINT, recon, and the hands-on work investigators actually do. It's a love letter to Person of Interest, narrated by The Machine.
-
-There are 24 challenges across 6 categories: Forensics, Lab, OSINT, Recon, Trivia, a...
+Welcome to CAT CTF 26 — the third edition of CAT CTF!
+This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
