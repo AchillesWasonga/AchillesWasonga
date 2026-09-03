@@ -2,20 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [CAT CTF 26](https://ctf.catreloaded.org/)
+## [NNS CTF 2026](https://nnsc.tf/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | 0xL4ugh |
-| Start | 2026-09-11 |
-| End | 2026-09-12 |
+| Weight | 25.0 |
+| Organizer | Norske Nøkkelsnikere |
+| Start | 2026-09-04 |
+| End | 2026-09-06 |
 
 ### Description
 
-Welcome to CAT CTF 26 — the third edition of CAT CTF!
-This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open...
+Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players.
+
+Sponsors: OtterSec, Zellic, EPT
+
+Discord: https://discord.gg...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
