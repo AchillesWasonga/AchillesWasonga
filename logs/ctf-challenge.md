@@ -1,24 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [NNS CTF 2026](https://nnsc.tf/)
+## [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 25.0 |
-| Organizer | Norske Nøkkelsnikere |
-| Start | 2026-09-04 |
-| End | 2026-09-06 |
+| Weight | 0.0 |
+| Organizer | CyberXoX |
+| Start | 2026-09-18 |
+| End | 2026-09-18 |
 
 ### Description
 
-Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players.
+NullOrigin CTF 2026 Qualifiers is the official qualification round for NullOrigin CTF 2026, an international online Capture The Flag (CTF) competition organized by Cyber HX.
 
-Sponsors: OtterSec, Zellic, EPT
-
-Discord: https://discord.gg...
+The qualifier is a 12-hour Jeopardy-style CTF where teams of 1–4 members will solve real-world cybersecurity challenges acr...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
