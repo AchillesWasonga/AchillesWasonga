@@ -1,4 +1,4 @@
-# Security Research — 2026-09-03
+# Security Research — 2026-09-04
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
@@ -6,27 +6,27 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) | 213 | 38 |
-| [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf) | 63 | 34 |
-| [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm) | 127 | 21 |
-| [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) | 144 | 145 |
-| [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero) | 169 | 56 |
-| [LLMs and Self-Referentiality](https://scottaaronson.blog/?p=10046) | 55 | 57 |
-| [LLMs: Intelligence vs. Cost](https://openteams.com/intelligence-vs-cost/) | 85 | 39 |
-| [US gov sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/) | 43 | 12 |
+| [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) | 19 | 8 |
+| [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) | 194 | 58 |
+| [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) | 306 | 100 |
+| [Welcome to the Porcelain Insulator Collector's World of Mud](https://www.insulators.info/porcelain/) | 9 | 2 |
+| [LLMs and self-referentiality](https://scottaaronson.blog/?p=10046) | 73 | 83 |
+| [Bank of Canada bank notes: Resources for the blind and partially sighted](https://www.bankofcanada.ca/banknotes/audience-specific-resources/blind-and-partially-sighted/) | 5 | 0 |
+| [Claude for Commerce Agents](https://claude.com/blog/claude-for-commerce-agents) | 60 | 59 |
+| [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm) | 143 | 24 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries](http://arxiv.org/abs/2609.02880v1) | Surendra Ghentiyala, Pritish Kamath et al. | 2026-09-02 |
-| [When Does Authorization End? Effect Closure at Provider Boundaries](http://arxiv.org/abs/2609.02866v1) | Igor Santos-Grueiro | 2026-09-02 |
-| [The Implications of Linguistic Illegibility for LLM Security](http://arxiv.org/abs/2609.02852v1) | James Mickens | 2026-09-02 |
-| [SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment](http://arxiv.org/abs/2609.02786v1) | Qinghua Mao, Wanying Qu et al. | 2026-09-02 |
-| [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | Kelvin Li, Dhruv Pendharkar et al. | 2026-09-02 |
-| [Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](http://arxiv.org/abs/2609.02861v1) | Cagri Temel | 2026-09-02 |
-| [Post-Training Language Models for Gold-Medal Performance in Coding Competitions](http://arxiv.org/abs/2609.02849v1) | Aleksander Ficek, Sean Narenthiran et al. | 2026-09-02 |
-| [AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application](http://arxiv.org/abs/2609.02821v1) | Wenxin Jiang, Xuyang Wang et al. | 2026-09-02 |
+| [SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](http://arxiv.org/abs/2609.04159v1) | Uday Vallabhaneni, Cassie L. Cagwin et al. | 2026-09-03 |
+| [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](http://arxiv.org/abs/2609.04086v1) | Fabio F. G. Buono | 2026-09-03 |
+| [PatchBench: Evaluating AI Agents for Vulnerability Patching](http://arxiv.org/abs/2609.04075v1) | Chihao Shen, Jiacheng Li et al. | 2026-09-03 |
+| [AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study](http://arxiv.org/abs/2609.04058v1) | Jungmin Park, Eunha Kim et al. | 2026-09-03 |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1) | Yuntian Deng, Pengyu Nie et al. | 2026-09-03 |
+| [Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1) | Haoyaun Zhu, Jie Zhang | 2026-09-03 |
+| [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) | Lihao Liu, Peng Tang et al. | 2026-09-03 |
+| [One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1) | Adheesh Sunil Juvekar, Onkar Kishor Susladkar et al. | 2026-09-03 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
