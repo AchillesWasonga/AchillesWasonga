@@ -1,22 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)
+## [Cyber League 2026 - Major](https://cyberleague.co/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | CyberXoX |
-| Start | 2026-09-18 |
-| End | 2026-09-18 |
+| Organizer | DIV0-N0H4TS |
+| Start | 2026-09-19 |
+| End | 2026-09-20 |
 
 ### Description
 
-NullOrigin CTF 2026 Qualifiers is the official qualification round for NullOrigin CTF 2026, an international online Capture The Flag (CTF) competition organized by Cyber HX.
+Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
 
-The qualifier is a 12-hour Jeopardy-style CTF where teams of 1–4 members will solve real-world cybersecurity challenges acr...
+The top 10 teams from the qualifying Major are selected to compete in the playoffs.
+
+The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
