@@ -1,4 +1,4 @@
-# Security Research — 2026-09-04
+# Security Research — 2026-09-05
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
@@ -6,14 +6,14 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) | 19 | 8 |
-| [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) | 194 | 58 |
-| [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) | 306 | 100 |
-| [Welcome to the Porcelain Insulator Collector's World of Mud](https://www.insulators.info/porcelain/) | 9 | 2 |
-| [LLMs and self-referentiality](https://scottaaronson.blog/?p=10046) | 73 | 83 |
-| [Bank of Canada bank notes: Resources for the blind and partially sighted](https://www.bankofcanada.ca/banknotes/audience-specific-resources/blind-and-partially-sighted/) | 5 | 0 |
-| [Claude for Commerce Agents](https://claude.com/blog/claude-for-commerce-agents) | 60 | 59 |
-| [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm) | 143 | 24 |
+| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | 518 | 280 |
+| [Ask HN: Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840) | 140 | 76 |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | 293 | 102 |
+| [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) | 96 | 31 |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | 139 | 37 |
+| [“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html) | 119 | 246 |
+| [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/) | 39 | 0 |
+| [Corporate America is getting hooked on open-source AI](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) | 297 | 272 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
