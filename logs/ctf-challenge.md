@@ -2,23 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [Cyber League 2026 - Major](https://cyberleague.co/)
+## [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | DIV0-N0H4TS |
-| Start | 2026-09-19 |
+| Weight | 69.75 |
+| Organizer | CCSIR.org |
+| Start | 2026-09-18 |
 | End | 2026-09-20 |
 
 ### Description
 
-Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
+Mark Your Calendars! The DefCamp Capture the Flag (D-CTF) Qualification Phase is Locked and Loaded for 2026!
 
-The top 10 teams from the qualifying Major are selected to compete in the playoffs.
+Get ready to dive into the most electrifying and audacious security CTF competition in Central and Eastern Europe—DefCamp Capture The Flag (D-CTF)!
 
-The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
+This is where the sharpest hackers an...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
