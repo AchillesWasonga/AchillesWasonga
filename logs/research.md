@@ -1,19 +1,19 @@
-# Security Research — 2026-09-05
+# Security Research — 2026-09-06
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:03 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | 518 | 280 |
-| [Ask HN: Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840) | 140 | 76 |
-| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | 293 | 102 |
-| [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) | 96 | 31 |
-| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | 139 | 37 |
-| [“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html) | 119 | 246 |
-| [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/) | 39 | 0 |
-| [Corporate America is getting hooked on open-source AI](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) | 297 | 272 |
+| [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | 778 | 472 |
+| [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344) | 281 | 204 |
+| [Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber](https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable) | 69 | 10 |
+| [Ask HN: Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840) | 258 | 160 |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | 397 | 126 |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | 200 | 44 |
+| [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) | 113 | 35 |
+| [“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html) | 155 | 300 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
