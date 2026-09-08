@@ -1,24 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [Cyber League 2026 - Major](https://cyberleague.co/)
+## [CAT CTF 26](https://ctf.catreloaded.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | DIV0-N0H4TS |
-| Start | 2026-09-19 |
-| End | 2026-09-20 |
+| Organizer | 0xL4ugh |
+| Start | 2026-09-11 |
+| End | 2026-09-12 |
 
 ### Description
 
-Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
-
-The top 10 teams from the qualifying Major are selected to compete in the playoffs.
-
-The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
+Welcome to CAT CTF 26 — the third edition of CAT CTF!
+This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
