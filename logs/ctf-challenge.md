@@ -1,21 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [CAT CTF 26](https://ctf.catreloaded.org/)
+## [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | 0xL4ugh |
-| Start | 2026-09-11 |
-| End | 2026-09-12 |
+| Organizer | haruulzangi-organizers |
+| Start | 2026-09-19 |
+| End | 2026-09-19 |
 
 ### Description
 
-Welcome to CAT CTF 26 — the third edition of CAT CTF!
-This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open...
+Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community.
+We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersec...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
