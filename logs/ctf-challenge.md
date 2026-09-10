@@ -1,21 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)
+## [PwnSec CTF 2026](https://pwnsec.ctf.ae/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | haruulzangi-organizers |
-| Start | 2026-09-19 |
-| End | 2026-09-19 |
+| Weight | 33.89 |
+| Organizer | PwnSec |
+| Start | 2026-09-12 |
+| End | 2026-09-13 |
 
 ### Description
 
-Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community.
-We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersec...
+PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!
+Discord: https://discord.gg/t758vQSDJ
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
