@@ -1,6 +1,6 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
 ## [PwnSec CTF 2026](https://pwnsec.ctf.ae/)
 
