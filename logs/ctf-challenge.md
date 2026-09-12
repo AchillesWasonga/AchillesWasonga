@@ -2,20 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [PwnSec CTF 2026](https://pwnsec.ctf.ae/)
+## [Cyber League 2026 - Major](https://cyberleague.co/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 33.89 |
-| Organizer | PwnSec |
-| Start | 2026-09-12 |
-| End | 2026-09-13 |
+| Weight | 0.0 |
+| Organizer | DIV0-N0H4TS |
+| Start | 2026-09-19 |
+| End | 2026-09-20 |
 
 ### Description
 
-PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!
-Discord: https://discord.gg/t758vQSDJ
+Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
+
+The top 10 teams from the qualifying Major are selected to compete in the playoffs.
+
+The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
