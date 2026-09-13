@@ -1,24 +1,21 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:25 UTC
 
-## [Cyber League 2026 - Major](https://cyberleague.co/)
+## [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | DIV0-N0H4TS |
+| Organizer | haruulzangi-organizers |
 | Start | 2026-09-19 |
-| End | 2026-09-20 |
+| End | 2026-09-19 |
 
 ### Description
 
-Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
-
-The top 10 teams from the qualifying Major are selected to compete in the playoffs.
-
-The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
+Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community.
+We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersec...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
