@@ -1,21 +1,20 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:25 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
 
-## [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)
+## [CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | haruulzangi-organizers |
-| Start | 2026-09-19 |
-| End | 2026-09-19 |
+| Weight | 10.93 |
+| Organizer | NYUSEC |
+| Start | 2026-09-18 |
+| End | 2026-09-20 |
 
 ### Description
 
-Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community.
-We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersec...
+CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the securit...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
