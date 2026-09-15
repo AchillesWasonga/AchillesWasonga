@@ -1,20 +1,20 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)
+## [07CTF 2026](https://ctf.0bscuri7y.in/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 10.93 |
-| Organizer | NYUSEC |
-| Start | 2026-09-18 |
+| Weight | 23.71 |
+| Organizer | 0bscuri7y |
+| Start | 2026-09-19 |
 | End | 2026-09-20 |
 
 ### Description
 
-CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the securit...
+07CTF is a 24-hour Capture The Flag competition organized by team 0bscuri7y. The event features challenges across a variety of categories, including web, pwn, OSINT, misc, and reverse engineering. This is not a beginner friendly CTF, there are a few 0-day challenges as well. No team size limit and s...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
