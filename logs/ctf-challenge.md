@@ -2,23 +2,31 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [Cyber League 2026 - Major](https://cyberleague.co/)
+## [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | DIV0-N0H4TS |
+| Organizer | z0d1ak |
 | Start | 2026-09-19 |
-| End | 2026-09-20 |
+| End | 2026-09-19 |
 
 ### Description
 
-Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals.
+Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF.
 
-The top 10 teams from the qualifying Major are selected to compete in the playoffs.
+This is the finals for z0d1ak CTF 2026 where 25 qualifying teams compete in person at VIT Vellore, India
 
-The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face...
+Discord: https://discord.gg/ZfjXCXbXkA
+
+Prize Sponsor:
+Dataflow Security
+
+Sponsors:
+Hackviser 
+HackerDNA.com 
+Ge...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
