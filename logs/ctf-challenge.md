@@ -2,31 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)
+## [FlightPath2026](http://setyourvector.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | z0d1ak |
-| Start | 2026-09-19 |
-| End | 2026-09-19 |
+| Weight | 0 |
+| Organizer | ĀYŌDÈ |
+| Start | 2026-09-25 |
+| End | 2026-09-27 |
 
 ### Description
 
-Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF.
+A summer cybersecurity challenge inspiring high school students nationwide to explore computer science, develop technical skills, and rise to the challenge.
 
-This is the finals for z0d1ak CTF 2026 where 25 qualifying teams compete in person at VIT Vellore, India
+See: https://www.codermerlin.academy/narp/flight-path/#home
 
-Discord: https://discord.gg/ZfjXCXbXkA
-
-Prize Sponsor:
-Dataflow Security
-
-Sponsors:
-Hackviser 
-HackerDNA.com 
-Ge...
+Sponsored by the Air & Space Forces Association Sam Johnson Chapter | Dallas ...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
