@@ -1,19 +1,18 @@
-# Security Research — 2026-09-17
+# Security Research — 2026-09-18
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) | 210 | 33 |
-| [Hackers Got Inside a Flock Camera](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/) | 530 | 243 |
-| [Salesforce Global Outage](https://status.salesforce.com/products/all) | 271 | 180 |
-| [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) | 242 | 184 |
-| [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) | 673 | 242 |
-| [Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html) | 474 | 620 |
-| [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/) | 114 | 9 |
-| [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) | 203 | 36 |
+| [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | 183 | 114 |
+| [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) | 153 | 49 |
+| [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842) | 148 | 39 |
+| [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/) | 103 | 20 |
+| [Pentagon weighs pulling nearly a third of U.S. forces from Europe](https://www.nbcnews.com/politics/national-security/pentagon-weighs-pulling-nearly-third-us-forces-europe-rcna597722) | 53 | 41 |
+| [The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior) | 5 | 0 |
+| [Hackers Got Inside a Flock Camera](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/) | 575 | 266 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
