@@ -1,24 +1,25 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [FlightPath2026](http://setyourvector.org/)
+## [LUN4R CTF Quals](https://lunar.rootriet.in/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | ĀYŌDÈ |
-| Start | 2026-09-25 |
-| End | 2026-09-27 |
+| Weight | 0.0 |
+| Organizer | Root Riet |
+| Start | 2026-09-20 |
+| End | 2026-09-20 |
 
 ### Description
 
-A summer cybersecurity challenge inspiring high school students nationwide to explore computer science, develop technical skills, and rise to the challenge.
+LUN4R CTF 2026 is a National Level Capture The Flag competition organized by ROOT RIET, the cybersecurity community of Rajadhani Institute of Engineering and Technology (RIET), Thiruvananthapuram.
 
-See: https://www.codermerlin.academy/narp/flight-path/#home
+THE NIGHT HIDES THE FLAG.
 
-Sponsored by the Air & Space Forces Association Sam Johnson Chapter | Dallas ...
+ROUND 1 — ONLINE QUALIFIERS
+20 September 2026 | 10:00 AM – 10:00 PM IS...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
