@@ -2,24 +2,25 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [LUN4R CTF Quals](https://lunar.rootriet.in/)
+## [Securinets CTF Quals 2026](https://ctf.securinets.tn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | Root Riet |
-| Start | 2026-09-20 |
-| End | 2026-09-20 |
+| Weight | 85.12 |
+| Organizer | Securinets |
+| Start | 2026-10-03 |
+| End | 2026-10-04 |
 
 ### Description
 
-LUN4R CTF 2026 is a National Level Capture The Flag competition organized by ROOT RIET, the cybersecurity community of Rajadhani Institute of Engineering and Technology (RIET), Thiruvananthapuram.
+Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT.
 
-THE NIGHT HIDES THE FLAG.
+The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ...
 
-ROUND 1 — ONLINE QUALIFIERS
-20 September 2026 | 10:00 AM – 10:00 PM IS...
+Only 10 teams will qualify to the final CTF + top 5 from north africa .
+
+Registration will be open...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
