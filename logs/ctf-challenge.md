@@ -1,26 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
 
-## [Securinets CTF Quals 2026](https://ctf.securinets.tn/)
+## [FlightPath2026](http://setyourvector.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 85.12 |
-| Organizer | Securinets |
-| Start | 2026-10-03 |
-| End | 2026-10-04 |
+| Weight | 0 |
+| Organizer | ĀYŌDÈ |
+| Start | 2026-09-25 |
+| End | 2026-09-27 |
 
 ### Description
 
-Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT.
+A summer cybersecurity challenge inspiring high school students nationwide to explore computer science, develop technical skills, and rise to the challenge.
 
-The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ...
+See: https://www.codermerlin.academy/narp/flight-path/#home
 
-Only 10 teams will qualify to the final CTF + top 5 from north africa .
-
-Registration will be open...
+Sponsored by the Air & Space Forces Association Sam Johnson Chapter | Dallas ...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
