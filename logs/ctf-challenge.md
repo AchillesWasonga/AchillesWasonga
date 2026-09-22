@@ -1,24 +1,24 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [FlightPath2026](http://setyourvector.org/)
+## [H7CTF 2026 Quals](https://2026.h7tex.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | ĀYŌDÈ |
-| Start | 2026-09-25 |
+| Weight | 27.49 |
+| Organizer | H7Tex |
+| Start | 2026-09-26 |
 | End | 2026-09-27 |
 
 ### Description
 
-A summer cybersecurity challenge inspiring high school students nationwide to explore computer science, develop technical skills, and rise to the challenge.
+H7CTF v3: A global cybersecurity competition open to all teams without restriction.
 
-See: https://www.codermerlin.academy/narp/flight-path/#home
+A common qualification round will be held for both international and Indian participants. Top-performing teams will advance to the finals.
 
-Sponsored by the Air & Space Forces Association Sam Johnson Chapter | Dallas ...
+Finals will be held at SRMIST and will feature an AD-CTF format.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
