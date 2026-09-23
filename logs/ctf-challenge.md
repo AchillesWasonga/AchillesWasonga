@@ -2,23 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [H7CTF 2026 Quals](https://2026.h7tex.com/)
+## [Null Origin CTF 2026: Grand finale ](https://nullorigin.cyberhx.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 27.49 |
-| Organizer | H7Tex |
-| Start | 2026-09-26 |
-| End | 2026-09-27 |
+| Weight | 0.0 |
+| Organizer | CyberXoX |
+| Start | 2026-09-25 |
+| End | 2026-09-25 |
 
 ### Description
 
-H7CTF v3: A global cybersecurity competition open to all teams without restriction.
+Null Origin CTF 2026 — Grand Finale
 
-A common qualification round will be held for both international and Indian participants. Top-performing teams will advance to the finals.
+Null Origin is an international online Capture The Flag competition organised by Team CyberXoX and powered by CyberHX.
 
-Finals will be held at SRMIST and will feature an AD-CTF format.
+The Grand Finale is the second round of Null Origin CTF 2026, bringing together the top-performing teams from the 12-hour Qualifier for a f...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
