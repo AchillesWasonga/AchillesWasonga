@@ -2,23 +2,23 @@
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [Null Origin CTF 2026: Grand finale ](https://nullorigin.cyberhx.com/)
+## [NileCTF](https://nilectf.com/register)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | CyberXoX |
+| Weight | 0 |
+| Organizer | Cyb3r_Ph4nt0ms |
 | Start | 2026-09-25 |
-| End | 2026-09-25 |
+| End | 2026-09-27 |
 
 ### Description
 
-Null Origin CTF 2026 — Grand Finale
+NileCTF is Egypt's premier national cybersecurity competition for high school students. Solve realistic hacking challenges, build modern technical skills, and secure your place in Egypt's cyber defense future.
 
-Null Origin is an international online Capture The Flag competition organised by Team CyberXoX and powered by CyberHX.
+Online round: 25 September, 2026 - 27 September, 2026
 
-The Grand Finale is the second round of Null Origin CTF 2026, bringing together the top-performing teams from the 12-hour Qualifier for a f...
+whatsapp (channel): https://wh...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
