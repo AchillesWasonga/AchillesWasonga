@@ -1,19 +1,19 @@
-# Security Research — 2026-09-25
+# Security Research — 2026-09-26
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2) | 56 | 14 |
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | 321 | 119 |
-| [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) | 137 | 30 |
-| [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/) | 465 | 410 |
-| [Sourcehut account takeover via build logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/) | 123 | 23 |
-| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | 73 | 24 |
-| [Running local LLMs on your Mac: what fits, what's free, and what's overkill](https://typetab.app/blog/local-llms-on-your-mac) | 10 | 7 |
-| [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity) | 259 | 266 |
+| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | 507 | 311 |
+| [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | 86 | 21 |
+| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | 473 | 117 |
+| [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/) | 64 | 20 |
+| [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) | 61 | 84 |
+| [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) | 167 | 43 |
+| [Generate fonts where every LLM token is the same width](https://ampdot.mesh.host/token-space-fonts.html) | 7 | 0 |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | 403 | 134 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
