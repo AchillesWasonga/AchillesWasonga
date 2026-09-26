@@ -1,24 +1,22 @@
 # CTF Challenge of the Day
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [NileCTF](https://nilectf.com/register)
+## [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Cyb3r_Ph4nt0ms |
-| Start | 2026-09-25 |
-| End | 2026-09-27 |
+| Weight | 0.0 |
+| Organizer | suɐǝpodᴉʇuɐ |
+| Start | 2026-09-30 |
+| End | 2026-10-01 |
 
 ### Description
 
-NileCTF is Egypt's premier national cybersecurity competition for high school students. Solve realistic hacking challenges, build modern technical skills, and secure your place in Egypt's cyber defense future.
+CSS CTF 2026: Return of Nexus is a 40-hour online Capture The Flag competition organized and hosted by the USYD Cybersecurity Society.
 
-Online round: 25 September, 2026 - 27 September, 2026
-
-whatsapp (channel): https://wh...
+A year after the network went dark, the Quantum Nexus Network is back online. Join us for a 40-hour sprint featuring challenges spanning Web Exploitation, PWN, Re...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
