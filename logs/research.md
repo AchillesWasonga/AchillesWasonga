@@ -1,4 +1,4 @@
-# Security Research — 2026-09-26
+# Security Research — 2026-09-27
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:04 UTC
 
@@ -6,14 +6,14 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | 507 | 311 |
-| [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | 86 | 21 |
-| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | 473 | 117 |
-| [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/) | 64 | 20 |
-| [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) | 61 | 84 |
-| [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) | 167 | 43 |
-| [Generate fonts where every LLM token is the same width](https://ampdot.mesh.host/token-space-fonts.html) | 7 | 0 |
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | 403 | 134 |
+| ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021) | 19 | 2 |
+| [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | 237 | 201 |
+| [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) | 233 | 275 |
+| [Generate fonts where every LLM token is the same width](https://ampdot.mesh.host/token-space-fonts.html) | 67 | 12 |
+| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | 720 | 453 |
+| [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | 142 | 44 |
+| [Introducing Casita: A content-addressed store for source code and build artifact](https://casita.rs/blog/introducing-casita-a-content-addressed-store-for-source-code-and-build-artifacts/) | 4 | 0 |
+| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | 593 | 145 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
