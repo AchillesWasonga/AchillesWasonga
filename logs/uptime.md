@@ -1,20 +1,19 @@
-# Uptime Monitor — 2026-09-28
+# Uptime Monitor — 2026-09-29
 
-> Auto-checked daily · Last updated: 10:09 UTC
+> Auto-checked daily · Last updated: 10:08 UTC
 
 | Site | Status | HTTP | Latency |
 |------|--------|------|---------|
-| [wasonga.com](https://wasonga.com) | UP | 200 | 416ms |
-| [campdevoices.org](https://campdevoices.org) | UP | 200 | 359ms |
-| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 342ms |
-| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 397ms |
-| [elitetechafrica.org](https://www.elitetechafrica.org/) | UP | 200 | 309ms |
+| [wasonga.com](https://wasonga.com) | UP | 200 | 259ms |
+| [campdevoices.org](https://campdevoices.org) | UP | 200 | 132ms |
+| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 266ms |
+| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 292ms |
+| [elitetechafrica.org](https://www.elitetechafrica.org/) | UP | 200 | 281ms |
 
 ## History
 
 | Date | wasonga.com | campdevoices.org | motorsportsplug.com | kimtailangat.com | elitetechafrica.org |
 |------|-------------|------------------|---------------------|------------------|---------------------|
-| 2026-08-30 | UP | UP | UP | UP | UP |
 | 2026-08-31 | UP | UP | UP | UP | UP |
 | 2026-09-01 | UP | UP | UP | UP | UP |
 | 2026-09-02 | UP | UP | UP | UP | UP |
@@ -44,6 +43,7 @@
 | 2026-09-26 | UP | UP | UP | UP | UP |
 | 2026-09-27 | UP | UP | UP | UP | UP |
 | 2026-09-28 | UP | UP | UP | UP | UP |
+| 2026-09-29 | UP | UP | UP | UP | UP |
 
 ---
 *Monitored by webstyr-bot · checks run daily at 10:00 UTC*
