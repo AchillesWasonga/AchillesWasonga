@@ -1,4 +1,4 @@
-# Security Research — 2026-09-29
+# Security Research — 2026-09-30
 
 > Auto-fetched daily from Hacker News and arXiv · Last updated: 11:05 UTC
 
@@ -6,22 +6,27 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | 249 | 87 |
-| [New Cyber-OSINT model released](https://twitter.com/0x0SojalSec/status/2104736980768866439) | 10 | 3 |
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | 189 | 95 |
+| [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96) | 3 | 2 |
+| [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | 532 | 296 |
+| [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | 316 | 191 |
+| [Commodore 64: Mercenary](https://gamesexplained.com/c64/mercenary/) | 51 | 8 |
+| [Ballmer Peak](https://en.wikipedia.org/wiki/Ballmer_Peak) | 63 | 15 |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | 210 | 97 |
+| [Inspect: An open-source framework for large language model evaluations](https://inspect.aisi.org.uk/) | 4 | 0 |
+| [Show HN: Sarala – An open-source WYSIWYG Markdown editor](https://sarala.solancer.com/) | 16 | 2 |
 
 ## arXiv · Latest Papers (cs.CR + cs.AI)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Distillation Defenses Easily Break After Reinforcement Learning](http://arxiv.org/abs/2609.35699v1) | Shidan Javaheri, Alexander Panfilov et al. | 2026-09-28 |
-| [Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents](http://arxiv.org/abs/2609.35659v1) | Bravish Ghosh | 2026-09-28 |
-| [Succinct Arguments for QMA from Collapsing Hash Functions](http://arxiv.org/abs/2609.35633v1) | James Bartusek, Giulio Malavolta | 2026-09-28 |
-| [SEABench: Benchmarking Endogenous Misalignment In Self-Evolving Agents](http://arxiv.org/abs/2609.35596v1) | Saswat Das, Parvati Viswanathan et al. | 2026-09-28 |
-| [FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1) | Srinjay Sarkar, Prakhar Kaushik et al. | 2026-09-28 |
-| [Telescopic Language Models](http://arxiv.org/abs/2609.35769v1) | Zhilin Guo, Boqiao Zhang et al. | 2026-09-28 |
-| [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](http://arxiv.org/abs/2609.35767v1) | Yijia Fan, Ziqi Huang et al. | 2026-09-28 |
-| [TokenCast: Forecasting Token Consumption During LLM Agent Execution](http://arxiv.org/abs/2609.35760v1) | Chaoqian Ouyang, Ling Yue et al. | 2026-09-28 |
+| [Classical Verification of Quantum Computation with Quasilinear Resources, from Compiled Nonlocal Games](http://arxiv.org/abs/2609.38060v1) | Finn Holler, Anand Natarajan | 2026-09-29 |
+| [A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript](http://arxiv.org/abs/2609.38012v1) | Tamás Viszkok, Péter Hegedűs | 2026-09-29 |
+| [Dagger: Decoupling-based Model Stealing Attack against Graph Neural Networks](http://arxiv.org/abs/2609.37972v1) | Ying Song, Xiaowei Jia et al. | 2026-09-29 |
+| [Making Duplicate Reimbursement Unrepresentable: A Verified Ethereum E-Invoice System for Humans and AI Agents](http://arxiv.org/abs/2609.37819v1) | Jia Cai | 2026-09-29 |
+| [Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1) | Zihang Rui, Renhao Wang et al. | 2026-09-29 |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1) | Bingchen Yao, Haobo Xu et al. | 2026-09-29 |
+| [LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](http://arxiv.org/abs/2609.38166v1) | Yi Pan, Haocheng Xi et al. | 2026-09-29 |
+| [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](http://arxiv.org/abs/2609.38155v1) | Hui Ren, Lei Fan et al. | 2026-09-29 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
