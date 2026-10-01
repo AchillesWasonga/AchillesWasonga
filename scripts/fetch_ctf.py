@@ -23,17 +23,17 @@ FALLBACK = [
 ]
 
 lines = [
-    "# CTF Challenge of the Day",
+    f"# CTF Challenge of the Day — {date}",
     "",
     f"> Auto-fetched daily from CTFtime · Last updated: {time}",
     "",
 ]
 
 if events:
-    e        = random.choice(events[:10]) if len(events) >= 10 else events[0]
+    e        = random.choice(events)
     title    = e.get("title", "Unknown CTF")
     url      = e.get("url", e.get("ctftime_url", "#"))
-    desc     = e.get("description", "No description available.")
+    desc     = (e.get("description") or "").strip() or "No description provided by the organizers."
     desc     = (desc[:300] + "...") if len(desc) > 300 else desc
     fmt      = e.get("format", "Unknown")
     weight   = e.get("weight", "N/A")

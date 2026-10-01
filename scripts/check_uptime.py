@@ -16,7 +16,9 @@ SITES = [
     ("campdevoices.org",    "https://campdevoices.org"),
     ("motorsportsplug.com", "https://www.motorsportsplug.com/"),
     ("kimtailangat.com",    "https://www.kimtailangat.com/"),
-    ("elitetechafrica.org", "https://www.elitetechafrica.org/"),
+    ("draimo.com",          "https://www.draimo.com/"),
+    ("kirrosec.com",        "https://kirrosec.com"),
+    ("theoverallshow.com",  "https://theoverallshow.com"),
 ]
 
 TIMEOUT = 15

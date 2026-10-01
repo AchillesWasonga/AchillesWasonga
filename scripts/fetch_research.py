@@ -1,4 +1,4 @@
-import urllib.request, json, xml.etree.ElementTree as ET, sys
+import urllib.request, json, re, xml.etree.ElementTree as ET, sys
 from datetime import datetime, timezone
 
 date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -13,10 +13,22 @@ SECURITY_TERMS = [
     "recon", "bug bounty", "ctf", "capture the flag",
 ]
 
+# Match whole words (plus common suffixes) so "rce" doesn't hit "source",
+# "llm" doesn't hit "Ballmer", etc.
+SECURITY_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(t) for t in SECURITY_TERMS) + r")(?:s|es|ed|er|ers|ing)?\b",
+    re.IGNORECASE,
+)
+
+
+def is_security(title):
+    # "Hacker News" in a title is about the site, not about hacking.
+    return bool(SECURITY_RE.search(re.sub(r"hacker news", "", title, flags=re.IGNORECASE)))
+
 lines = [
     f"# Security Research — {date}",
     "",
-    f"> Auto-fetched daily from Hacker News and arXiv · Last updated: {time}",
+    f"> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: {time}",
     "",
     "## Hacker News · Security & Hacking",
     "",
@@ -34,7 +46,7 @@ try:
             with urllib.request.urlopen(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json", timeout=10) as r:
                 s = json.load(r)
             title = s.get("title", "")
-            if any(t in title.lower() for t in SECURITY_TERMS):
+            if is_security(title):
                 stories.append(s)
             if len(stories) >= 8:
                 break
@@ -58,16 +70,16 @@ NS = "http://www.w3.org/2005/Atom"
 
 lines += [
     "",
-    "## arXiv · Latest Papers (cs.CR + cs.AI)",
+    "## arXiv · Latest Papers (cs.CR)",
     "",
     "| Title | Authors | Published |",
     "|-------|---------|-----------|",
 ]
 
 entries = []
-for cat in ["cs.CR", "cs.AI"]:
+for cat in ["cs.CR"]:
     try:
-        url = f"https://export.arxiv.org/api/query?search_query=cat:{cat}&sortBy=submittedDate&sortOrder=descending&max_results=4"
+        url = f"https://export.arxiv.org/api/query?search_query=cat:{cat}&sortBy=submittedDate&sortOrder=descending&max_results=8"
         with urllib.request.urlopen(url, timeout=20) as r:
             tree = ET.parse(r)
         for entry in tree.findall(f"{{{NS}}}entry"):
@@ -88,7 +100,7 @@ if entries:
 else:
     lines.append("| Could not fetch arXiv papers | — | — |")
 
-lines += ["", "---", "*Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*"]
+lines += ["", "---", "*Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*"]
 
 with open("logs/research.md", "w") as f:
     f.write("\n".join(lines) + "\n")
