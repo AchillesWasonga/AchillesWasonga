@@ -42,3 +42,31 @@
 <p align="center">
   <img src="./divider.svg" alt="divider" width="800"/>
 </p>
+
+<p align="center"><img src="./arc-reactor.svg" width="60" alt="arc reactor"/></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1&pause=999999&color=7AD9FF&center=true&vCenter=true&width=500&lines=%E2%96%BE+TRANSMISSION_02+%3A%3A+OPS+CENTER" alt="OPS CENTER"/>
+</p>
+
+<p align="center">
+  <a href="./logs/cve-feed.md">
+    <img src="https://img.shields.io/badge/CVE_Feed-daily-ff6b35?style=flat-square&labelColor=050818" alt="CVE feed"/>
+  </a>
+  <a href="./logs/ctf-challenge.md">
+    <img src="https://img.shields.io/badge/CTF_Challenge-daily-ffbd2e?style=flat-square&labelColor=050818" alt="CTF challenge"/>
+  </a>
+  <a href="./logs/uptime.md">
+    <img src="https://img.shields.io/badge/Uptime_Monitor-live-39ff14?style=flat-square&labelColor=050818" alt="Uptime monitor"/>
+  </a>
+  <a href="./logs/research.md">
+    <img src="https://img.shields.io/badge/Research_Digest-daily-7ad9ff?style=flat-square&labelColor=050818" alt="Research digest"/>
+  </a>
+  <a href="./logs/platform-stats.md">
+    <img src="https://img.shields.io/badge/Platform_Stats-view_log-7ad9ff?style=flat-square&labelColor=050818" alt="Platform stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="./divider.svg" alt="divider" width="800"/>
+</p>
