@@ -1,22 +1,22 @@
-# CTF Challenge of the Day
+# CTF Challenge of the Day — 2026-10-02
 
-> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)
+## [Narxoz CTF](https://narxploit.narxoz.kz/register.html)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
-| Weight | 0 |
-| Organizer | OWASP_PCCOE-CORE |
-| Start | 2026-10-09 |
-| End | 2026-10-09 |
+| Format | Hack quest |
+| Weight | 0.0 |
+| Organizer | NarXploit |
+| Start | 2026-10-10 |
+| End | 2026-10-10 |
 
 ### Description
 
-ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune.
+Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF organized by NarXploit in cooperation with Narxoz University.
 
-The event is designed for college students and provides hands-on exposure to practical cybersecurity through challenges across multiple domains, ...
+Participants will operate in a realistic cyber range environment where they will analyze infrastructure, identify vulnerabilities, exploit weaknesses, develop...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
