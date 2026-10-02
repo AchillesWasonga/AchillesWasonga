@@ -1,31 +1,26 @@
-# Security Research — 2026-10-01
+# Security Research — 2026-10-02
 
-> Auto-fetched daily from Hacker News and arXiv · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [CHOMPI portable sampler instrument is now open-source (hardware and software)](https://www.chompiclub.com/opensource) | 87 | 20 |
-| [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96) | 124 | 31 |
-| [Hacking SimCity 2000 saved games](https://log.schemescape.com/posts/memoir/dos.html) | 29 | 12 |
-| [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | 589 | 322 |
-| [Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac](https://openparrot.app) | 32 | 18 |
-| [Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/) | 19 | 8 |
-| [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | 346 | 249 |
+| [I opened cockpit door while being attacked, says pilot of Dubai-Israel flight](https://www.bbc.com/news/articles/c639m98gde00o) | 4 | 6 |
+| [Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel](https://github.com/LiterateDrivenDevelopment/kcc) | 17 | 19 |
 
-## arXiv · Latest Papers (cs.CR + cs.AI)
+## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [On The Simplest Quantum-Secure Block Cipher](http://arxiv.org/abs/2609.40350v1) | Gorjan Alagic, Joseph Carolan et al. | 2026-09-30 |
-| [Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE](http://arxiv.org/abs/2609.40321v1) | Robin Kothari, Tony Metger et al. | 2026-09-30 |
-| [Need for Coherent Access in Constructing Quantum Cryptography](http://arxiv.org/abs/2609.40301v1) | Minki Hhan, Changhun Oh et al. | 2026-09-30 |
-| [Verifiable Quantum Advantage and Computation via Quantum Circuit Obfuscation](http://arxiv.org/abs/2609.40289v1) | Alexandru Gheorghiu, Aparna Gupte et al. | 2026-09-30 |
-| [Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1) | Junshu Pan, Zhizhang Fu et al. | 2026-09-30 |
-| [ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing](http://arxiv.org/abs/2609.40356v1) | Xinghao Chen, Xiangbo Gao et al. | 2026-09-30 |
-| [Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1) | Tunyu Zhang, Hao Wang et al. | 2026-09-30 |
-| [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | Ziyan Jiang, Jingbo Yang et al. | 2026-09-30 |
+| [KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1) | Pengfei Li, Naufal Suryanto et al. | 2026-10-01 |
+| [Quantum Advantage for Two-Party Differential Privacy](http://arxiv.org/abs/2610.02113v1) | Daniel Alabi, Emil T. Khabiboulline | 2026-10-01 |
+| [Time-space lower bounds for breaking quantum cryptography](http://arxiv.org/abs/2610.02101v1) | Fangqi Dong, Alex Lombardi | 2026-10-01 |
+| [On the pseudorandomness of simple quantum processes](http://arxiv.org/abs/2610.02100v1) | Jesko Dujmovic, Jonas Haferkamp et al. | 2026-10-01 |
+| [Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints](http://arxiv.org/abs/2610.02074v1) | Abid Mohamed Nadhir, Ahmad Al Hanbali et al. | 2026-10-01 |
+| [Can AI Oversight Be Zero Knowledge?](http://arxiv.org/abs/2610.01995v1) | Alessandro Chiesa, Ziyi Guan et al. | 2026-10-01 |
+| [System-Level Optimization Beyond Cryptographic Kernels: An ML-KEM Case Study on Arm Cortex-M7](http://arxiv.org/abs/2610.01960v1) | Mahmoud Abdelhafeez Sayed, Mostafa Taha et al. | 2026-10-01 |
+| [A Hybrid Approach to Malware Detection: Integrating Few-Shot Model-Agnostic Meta-Learning with Autoencoders](http://arxiv.org/abs/2610.01949v1) | Emmanuela Andam, Yasir Abbas Zaidi et al. | 2026-10-01 |
 
 ---
-*Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)*
+*Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
