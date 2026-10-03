@@ -1,4 +1,4 @@
-# CTF Challenge of the Day — 2026-10-02
+# CTF Challenge of the Day — 2026-10-03
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
