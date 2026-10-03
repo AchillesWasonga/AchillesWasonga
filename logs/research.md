@@ -1,13 +1,13 @@
-# Security Research — 2026-10-02
+# Security Research — 2026-10-03
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:10 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [I opened cockpit door while being attacked, says pilot of Dubai-Israel flight](https://www.bbc.com/news/articles/c639m98gde00o) | 4 | 6 |
-| [Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel](https://github.com/LiterateDrivenDevelopment/kcc) | 17 | 19 |
+| [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) | 255 | 68 |
+| [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) | 246 | 76 |
 
 ## arXiv · Latest Papers (cs.CR)
 
