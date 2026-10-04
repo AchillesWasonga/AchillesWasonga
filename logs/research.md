@@ -1,13 +1,15 @@
-# Security Research — 2026-10-03
+# Security Research — 2026-10-04
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:10 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 12:36 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) | 255 | 68 |
-| [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) | 246 | 76 |
+| [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) | 43 | 5 |
+| [Teenager suspected of leading KillSec ransomware group](https://www.europol.europa.eu/media-press/newsroom/news/teenager-suspected-of-leading-killsec-ransomware-group-law-enforcement-seizes-servers-and-leak-site) | 9 | 0 |
+| [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) | 330 | 125 |
+| [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) | 351 | 99 |
 
 ## arXiv · Latest Papers (cs.CR)
 
