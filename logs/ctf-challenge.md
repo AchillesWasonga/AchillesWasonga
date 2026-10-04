@@ -1,22 +1,27 @@
-# CTF Challenge of the Day — 2026-10-03
+# CTF Challenge of the Day — 2026-10-04
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 10:52 UTC
 
-## [Narxoz CTF](https://narxploit.narxoz.kz/register.html)
+## [GaianSpace CTF 2026](https://gaian.space/ctf)
 
 | Field | Value |
 |-------|-------|
-| Format | Hack quest |
+| Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | NarXploit |
+| Organizer | GaianSpace |
 | Start | 2026-10-10 |
-| End | 2026-10-10 |
+| End | 2026-10-14 |
 
 ### Description
 
-Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF organized by NarXploit in cooperation with Narxoz University.
+GaianSpace CTF, hosted by GaianSpace!
+Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more.
+Varied difficulties ensure fun for all skill levels. Hack the cosmos with us!
 
-Participants will operate in a realistic cyber range environment where they will analyze infrastructure, identify vulnerabilities, exploit weaknesses, develop...
+Location: Online
+Event format: Jeopardy
+
+First ever CTF scheduled:...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
