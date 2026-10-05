@@ -1,27 +1,30 @@
-# CTF Challenge of the Day — 2026-10-04
+# CTF Challenge of the Day — 2026-10-05
 
-> Auto-fetched daily from CTFtime · Last updated: 10:52 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:15 UTC
 
-## [GaianSpace CTF 2026](https://gaian.space/ctf)
+## [kBxAc CTF 2026](https://ctf.kbxac.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | GaianSpace |
-| Start | 2026-10-10 |
-| End | 2026-10-14 |
+| Organizer | kBxAc |
+| Start | 2026-10-09 |
+| End | 2026-10-10 |
 
 ### Description
 
-GaianSpace CTF, hosted by GaianSpace!
-Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more.
-Varied difficulties ensure fun for all skill levels. Hack the cosmos with us!
+kBxAc CTF 2026 organized by team kBxAc.
 
 Location: Online
-Event format: Jeopardy
+Format: Jeopardy
+CTF Website: https://ctf.kbxac.xyz/
+Team Limit: No team limit
 
-First ever CTF scheduled:...
+NOTE: Register individually for now, team creation will be enabled soon
+
+Discord: https://discord.gg/g2QBSxarG
+LinkedIn: https://www.linkedin.com/compan...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
