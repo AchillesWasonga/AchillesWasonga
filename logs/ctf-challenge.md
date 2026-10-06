@@ -1,30 +1,25 @@
-# CTF Challenge of the Day — 2026-10-05
+# CTF Challenge of the Day — 2026-10-06
 
-> Auto-fetched daily from CTFtime · Last updated: 09:15 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [kBxAc CTF 2026](https://ctf.kbxac.xyz/)
+## [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | kBxAc |
-| Start | 2026-10-09 |
-| End | 2026-10-10 |
+| Organizer | x6e.x65.x78.x75.x73 |
+| Start | 2026-10-10 |
+| End | 2026-10-11 |
 
 ### Description
 
-kBxAc CTF 2026 organized by team kBxAc.
+Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru.
 
-Location: Online
-Format: Jeopardy
-CTF Website: https://ctf.kbxac.xyz/
-Team Limit: No team limit
+Discord : https://discord.gg/yMFMXh3raE
 
-NOTE: Register individually for now, team creation will be enabled soon
-
-Discord: https://discord.gg/g2QBSxarG
-LinkedIn: https://www.linkedin.com/compan...
+This year's edition is split into two rounds:
+           Online Qualifier. A...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
