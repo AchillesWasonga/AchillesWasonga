@@ -1,25 +1,23 @@
-# CTF Challenge of the Day — 2026-10-06
+# CTF Challenge of the Day — 2026-10-07
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
 
-## [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)
+## [KubSTU CTF](https://kubstu-ctf.ru/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | x6e.x65.x78.x75.x73 |
+| Organizer | Capybaras |
 | Start | 2026-10-10 |
 | End | 2026-10-11 |
 
 ### Description
 
-Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru.
-
-Discord : https://discord.gg/yMFMXh3raE
-
-This year's edition is split into two rounds:
-           Online Qualifier. A...
+English and Indian languages are present.
+For help — https://t.me/c/3892440940/5995
+and https://discord.gg/kubstu
+KubSTU-2026-Autumn-Edition  - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
