@@ -1,23 +1,24 @@
-# CTF Challenge of the Day — 2026-10-07
+# CTF Challenge of the Day — 2026-10-08
 
-> Auto-fetched daily from CTFtime · Last updated: 09:09 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:10 UTC
 
-## [KubSTU CTF](https://kubstu-ctf.ru/)
+## [FortID CTF 2026](https://ctf.fortid.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | Capybaras |
-| Start | 2026-10-10 |
+| Weight | 45.0 |
+| Organizer | TBTL |
+| Start | 2026-10-09 |
 | End | 2026-10-11 |
 
 ### Description
 
-English and Indian languages are present.
-For help — https://t.me/c/3892440940/5995
-and https://discord.gg/kubstu
-KubSTU-2026-Autumn-Edition  - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano...
+This is the fourth global CTF organized by employees of Blockhouse Technology Zagreb (tbtl.com).
+
+It is also the second incarnation under our brand name - Fort ID (https://fortid.com/) - a privacy-first, secure, and eIDAS 2.0 compliant digital identity solution.
+
+The contest will be in the Jeopa...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
