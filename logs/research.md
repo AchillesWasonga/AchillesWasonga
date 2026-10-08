@@ -1,28 +1,27 @@
-# Security Research — 2026-10-07
+# Security Research — 2026-10-08
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/) | 85 | 27 |
-| [LLMs may have helped my RSI](https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html) | 93 | 50 |
-| [South Korea says AI agents appear to have been used to hack the country's banks](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/) | 82 | 17 |
-| [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/) | 333 | 56 |
+| [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust) | 68 | 109 |
+| [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/) | 90 | 57 |
+| [Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware](https://github.com/AL-255/FM-1-RE) | 67 | 46 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study](http://arxiv.org/abs/2610.08771v1) | Dimitrios Nikou, Nikolaos Kekatos et al. | 2026-10-06 |
-| [BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors](http://arxiv.org/abs/2610.08739v1) | Habibur Rahaman, Swastik Bhattacharya et al. | 2026-10-06 |
-| [Secure Speculative Decoding for Large Language Models](http://arxiv.org/abs/2610.08678v1) | Yichi Zhang, Zhiqi Wang et al. | 2026-10-06 |
-| [Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents](http://arxiv.org/abs/2610.08668v1) | Suxin Ji, Hungtao Wan et al. | 2026-10-06 |
-| [TwinViT-DeepJSCC: Adversarially Robust Semantic Image Communication](http://arxiv.org/abs/2610.08590v1) | Maedeh Fallahreyhani, Paeiz Azmi et al. | 2026-10-06 |
-| [RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems](http://arxiv.org/abs/2610.08571v1) | Niveen O. Jaffal, Ahmet Yuksel et al. | 2026-10-06 |
-| [Federated Bayesian Surveillance of Mechanical Thrombectomy Adverse Events: A Population Risk Layer for Surgical Digital Twins](http://arxiv.org/abs/2610.08464v1) | Damini Rijhwani | 2026-10-06 |
-| [One-Shot Private Confidence Regions via Resampling](http://arxiv.org/abs/2610.08460v1) | Shourya Pandey, Purnamrita Sarkar et al. | 2026-10-06 |
+| [Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks](http://arxiv.org/abs/2610.10360v1) | Will Jedrzejczak, Cole Walther et al. | 2026-10-07 |
+| [SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing](http://arxiv.org/abs/2610.10345v1) | Hui Zhang, Yachao Yuan et al. | 2026-10-07 |
+| [The Economic Security of Exponential EIP-1559](http://arxiv.org/abs/2610.10333v1) | Ben Berger, Edward W. Felten et al. | 2026-10-07 |
+| [PatchBench: Measuring Collateral Damage in Activation Patching](http://arxiv.org/abs/2610.10276v1) | Alexi Canesse, Mathis Le Bail et al. | 2026-10-07 |
+| [PairAudit: Guiding Human Review with Graph Tokens under Distribution Shift](http://arxiv.org/abs/2610.10260v1) | Jiran Tao, Binyan Jiang | 2026-10-07 |
+| [Collusion-Secure Semi-Quantum Secret Sharing Scheme using a Quantum Third Party](http://arxiv.org/abs/2610.10176v1) | Santanu Majhi, Nirupam Basak | 2026-10-07 |
+| [On the Reliability of LLM-Based Vulnerability Patching Benchmarks](http://arxiv.org/abs/2610.10150v1) | Dang K Le, Wenxuan Shi et al. | 2026-10-07 |
+| [Pump-and-Dump meets Honeypot Tokens: Detection and Analysis of Telegram Bait-and-Trap Schemes](http://arxiv.org/abs/2610.10149v1) | Federico Cernera, Massimo La Morgia et al. | 2026-10-07 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
