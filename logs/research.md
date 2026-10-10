@@ -1,15 +1,14 @@
-# Security Research — 2026-10-09
+# Security Research — 2026-10-10
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Sub-1-Bit LLM Compression via Latent Factorization](https://github.com/SamsungLabs/LittleBit) | 85 | 23 |
-| [Ask HN: Are you a subscribed LLM or a locally deployed open-source model?](https://news.ycombinator.com/item?id=50016644) | 8 | 10 |
-| [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust) | 111 | 208 |
-| [Fort Hood attacker's execution by firing squad will be livestreamed](https://www.bbc.com/news/articles/cmy0r96xygx6o) | 75 | 35 |
+| [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) | 82 | 55 |
+| [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) | 192 | 91 |
+| [Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil](https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html) | 52 | 40 |
 
 ## arXiv · Latest Papers (cs.CR)
 
