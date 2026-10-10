@@ -1,27 +1,27 @@
-# CTF Challenge of the Day — 2026-10-09
+# CTF Challenge of the Day — 2026-10-10
 
-> Auto-fetched daily from CTFtime · Last updated: 09:11 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [Securinets CTF Quals 2026](https://ctf.securinets.tn/)
+## [GaianSpace CTF 2026](https://gaian.space/ctf)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 85.12 |
-| Organizer | Securinets |
-| Start | 2026-10-17 |
-| End | 2026-10-18 |
+| Weight | 0.0 |
+| Organizer | GaianSpace |
+| Start | 2026-10-10 |
+| End | 2026-10-14 |
 
 ### Description
 
-**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**.
+GaianSpace CTF, hosted by GaianSpace!
+Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more.
+Varied difficulties ensure fun for all skill levels. Hack the cosmos with us!
 
-The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**.
+Location: Online
+Event format: Jeopardy
 
-**Registration will open soon.**
-
-Join our Discord server:
-https://dis...
+First ever CTF scheduled:...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
