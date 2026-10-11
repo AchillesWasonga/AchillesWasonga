@@ -1,4 +1,4 @@
-# Security Research — 2026-10-10
+# Security Research — 2026-10-11
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
@@ -6,9 +6,9 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) | 82 | 55 |
-| [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) | 192 | 91 |
-| [Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil](https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html) | 52 | 40 |
+| [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) | 390 | 204 |
+| [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) | 450 | 288 |
+| [MrBeast 'spends millions reverse engineering the algorithms on each platform'](https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas) | 64 | 80 |
 
 ## arXiv · Latest Papers (cs.CR)
 
