@@ -1,26 +1,20 @@
-# CTF Challenge of the Day — 2026-10-11
+# CTF Challenge of the Day — 2026-10-12
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:19 UTC
 
-## [Securinets CTF Quals 2026](https://ctf.securinets.tn/)
+## [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 85.12 |
-| Organizer | Securinets |
-| Start | 2026-10-17 |
-| End | 2026-10-18 |
+| Weight | 0.0 |
+| Organizer | CRUx BPHC |
+| Start | 2026-10-23 |
+| End | 2026-10-25 |
 
 ### Description
 
-Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag (CTF) competition organized by Securinets INSAT.
-
-The top 10 teams worldwide and the top 10 teams from the MENA region will qualify to compete in the onsite finals in Tunis, Tunisia.
-
-Registration opens soon!
-
-Join our Disc...
+cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
