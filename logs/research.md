@@ -1,15 +1,16 @@
-# Security Research — 2026-10-12
+# Security Research — 2026-10-13
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:07 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:06 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 483 | 706 |
-| [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467) | 131 | 35 |
-| [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/) | 120 | 37 |
-| [AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware](https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/) | 11 | 3 |
+| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 721 | 841 |
+| [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) | 157 | 52 |
+| [I Found a $90k Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce) | 213 | 104 |
+| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 698 | 1022 |
+| [Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea) | 91 | 31 |
 
 ## arXiv · Latest Papers (cs.CR)
 
