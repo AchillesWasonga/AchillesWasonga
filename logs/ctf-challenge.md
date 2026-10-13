@@ -1,6 +1,6 @@
-# CTF Challenge of the Day — 2026-10-12
+# CTF Challenge of the Day — 2026-10-13
 
-> Auto-fetched daily from CTFtime · Last updated: 09:19 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:12 UTC
 
 ## [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)
 
