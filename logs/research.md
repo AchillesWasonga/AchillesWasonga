@@ -1,29 +1,29 @@
-# Security Research — 2026-10-13
+# Security Research — 2026-10-14
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:06 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 721 | 841 |
-| [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) | 157 | 52 |
-| [I Found a $90k Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce) | 213 | 104 |
-| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 698 | 1022 |
-| [Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea) | 91 | 31 |
+| [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/) | 8 | 0 |
+| [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) | 34 | 18 |
+| [LLMs Are Turing-Complete](https://yager.io/neural/turing/turing.html) | 4 | 0 |
+| [Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl) | 12 | 1 |
+| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 893 | 991 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v1) | Andis Draguns, Sumeet Ramesh Motwani et al. | 2026-10-09 |
-| [Decision-Focused Learning for Cyber-Physical Risk-Aware Power Grid Operations](http://arxiv.org/abs/2610.13853v1) | Ayesha Siddiqua Dina, Ebisa D. Wollega et al. | 2026-10-09 |
-| [ToFu: Exploiting and Fuzzing the LLM-Orchestrator-Tool Trust Boundary](http://arxiv.org/abs/2610.13651v1) | Md Nazmul Islam Ananto, Pierre Prevost-Avenel et al. | 2026-10-09 |
-| [APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces](http://arxiv.org/abs/2610.13623v1) | Ziyi Yang, Adel Bibi et al. | 2026-10-09 |
-| [A Systematic Study of Security Enforcement at Android Inter-Component Boundaries](http://arxiv.org/abs/2610.13597v1) | Sandiyo Christan A | 2026-10-09 |
-| [EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair](http://arxiv.org/abs/2610.13491v1) | Yilian Shi, Qingyu Liu et al. | 2026-10-09 |
-| [Towards Safe World Models: Risks, Defenses, and Evaluation](http://arxiv.org/abs/2610.13372v1) | Xiaoma Wang, Litian Zhang et al. | 2026-10-09 |
-| [Secrets in Preamble: Practical and Robust PHY Information Hiding for Wi-Fi](http://arxiv.org/abs/2610.13367v1) | Rui Pan, Guanxiong Shen et al. | 2026-10-09 |
+| [AegisAsync: Symbolic Async-Event Simulation for Risks in Python Asynchronous Programs](http://arxiv.org/abs/2610.18831v1) | Baihong Chen, Wen Li | 2026-10-13 |
+| [$\mathsf{EFI}\Leftrightarrow\mathsf{1PRS}$](http://arxiv.org/abs/2610.18799v1) | Rishabh Batra | 2026-10-13 |
+| [Bytes to Threats: Byte-Sequence Transformer For Malware Detection](http://arxiv.org/abs/2610.18787v1) | Abdelrahman Yassin Eljamal, Abdeltawab Hendawi | 2026-10-13 |
+| [Dynamic Attack Surfaces: A Queue of Branching Processes](http://arxiv.org/abs/2610.18721v1) | Ismail Cosandal, Abdullah Y. Etcibasi et al. | 2026-10-13 |
+| [ARACDE: Retrofitting Databases with ABAC using External Authorization Engines](http://arxiv.org/abs/2610.18660v1) | Karthikeya S M Yelisetty, Shamik Sural et al. | 2026-10-13 |
+| [Nudge the Judge: Uncovering Program Decision Hijacking in Real-World Jev Applications](http://arxiv.org/abs/2610.18612v1) | Yang Luo, Tiantian Ji et al. | 2026-10-13 |
+| [DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](http://arxiv.org/abs/2610.18609v1) | Chengtao Jian, Kai Yang | 2026-10-13 |
+| [Autonomous Cyber Operations Gym for Training and Evaluating AI Models for Defence](http://arxiv.org/abs/2610.18594v1) | Tobias Hürten, Johannes F. Loevenich et al. | 2026-10-13 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
