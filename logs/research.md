@@ -1,29 +1,31 @@
-# Security Research — 2026-10-14
+# Security Research — 2026-10-15
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/) | 8 | 0 |
-| [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) | 34 | 18 |
-| [LLMs Are Turing-Complete](https://yager.io/neural/turing/turing.html) | 4 | 0 |
-| [Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl) | 12 | 1 |
-| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 893 | 991 |
+| [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 116 | 62 |
+| [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/) | 88 | 26 |
+| [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) | 909 | 540 |
+| [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325) | 81 | 73 |
+| [Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration](https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data) | 6 | 0 |
+| [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html) | 66 | 19 |
+| [Why do LLM pelicans look like this?](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/) | 162 | 137 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [AegisAsync: Symbolic Async-Event Simulation for Risks in Python Asynchronous Programs](http://arxiv.org/abs/2610.18831v1) | Baihong Chen, Wen Li | 2026-10-13 |
-| [$\mathsf{EFI}\Leftrightarrow\mathsf{1PRS}$](http://arxiv.org/abs/2610.18799v1) | Rishabh Batra | 2026-10-13 |
-| [Bytes to Threats: Byte-Sequence Transformer For Malware Detection](http://arxiv.org/abs/2610.18787v1) | Abdelrahman Yassin Eljamal, Abdeltawab Hendawi | 2026-10-13 |
-| [Dynamic Attack Surfaces: A Queue of Branching Processes](http://arxiv.org/abs/2610.18721v1) | Ismail Cosandal, Abdullah Y. Etcibasi et al. | 2026-10-13 |
-| [ARACDE: Retrofitting Databases with ABAC using External Authorization Engines](http://arxiv.org/abs/2610.18660v1) | Karthikeya S M Yelisetty, Shamik Sural et al. | 2026-10-13 |
-| [Nudge the Judge: Uncovering Program Decision Hijacking in Real-World Jev Applications](http://arxiv.org/abs/2610.18612v1) | Yang Luo, Tiantian Ji et al. | 2026-10-13 |
-| [DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](http://arxiv.org/abs/2610.18609v1) | Chengtao Jian, Kai Yang | 2026-10-13 |
-| [Autonomous Cyber Operations Gym for Training and Evaluating AI Models for Defence](http://arxiv.org/abs/2610.18594v1) | Tobias Hürten, Johannes F. Loevenich et al. | 2026-10-13 |
+| [Prioritizing Microservice Requests via Retries](http://arxiv.org/abs/2610.20567v1) | Ofek Lavi, Jhonatan Tavori et al. | 2026-10-14 |
+| [Quantum-Aware Key Rank for Side-Channel Attacks evaluation](http://arxiv.org/abs/2610.20537v1) | Yevgen Kotukh | 2026-10-14 |
+| [Tulva: Practical Asynchronous Threshold FHE](http://arxiv.org/abs/2610.20521v1) | Valerio Cini, Antonio Guimarães et al. | 2026-10-14 |
+| [From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)](http://arxiv.org/abs/2610.20437v1) | Alicia Colmenero-Fernández | 2026-10-14 |
+| [Phantomware: a Data Augmentation Framework for the Detection of Emerging Malware Campaigns](http://arxiv.org/abs/2610.20427v1) | Antonino Rullo | 2026-10-14 |
+| [Building Sound Evaluation Practices for Rust-Based Security Frameworks](http://arxiv.org/abs/2610.20315v1) | David Paaßen, Lucas Davi | 2026-10-14 |
+| [Towards Efficient Threat Intelligence Instruction Tuning via Quality-Aware and Optimal Transport-Guided Data Selection](http://arxiv.org/abs/2610.20284v1) | Jiyu Tian, Mingchu Li et al. | 2026-10-14 |
+| [P2Patch: Exploit-Guided Vulnerability Repair](http://arxiv.org/abs/2610.20245v1) | Mohsen Iranmanesh, Sina Moradi Sabet et al. | 2026-10-14 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
