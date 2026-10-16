@@ -1,23 +1,20 @@
-# CTF Challenge of the Day — 2026-10-15
+# CTF Challenge of the Day — 2026-10-16
 
 > Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [RSTCON 2026 CTF](https://ctf.rstcon.org/)
+## [DEADFACE CTF 2026](https://ctf.deadface.io/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 25.0 |
-| Organizer | RSTCON |
-| Start | 2026-10-23 |
-| End | 2026-10-25 |
+| Weight | 35.39 |
+| Organizer | Cyber Hacktics |
+| Start | 2026-10-17 |
+| End | 2026-10-19 |
 
 ### Description
 
-Online/Hybrid
-RSTCON CTF will available online, but there will be some challenges only available on-site at the conference.
-
-RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge...
+DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
