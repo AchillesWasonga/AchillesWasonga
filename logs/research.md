@@ -1,19 +1,14 @@
-# Security Research — 2026-10-16
+# Security Research — 2026-10-17
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/) | 202 | 182 |
-| [The Thinking Leakage in Reinforcement Learning for LLMs](https://arxiv.org/abs/2610.14270) | 7 | 0 |
-| [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) | 6 | 1 |
-| [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/) | 88 | 17 |
-| [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/) | 179 | 48 |
-| [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 366 | 183 |
-| [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) | 942 | 614 |
-| [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325) | 121 | 124 |
+| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 89 | 38 |
+| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | 188 | 59 |
+| [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113) | 51 | 25 |
 
 ## arXiv · Latest Papers (cs.CR)
 
