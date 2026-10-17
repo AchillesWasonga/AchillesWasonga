@@ -1,20 +1,22 @@
-# CTF Challenge of the Day — 2026-10-16
+# CTF Challenge of the Day — 2026-10-17
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [DEADFACE CTF 2026](https://ctf.deadface.io/)
+## [SAS CTF 2026 Finals](https://ctf.thesascon.com/)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
-| Weight | 35.39 |
-| Organizer | Cyber Hacktics |
-| Start | 2026-10-17 |
-| End | 2026-10-19 |
+| Format | Attack-Defense |
+| Weight | 49.5 |
+| Organizer | SAS CREW |
+| Start | 2026-10-20 |
+| End | 2026-10-20 |
 
 ### Description
 
-DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.
+SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals.
+
+We are inviting Top 8 teams that completed the SAS CTF qualification r...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
