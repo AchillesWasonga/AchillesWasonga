@@ -1,4 +1,4 @@
-# Security Research — 2026-10-17
+# Security Research — 2026-10-18
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
@@ -6,9 +6,10 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 89 | 38 |
-| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | 188 | 59 |
-| [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113) | 51 | 25 |
+| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 297 | 82 |
+| [Laser Fault Injection on a Budget: RP2350 Edition (2025)](https://courk.cc/rp2350-challenge-laser) | 62 | 17 |
+| [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) | 873 | 164 |
+| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | 193 | 68 |
 
 ## arXiv · Latest Papers (cs.CR)
 
