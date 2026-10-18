@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-10-17
+# CTF Challenge of the Day — 2026-10-18
 
 > Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [SAS CTF 2026 Finals](https://ctf.thesascon.com/)
+## [CREST CTF 2.0](https://crest.ctf7.com/)
 
 | Field | Value |
 |-------|-------|
-| Format | Attack-Defense |
-| Weight | 49.5 |
-| Organizer | SAS CREW |
-| Start | 2026-10-20 |
-| End | 2026-10-20 |
+| Format | Jeopardy |
+| Weight | 0 |
+| Organizer | CREST |
+| Start | 2026-10-23 |
+| End | 2026-10-23 |
 
 ### Description
 
-SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals.
-
-We are inviting Top 8 teams that completed the SAS CTF qualification r...
+CREST CTF 2.0 | National Level Cyber Security Competition
+Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU).
+CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-so...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
