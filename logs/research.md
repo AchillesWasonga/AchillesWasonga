@@ -1,4 +1,4 @@
-# Security Research — 2026-10-18
+# Security Research — 2026-10-19
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
@@ -6,23 +6,24 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 297 | 82 |
-| [Laser Fault Injection on a Budget: RP2350 Edition (2025)](https://courk.cc/rp2350-challenge-laser) | 62 | 17 |
-| [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) | 873 | 164 |
-| [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) | 193 | 68 |
+| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 410 | 199 |
+| [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) | 182 | 128 |
+| [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) | 202 | 160 |
+| [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/) | 86 | 21 |
+| [OpenCode has a security breach last that impacted 1.4% of console users](https://twitter.com/opencode/status/2111519637049319818) | 49 | 25 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale](http://arxiv.org/abs/2610.22301v1) | Zeqian Huang, Mingyue Tang et al. | 2026-10-15 |
-| [Private Retrieval Augmented Generation via Random Projection](http://arxiv.org/abs/2610.22297v1) | Dixi Yao, Tahseen Rabbani et al. | 2026-10-15 |
-| [Subgraph Counting with Local Node Differential Privacy](http://arxiv.org/abs/2610.22278v1) | Sofya Raskhodnikova, Adam Smith et al. | 2026-10-15 |
-| [Language Is a Security Surface for Agent Guards](http://arxiv.org/abs/2610.22244v1) | Hasan Demirkiran, Jens Ernstberger | 2026-10-15 |
-| [Shortcut Sensitivity in Agent-Safety Evaluations](http://arxiv.org/abs/2610.22243v1) | Hasan Demirkiran, Jens Ernstberger | 2026-10-15 |
-| [MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs](http://arxiv.org/abs/2610.22148v1) | Tao Duan, Junzhou Zhao et al. | 2026-10-15 |
-| [SMT-Boosted Security Types and Correctness for Low-Level MPC](http://arxiv.org/abs/2610.22047v1) | Christian Skalka, Steven Baldasty et al. | 2026-10-15 |
-| [Encoded but Exposed: Language Embeddings can Reveal More Than They Should in Recommender Systems](http://arxiv.org/abs/2610.21713v1) | Linda Beková, Rodrigo Alves | 2026-10-15 |
+| [Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps](http://arxiv.org/abs/2610.23851v1) | Ethan Myers, Lorenzo De Carli et al. | 2026-10-16 |
+| [Task-aware Kernel Stein certificates for Rényi differential privacy](http://arxiv.org/abs/2610.23798v1) | Leoni Carla Wirth, Tara Trautwein et al. | 2026-10-16 |
+| [HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation](http://arxiv.org/abs/2610.23685v1) | Manohar Vellala, Soumya Banerjee et al. | 2026-10-16 |
+| [TUPLE-Bench: Evaluating and Mitigating Privacy-Utility Trade-offs in Typed Decision Models](http://arxiv.org/abs/2610.23668v1) | Yiqu Yang, Qiaoyuan Zheng et al. | 2026-10-16 |
+| [ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics](http://arxiv.org/abs/2610.23656v1) | Xiaohang Yu, Hejia Geng et al. | 2026-10-16 |
+| [Token-Level Attribution of Multi-Mode LLM Watermarks: Optimal Rule and Belief Weighting](http://arxiv.org/abs/2610.23601v1) | Rui Zhou, Licheng Zhao et al. | 2026-10-16 |
+| [From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation](http://arxiv.org/abs/2610.23534v1) | Gabriel Hortea, Simon Pietro Romano et al. | 2026-10-16 |
+| [Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries](http://arxiv.org/abs/2610.23362v1) | Junchi Liao | 2026-10-16 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
