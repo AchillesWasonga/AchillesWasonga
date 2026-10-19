@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-10-18
+# CTF Challenge of the Day — 2026-10-19
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:12 UTC
 
-## [CREST CTF 2.0](https://crest.ctf7.com/)
+## [H7CTF 2026 Finals](https://2026.h7tex.com/)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
-| Weight | 0 |
-| Organizer | CREST |
-| Start | 2026-10-23 |
-| End | 2026-10-23 |
+| Format | Attack-Defense |
+| Weight | 0.0 |
+| Organizer | H7Tex |
+| Start | 2026-10-24 |
+| End | 2026-10-25 |
 
 ### Description
 
-CREST CTF 2.0 | National Level Cyber Security Competition
-Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU).
-CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-so...
+H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. 
+
+Teams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
