@@ -1,29 +1,31 @@
-# Security Research — 2026-10-19
+# Security Research — 2026-10-20
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 410 | 199 |
-| [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) | 182 | 128 |
-| [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) | 202 | 160 |
-| [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/) | 86 | 21 |
-| [OpenCode has a security breach last that impacted 1.4% of console users](https://twitter.com/opencode/status/2111519637049319818) | 49 | 25 |
+| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 467 | 137 |
+| [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) | 230 | 185 |
+| [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html) | 199 | 93 |
+| [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html) | 88 | 15 |
+| [Detecting model weight tampering in GPU memory (Rome attacks)](https://stealthium.io/blog/hands-off-detecting-model-weight-tampering) | 23 | 1 |
+| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 506 | 236 |
+| [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) | 273 | 212 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps](http://arxiv.org/abs/2610.23851v1) | Ethan Myers, Lorenzo De Carli et al. | 2026-10-16 |
-| [Task-aware Kernel Stein certificates for Rényi differential privacy](http://arxiv.org/abs/2610.23798v1) | Leoni Carla Wirth, Tara Trautwein et al. | 2026-10-16 |
-| [HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation](http://arxiv.org/abs/2610.23685v1) | Manohar Vellala, Soumya Banerjee et al. | 2026-10-16 |
-| [TUPLE-Bench: Evaluating and Mitigating Privacy-Utility Trade-offs in Typed Decision Models](http://arxiv.org/abs/2610.23668v1) | Yiqu Yang, Qiaoyuan Zheng et al. | 2026-10-16 |
-| [ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics](http://arxiv.org/abs/2610.23656v1) | Xiaohang Yu, Hejia Geng et al. | 2026-10-16 |
-| [Token-Level Attribution of Multi-Mode LLM Watermarks: Optimal Rule and Belief Weighting](http://arxiv.org/abs/2610.23601v1) | Rui Zhou, Licheng Zhao et al. | 2026-10-16 |
-| [From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation](http://arxiv.org/abs/2610.23534v1) | Gabriel Hortea, Simon Pietro Romano et al. | 2026-10-16 |
-| [Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries](http://arxiv.org/abs/2610.23362v1) | Junchi Liao | 2026-10-16 |
+| [Accountable partial understanding: securing the epistemic attack surface of agentic systems](http://arxiv.org/abs/2610.26799v1) | Josiah Dykstra | 2026-10-19 |
+| [Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams](http://arxiv.org/abs/2610.26781v1) | Nardine Basta, Robin Carpentier et al. | 2026-10-19 |
+| [Proof-of-Machine-Learning-Inference: Mining Knowledge, Not Hashes](http://arxiv.org/abs/2610.26713v1) | Wan Ki Wong, Michele Ciampi et al. | 2026-10-19 |
+| [BrushOff: Stroke-Based Re-rendering as a Watermark Removal Attack on Painting](http://arxiv.org/abs/2610.26682v1) | Hao Chen, Junnan Xu | 2026-10-19 |
+| [DM-RSA-OAEP: Formal Treatment of a Dual-Modulus Fault-Detection Countermeasure Based on Physical Diversity](http://arxiv.org/abs/2610.26642v1) | Ramamonjy Andriamifidisoa, Rufine Marius Lalasoa | 2026-10-19 |
+| [Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks](http://arxiv.org/abs/2610.26589v1) | Rohan Menon, Chih-Hong Cheng | 2026-10-19 |
+| [Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules](http://arxiv.org/abs/2610.26501v1) | Ashok Subbabhatta Gopalakrishna | 2026-10-19 |
+| [Mal-AAEGAN: Adversarial Autoencoder with Double-Critic WGAN-GP for Malware Generation](http://arxiv.org/abs/2610.26488v1) | Nam Hoang Thanh, Trung Pham Duy et al. | 2026-10-19 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
