@@ -1,22 +1,23 @@
-# CTF Challenge of the Day — 2026-10-20
+# CTF Challenge of the Day — 2026-10-21
 
-> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [CREST CTF 2.0](https://crest.ctf7.com/)
+## [RSTCON 2026 CTF](https://ctf.rstcon.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | CREST |
+| Weight | 25.0 |
+| Organizer | RSTCON |
 | Start | 2026-10-23 |
-| End | 2026-10-23 |
+| End | 2026-10-25 |
 
 ### Description
 
-CREST CTF 2.0 | National Level Cyber Security Competition
-Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU).
-CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-so...
+Online/Hybrid
+RSTCON CTF will available online, but there will be some challenges only available on-site at the conference.
+
+RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
