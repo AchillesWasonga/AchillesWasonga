@@ -1,31 +1,30 @@
-# Security Research — 2026-10-20
+# Security Research — 2026-10-21
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:05 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 467 | 137 |
-| [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) | 230 | 185 |
-| [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html) | 199 | 93 |
-| [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html) | 88 | 15 |
-| [Detecting model weight tampering in GPU memory (Rome attacks)](https://stealthium.io/blog/hands-off-detecting-model-weight-tampering) | 23 | 1 |
-| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 506 | 236 |
-| [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) | 273 | 212 |
+| [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | 965 | 391 |
+| [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction) | 57 | 23 |
+| [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) | 343 | 198 |
+| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 729 | 208 |
+| [Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754) | 225 | 35 |
+| [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html) | 217 | 111 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Accountable partial understanding: securing the epistemic attack surface of agentic systems](http://arxiv.org/abs/2610.26799v1) | Josiah Dykstra | 2026-10-19 |
-| [Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams](http://arxiv.org/abs/2610.26781v1) | Nardine Basta, Robin Carpentier et al. | 2026-10-19 |
-| [Proof-of-Machine-Learning-Inference: Mining Knowledge, Not Hashes](http://arxiv.org/abs/2610.26713v1) | Wan Ki Wong, Michele Ciampi et al. | 2026-10-19 |
-| [BrushOff: Stroke-Based Re-rendering as a Watermark Removal Attack on Painting](http://arxiv.org/abs/2610.26682v1) | Hao Chen, Junnan Xu | 2026-10-19 |
-| [DM-RSA-OAEP: Formal Treatment of a Dual-Modulus Fault-Detection Countermeasure Based on Physical Diversity](http://arxiv.org/abs/2610.26642v1) | Ramamonjy Andriamifidisoa, Rufine Marius Lalasoa | 2026-10-19 |
-| [Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks](http://arxiv.org/abs/2610.26589v1) | Rohan Menon, Chih-Hong Cheng | 2026-10-19 |
-| [Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules](http://arxiv.org/abs/2610.26501v1) | Ashok Subbabhatta Gopalakrishna | 2026-10-19 |
-| [Mal-AAEGAN: Adversarial Autoencoder with Double-Critic WGAN-GP for Malware Generation](http://arxiv.org/abs/2610.26488v1) | Nam Hoang Thanh, Trung Pham Duy et al. | 2026-10-19 |
+| [Proof-Carrying Contracts: Commitments AI Agents Cannot Break](http://arxiv.org/abs/2610.28484v1) | Carlo Ciliberto, Alessandro Rudi et al. | 2026-10-20 |
+| [A Digital Twin to Improve Cyber-Social Impact](http://arxiv.org/abs/2610.28430v1) | Vita Santa Barletta, Danilo Caivano et al. | 2026-10-20 |
+| [After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](http://arxiv.org/abs/2610.28425v1) | Zhiyue Xu, Xukai Wang et al. | 2026-10-20 |
+| [SPECTER: Covert Data Exfiltration from Air-Gapped Systems via USB Power Modulation](http://arxiv.org/abs/2610.28401v1) | Hyeongjun Choi, Ji Hyuk Jung et al. | 2026-10-20 |
+| [MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems](http://arxiv.org/abs/2610.28397v1) | Mohammad Kachuee, Phu Mon Htut et al. | 2026-10-20 |
+| [Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG](http://arxiv.org/abs/2610.28364v1) | Abhishek Rai | 2026-10-20 |
+| [Latency-Neutral Passive Cyber Monitoring for Grid-Edge Operational Technology Networks](http://arxiv.org/abs/2610.28324v1) | Damian Byrne, Emad Abukhousa et al. | 2026-10-20 |
+| [Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory](http://arxiv.org/abs/2610.28315v1) | Masahiro Kaneko, Hiromi Arai et al. | 2026-10-20 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
