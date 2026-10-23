@@ -1,20 +1,20 @@
-# CTF Challenge of the Day — 2026-10-22
+# CTF Challenge of the Day — 2026-10-23
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:07 UTC
 
-## [Hack.lu CTF 2026](https://flu.xxx/)
+## [HITCON CTF 2026](https://ctf2026.hitcon.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 94.74 |
-| Organizer | FluxFingers |
+| Weight | 91.16 |
+| Organizer | HITCON |
 | Start | 2026-10-23 |
 | End | 2026-10-25 |
 
 ### Description
 
-Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.
+No description provided by the organizers.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
