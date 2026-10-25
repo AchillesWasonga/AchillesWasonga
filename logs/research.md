@@ -1,4 +1,4 @@
-# Security Research — 2026-10-24
+# Security Research — 2026-10-25
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
@@ -6,14 +6,10 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | 901 | 588 |
-| [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) | 171 | 39 |
-| [CVE Tracker](https://cve.0xosprey.com/) | 172 | 65 |
-| [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) | 168 | 88 |
-| [Proton hosts map of 300k Flock devices amid legal threats](https://cyberinsider.com/proton-flock-map/) | 66 | 0 |
-| [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416) | 725 | 256 |
-| [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/) | 78 | 34 |
-| [Brotli vulnerability affects curl and Git](https://github.com/advisories/GHSA-9v8h-qqgm-4m35) | 31 | 10 |
+| [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) | 85 | 15 |
+| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | 1083 | 693 |
+| [CVE Tracker](https://cve.0xosprey.com/) | 218 | 72 |
+| [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root) | 55 | 18 |
 
 ## arXiv · Latest Papers (cs.CR)
 
