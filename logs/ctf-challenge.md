@@ -1,22 +1,25 @@
-# CTF Challenge of the Day — 2026-10-26
+# CTF Challenge of the Day — 2026-10-27
 
-> Auto-fetched daily from CTFtime · Last updated: 09:14 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
 
-## [StealthCup 2026](https://stealth.ait.ac.at/)
+## [Russian CTF Cup X Qualifier](https://ctfcup.ru/)
 
 | Field | Value |
 |-------|-------|
-| Format | Hack quest |
+| Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | 0x01DA |
+| Organizer | ctfcup |
 | Start | 2026-10-31 |
-| End | 2026-10-31 |
+| End | 2026-11-01 |
 
 ### Description
 
-StealthCup is an evasion focused CTF and a research project by AIT, held this year at Hackfest in Quebec City. Most CTFs reward speed. StealthCup rewards staying invisible.
+Russian CTF Cup X, Qualifier.
+https://ctfcup.ru/registration
 
-Teams attack a live IT and OT enterprise range while a real SOC stack watches. The team that reaches its objectives with the...
+12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.
+
+The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
