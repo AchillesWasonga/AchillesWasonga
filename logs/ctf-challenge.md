@@ -1,25 +1,22 @@
-# CTF Challenge of the Day — 2026-10-27
+# CTF Challenge of the Day — 2026-10-28
 
-> Auto-fetched daily from CTFtime · Last updated: 09:08 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [Russian CTF Cup X Qualifier](https://ctfcup.ru/)
+## [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | ctfcup |
-| Start | 2026-10-31 |
+| Organizer | HiddenInvestigations |
+| Start | 2026-10-30 |
 | End | 2026-11-01 |
 
 ### Description
 
-Russian CTF Cup X, Qualifier.
-https://ctfcup.ru/registration
+HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.
 
-12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.
-
-The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.
+The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
