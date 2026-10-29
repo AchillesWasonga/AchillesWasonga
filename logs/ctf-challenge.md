@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-10-28
+# CTF Challenge of the Day — 2026-10-29
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)
+## [StealthCup 2026](https://stealth.ait.ac.at/)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
+| Format | Hack quest |
 | Weight | 0.0 |
-| Organizer | HiddenInvestigations |
-| Start | 2026-10-30 |
-| End | 2026-11-01 |
+| Organizer | 0x01DA |
+| Start | 2026-10-31 |
+| End | 2026-10-31 |
 
 ### Description
 
-HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.
+StealthCup is an evasion focused CTF and a research project by AIT, held this year at Hackfest in Quebec City. Most CTFs reward speed. StealthCup rewards staying invisible.
 
-The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain...
+Teams attack a live IT and OT enterprise range while a real SOC stack watches. The team that reaches its objectives with the...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
