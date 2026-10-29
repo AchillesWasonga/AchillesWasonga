@@ -1,4 +1,4 @@
-# Security Research — 2026-10-28
+# Security Research — 2026-10-29
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,7 +6,10 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | 369 | 143 |
+| [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/) | 25 | 2 |
+| [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | 185 | 89 |
+| [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) | 61 | 3 |
+| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | 527 | 195 |
 
 ## arXiv · Latest Papers (cs.CR)
 
