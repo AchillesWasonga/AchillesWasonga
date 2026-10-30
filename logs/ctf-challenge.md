@@ -1,22 +1,21 @@
-# CTF Challenge of the Day — 2026-10-29
+# CTF Challenge of the Day — 2026-10-30
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [StealthCup 2026](https://stealth.ait.ac.at/)
+## [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)
 
 | Field | Value |
 |-------|-------|
-| Format | Hack quest |
-| Weight | 0.0 |
-| Organizer | 0x01DA |
-| Start | 2026-10-31 |
-| End | 2026-10-31 |
+| Format | Jeopardy |
+| Weight | 10.31 |
+| Organizer | Black Bauhinia |
+| Start | 2026-11-06 |
+| End | 2026-11-07 |
 
 ### Description
 
-StealthCup is an evasion focused CTF and a research project by AIT, held this year at Hackfest in Quebec City. Most CTFs reward speed. StealthCup rewards staying invisible.
-
-Teams attack a live IT and OT enterprise range while a real SOC stack watches. The team that reaches its objectives with the...
+HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong
+Kong, f...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
