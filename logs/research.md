@@ -1,19 +1,19 @@
-# Security Research — 2026-10-30
+# Security Research — 2026-10-31
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | 1417 | 910 |
-| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | 492 | 259 |
-| ['Elite North Korean hackers' blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates) | 60 | 61 |
-| [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2) | 17 | 2 |
-| [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers) | 314 | 155 |
-| [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | 252 | 121 |
-| [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/) | 95 | 25 |
-| [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) | 57 | 34 |
+| [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | 461 | 316 |
+| [Northflank Breached](https://status.northflank.com) | 442 | 316 |
+| [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) | 226 | 93 |
+| [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) | 230 | 32 |
+| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | 1741 | 1231 |
+| [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no) | 296 | 273 |
+| [North Korea Steals USD 6.36B from Binance in the Largest Hack in History](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) | 36 | 4 |
+| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | 594 | 329 |
 
 ## arXiv · Latest Papers (cs.CR)
 
