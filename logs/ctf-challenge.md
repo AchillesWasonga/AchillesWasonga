@@ -1,21 +1,20 @@
-# CTF Challenge of the Day — 2026-10-30
+# CTF Challenge of the Day — 2026-10-31
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)
+## [CSAW CTF Final Round 2026](https://ctf.csaw.io/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 10.31 |
-| Organizer | Black Bauhinia |
-| Start | 2026-11-06 |
-| End | 2026-11-07 |
+| Weight | 1.0 |
+| Organizer | NYUSEC |
+| Start | 2026-11-12 |
+| End | 2026-11-14 |
 
 ### Description
 
-HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong
-Kong, f...
+CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
