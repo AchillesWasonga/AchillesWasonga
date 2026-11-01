@@ -1,4 +1,4 @@
-# Security Research — 2026-10-31
+# Security Research — 2026-11-01
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
@@ -6,14 +6,14 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | 461 | 316 |
-| [Northflank Breached](https://status.northflank.com) | 442 | 316 |
-| [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) | 226 | 93 |
-| [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) | 230 | 32 |
-| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | 1741 | 1231 |
-| [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no) | 296 | 273 |
-| [North Korea Steals USD 6.36B from Binance in the Largest Hack in History](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) | 36 | 4 |
-| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | 594 | 329 |
+| [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) | 135 | 54 |
+| [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) | 520 | 240 |
+| [Understanding Email Encryption](https://www.fastmail.com/blog/email-encryption/) | 17 | 4 |
+| [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) | 343 | 121 |
+| [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) | 248 | 131 |
+| [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | 580 | 423 |
+| [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) | 260 | 46 |
+| [Northflank Breached](https://status.northflank.com) | 475 | 359 |
 
 ## arXiv · Latest Papers (cs.CR)
 
