@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-11-01
+# CTF Challenge of the Day — 2026-11-02
 
-> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [WolvCTF 2026](https://wolvctf.io/)
+## [PINK+ CTF 2026](https://ctf.pink.bayern/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | w01verines |
-| Start | 2026-11-13 |
-| End | 2026-11-15 |
+| Organizer | PINK+ |
+| Start | 2026-11-06 |
+| End | 2026-11-09 |
 
 ### Description
 
-Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). 
+The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!
 
-There are two divisions, Open...
+Discord: https://discord.gg/VuPqnhFxH4
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
