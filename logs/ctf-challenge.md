@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-11-02
+# CTF Challenge of the Day — 2026-11-03
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [PINK+ CTF 2026](https://ctf.pink.bayern/)
+## [CSCTF 2026](https://2026.chronos-security.ro/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | PINK+ |
+| Organizer | Mirachron |
 | Start | 2026-11-06 |
-| End | 2026-11-09 |
+| End | 2026-11-08 |
 
 ### Description
 
-The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!
+"CSCTF 2026: Total Warfare" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics.
 
-Discord: https://discord.gg/VuPqnhFxH4
+Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and op...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
