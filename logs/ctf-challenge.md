@@ -1,22 +1,21 @@
-# CTF Challenge of the Day — 2026-11-03
+# CTF Challenge of the Day — 2026-11-04
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [CSCTF 2026](https://2026.chronos-security.ro/)
+## [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | Mirachron |
+| Weight | 10.31 |
+| Organizer | Black Bauhinia |
 | Start | 2026-11-06 |
-| End | 2026-11-08 |
+| End | 2026-11-07 |
 
 ### Description
 
-"CSCTF 2026: Total Warfare" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics.
-
-Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and op...
+HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong
+Kong, f...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
