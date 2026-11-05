@@ -1,4 +1,4 @@
-# Security Research — 2026-11-04
+# Security Research — 2026-11-05
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,26 +6,27 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | 70 | 23 |
-| [Gitbook Breached](https://news.ycombinator.com/item?id=50354336) | 158 | 37 |
-| [The cryptography behind e-voting (and why paper ballots are still essential)](https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/) | 42 | 12 |
-| [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) | 456 | 146 |
-| [LLMs are not superhuman at reading and writing neural network weights](https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) | 144 | 22 |
-| [Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432) | 616 | 206 |
-| [Binance hackers used fake job interview to breach PC before $6.3B attack](https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/) | 92 | 30 |
+| [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) | 119 | 12 |
+| [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135) | 27 | 4 |
+| [Ask HN: What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425) | 74 | 71 |
+| [Hacking the T-Mobile Sidekick, 20 Years Too Late](https://x86.cx/blog/redanger) | 45 | 9 |
+| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | 126 | 67 |
+| [Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris) | 34 | 6 |
+| [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver) | 219 | 98 |
+| [Kernel.sh Hacked](https://www.kernel.sh/blog/public-notice-of-security-incident-nov-4-2026) | 13 | 6 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Quantum Advantage has Few Complexity Implications](http://arxiv.org/abs/2611.05303v1) | Eli Goldin, Alex Lombardi et al. | 2026-11-03 |
-| [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v1) | Chen Qian | 2026-11-03 |
-| [The Power of Interaction in Locally Edge-Private Subgraph Counting](http://arxiv.org/abs/2611.05038v1) | Xian Chen, Pan Peng | 2026-11-03 |
-| [Residual Attribute Leakage Is an Interface: Auditing Privacy Evaluation After Text De-identification](http://arxiv.org/abs/2611.04941v1) | Tuan Thanh Duong, Joongmin Shin et al. | 2026-11-03 |
-| [Leakage-Resilient Computation via Matrix Refreshing](http://arxiv.org/abs/2611.04876v1) | Stefan Dziembowski, Sebastian Faust | 2026-11-03 |
-| [Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics](http://arxiv.org/abs/2611.04803v1) | Shuaidong Li, Chenhao Lin et al. | 2026-11-03 |
-| [BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery](http://arxiv.org/abs/2611.04717v1) | Masoud Poorghaffar Aghdam, Göktuğ Serdar Yıldırım et al. | 2026-11-03 |
-| [Proving the Wrong Program: Miscompilations as a Threat to zkVM Guarantees](http://arxiv.org/abs/2611.04701v1) | Hui Xuan Tan, Stefanos Chaliasos et al. | 2026-11-03 |
+| [Integrated Identity Protection for Semantic Communications in Embodied IoT Systems](http://arxiv.org/abs/2611.06788v1) | Yu Zhang, JingQi Liu et al. | 2026-11-04 |
+| [Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains](http://arxiv.org/abs/2611.06585v1) | Yichiet Aun, Mohammed A. Alhartomi et al. | 2026-11-04 |
+| [Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models](http://arxiv.org/abs/2611.06553v1) | Hamid Dashtbani, Alexandra Dmitrienko | 2026-11-04 |
+| [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](http://arxiv.org/abs/2611.06498v1) | Georgios Feretzakis, Alexandros Papaspyridis | 2026-11-04 |
+| [Towards Early Warning of Real-World Vulnerabilities: An Evidence-Aware Decoupled Method for CVSS Vector Prediction Based on Unstructured Disclosures](http://arxiv.org/abs/2611.06477v1) | Jianhong Ma, Wenhao Li et al. | 2026-11-04 |
+| [A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](http://arxiv.org/abs/2611.06412v1) | Quentin Le Roux, Marti Jimenez et al. | 2026-11-04 |
+| [Shoot on (Core)Sight: Re-enabling Secure Debug on the RP2350 with Photon-Emission Microscopy and Laser Fault Injection](http://arxiv.org/abs/2611.06386v1) | Antoine Plin | 2026-11-04 |
+| [CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator](http://arxiv.org/abs/2611.06342v1) | Calister Nnona | 2026-11-04 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
