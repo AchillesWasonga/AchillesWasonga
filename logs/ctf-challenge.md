@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-11-05
+# CTF Challenge of the Day — 2026-11-06
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [WolvCTF 2026](https://wolvctf.io/)
+## [Platypwn 2026](https://platypwnies.de/events/platypwn/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | w01verines |
+| Weight | 37.0 |
+| Organizer | Platypwnies |
 | Start | 2026-11-13 |
-| End | 2026-11-15 |
+| End | 2026-11-14 |
 
 ### Description
 
-Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). 
+The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.
 
-There are two divisions, Open...
+See https://platypwnies.de/events/platypwn for further details.
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
