@@ -1,22 +1,23 @@
-# CTF Challenge of the Day — 2026-11-06
+# CTF Challenge of the Day — 2026-11-07
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [Platypwn 2026](https://platypwnies.de/events/platypwn/)
+## [EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 37.0 |
-| Organizer | Platypwnies |
-| Start | 2026-11-13 |
-| End | 2026-11-14 |
+| Weight | 0.0 |
+| Organizer | EyesOpen_Security |
+| Start | 2026-11-20 |
+| End | 2026-11-22 |
 
 ### Description
 
-The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.
+EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON.
 
-See https://platypwnies.de/events/platypwn for further details.
+This year, the competition goes far beyond a traditional CTF.
+You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itsel...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
