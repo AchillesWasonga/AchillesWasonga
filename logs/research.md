@@ -1,16 +1,13 @@
-# Security Research — 2026-11-06
+# Security Research — 2026-11-07
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | 557 | 200 |
-| [Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears](https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears) | 20 | 0 |
-| [Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it](https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet) | 24 | 4 |
-| [Why your Mac may not scan for malware](https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/) | 19 | 0 |
-| [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado) | 30 | 5 |
+| [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375) | 105 | 13 |
+| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | 708 | 277 |
 
 ## arXiv · Latest Papers (cs.CR)
 
