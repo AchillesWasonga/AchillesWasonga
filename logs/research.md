@@ -1,13 +1,12 @@
-# Security Research — 2026-11-07
+# Security Research — 2026-11-08
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375) | 105 | 13 |
-| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | 708 | 277 |
+| [Show HN: LLM weight editing tool made by a 15-year-old](https://github.com/Miyamoto-Renya/LaplacesScissors) | 9 | 0 |
 
 ## arXiv · Latest Papers (cs.CR)
 
