@@ -1,6 +1,6 @@
-# CTF Challenge of the Day — 2026-11-08
+# CTF Challenge of the Day — 2026-11-09
 
-> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
 ## [InIt CTF](https://hackersinindia.com/init-ctf)
 
