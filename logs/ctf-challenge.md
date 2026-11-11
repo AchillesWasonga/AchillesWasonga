@@ -1,20 +1,22 @@
-# CTF Challenge of the Day — 2026-11-10
+# CTF Challenge of the Day — 2026-11-11
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [Seize da Flaq](https://seizedaflaq.cyberonites.com/)
+## [WolvCTF 2026](https://wolvctf.io/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Seize da Flaq |
-| Start | 2026-11-21 |
-| End | 2026-11-22 |
+| Weight | 0.0 |
+| Organizer | w01verines |
+| Start | 2026-11-13 |
+| End | 2026-11-15 |
 
 ### Description
 
-Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reve...
+This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST
+
+Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary ...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
