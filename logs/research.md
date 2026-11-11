@@ -1,4 +1,4 @@
-# Security Research — 2026-11-10
+# Security Research — 2026-11-11
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,22 +6,26 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) | 34 | 12 |
-| [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | 50 | 14 |
-| [Supply chain attack on Qubole customers](https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack) | 20 | 6 |
+| [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | 177 | 35 |
+| [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/) | 121 | 41 |
+| [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) | 72 | 14 |
+| [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/) | 200 | 111 |
+| [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/abs/2611.10866) | 23 | 0 |
+| [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | 162 | 63 |
+| [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/) | 77 | 68 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](http://arxiv.org/abs/2611.12865v1) | Xinjie Shen | 2026-11-09 |
-| [TUTTI: Parallel CKKS Bootstrapping in under 3 ms on CPU](http://arxiv.org/abs/2611.12854v1) | Robin Köstler, Antonio Guimarães | 2026-11-09 |
-| [Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense](http://arxiv.org/abs/2611.12807v1) | Junsheng Fu, Shuangshuang Gao | 2026-11-09 |
-| [DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection](http://arxiv.org/abs/2611.12760v1) | Sofia Burkow, Andrea Agiollo et al. | 2026-11-09 |
-| [Checking DER Commands Against Grid Context Catches Credentialed Attacks Static Checks Miss](http://arxiv.org/abs/2611.12703v1) | Benjamin Blakely | 2026-11-09 |
-| [Maurer-Inspired Two-Way Physical-Layer Authentication Against Multi-Antenna Impersonation Attacks](http://arxiv.org/abs/2611.12648v1) | Pin-Hsun Lin, Linda Senigagliesi et al. | 2026-11-09 |
-| [BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication](http://arxiv.org/abs/2611.12636v1) | Taotao Wang, Xiaoxiao Wu et al. | 2026-11-09 |
-| [How Far Does Second-Order Linear Response Predict Quantization Mismatch? Pre-Registered Measurements on Five Language Models](http://arxiv.org/abs/2611.12634v1) | Dezhen Lu, Zixiang Ni | 2026-11-09 |
+| [How Well Do SAST Tools Work Across Languages? An Empirical Study Using OCPP Implementations](http://arxiv.org/abs/2611.14362v1) | Zachary Wadhams, Emma Sheppard et al. | 2026-11-10 |
+| [MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters](http://arxiv.org/abs/2611.14317v1) | Moritz Kirschte, Thorsten Peinemann et al. | 2026-11-10 |
+| [Location Matters: Sparse Latent-Variance Attacks for Face Privacy against Diffusion Personalization](http://arxiv.org/abs/2611.14254v1) | Shuting Yang, Shuxin Li et al. | 2026-11-10 |
+| [Model-Based Authoring of SOC Simulation Exercises for Cybersecurity Education](http://arxiv.org/abs/2611.14227v1) | Felix Härer | 2026-11-10 |
+| [An Empirical Study on CVE-based Vulnerabilities Propagation from one System to another System (IntraProject vs InterProject)](http://arxiv.org/abs/2611.14164v1) | Junaid Akram, Ali Hassan et al. | 2026-11-10 |
+| [Secure Information Flow in Quantum Programs](http://arxiv.org/abs/2611.14147v1) | Zhicheng Zhang, Mingsheng Ying et al. | 2026-11-10 |
+| [GARD: Gradient-Guided Adversarial Representation Defense against Backdoors in Multimodal Contrastive Learning Models](http://arxiv.org/abs/2611.14143v1) | Yuhong Wang, Yujun Cai et al. | 2026-11-10 |
+| [Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models](http://arxiv.org/abs/2611.14083v1) | Tomer Solberg | 2026-11-10 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
