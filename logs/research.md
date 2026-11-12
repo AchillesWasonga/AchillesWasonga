@@ -1,4 +1,4 @@
-# Security Research — 2026-11-11
+# Security Research — 2026-11-12
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,13 +6,11 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | 177 | 35 |
-| [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/) | 121 | 41 |
-| [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/) | 72 | 14 |
-| [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/) | 200 | 111 |
-| [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/abs/2611.10866) | 23 | 0 |
-| [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | 162 | 63 |
-| [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/) | 77 | 68 |
+| [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) | 219 | 105 |
+| [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404) | 1 | 0 |
+| [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | 271 | 67 |
+| [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/) | 150 | 52 |
+| [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/) | 209 | 117 |
 
 ## arXiv · Latest Papers (cs.CR)
 
