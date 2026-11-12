@@ -1,22 +1,20 @@
-# CTF Challenge of the Day — 2026-11-11
+# CTF Challenge of the Day — 2026-11-12
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [WolvCTF 2026](https://wolvctf.io/)
+## [InIt CTF](https://hackersinindia.com/init-ctf)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0.0 |
-| Organizer | w01verines |
-| Start | 2026-11-13 |
-| End | 2026-11-15 |
+| Weight | 0 |
+| Organizer | Hackers_In_India |
+| Start | 2026-11-14 |
+| End | 2026-11-14 |
 
 ### Description
 
-This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST
-
-Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary ...
+InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for ...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
