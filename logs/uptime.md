@@ -1,22 +1,21 @@
-# Uptime Monitor — 2026-11-12
+# Uptime Monitor — 2026-11-13
 
 > Auto-checked daily · Last updated: 10:05 UTC
 
 | Site | Status | HTTP | Latency |
 |------|--------|------|---------|
-| [wasonga.com](https://wasonga.com) | UP | 200 | 169ms |
-| [campdevoices.org](https://campdevoices.org) | UP | 200 | 173ms |
-| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 238ms |
-| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 274ms |
-| [draimo.com](https://www.draimo.com/) | UP | 200 | 3909ms |
-| [kirrosec.com](https://kirrosec.com) | UP | 200 | 61ms |
-| [theoverallshow.com](https://theoverallshow.com) | UP | 200 | 63ms |
+| [wasonga.com](https://wasonga.com) | UP | 200 | 248ms |
+| [campdevoices.org](https://campdevoices.org) | UP | 200 | 166ms |
+| [motorsportsplug.com](https://www.motorsportsplug.com/) | UP | 200 | 354ms |
+| [kimtailangat.com](https://www.kimtailangat.com/) | UP | 200 | 247ms |
+| [draimo.com](https://www.draimo.com/) | UP | 200 | 692ms |
+| [kirrosec.com](https://kirrosec.com) | UP | 200 | 115ms |
+| [theoverallshow.com](https://theoverallshow.com) | UP | 200 | 93ms |
 
 ## History
 
 | Date | wasonga.com | campdevoices.org | motorsportsplug.com | kimtailangat.com | draimo.com | kirrosec.com | theoverallshow.com |
 |------|-------------|------------------|---------------------|------------------|------------|--------------|--------------------|
-| 2026-10-14 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-10-15 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-10-16 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-10-17 | UP | UP | UP | UP | UP | UP | UP |
@@ -46,6 +45,7 @@
 | 2026-11-10 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-11-11 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-11-12 | UP | UP | UP | UP | UP | UP | UP |
+| 2026-11-13 | UP | UP | UP | UP | UP | UP | UP |
 
 ---
 *Monitored by webstyr-bot · checks run daily at 10:00 UTC*
