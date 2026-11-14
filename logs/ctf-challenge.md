@@ -1,20 +1,20 @@
-# CTF Challenge of the Day — 2026-11-13
+# CTF Challenge of the Day — 2026-11-14
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [Crate-CTF 2026](https://foi.se/cratectf)
+## [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 37.0 |
-| Organizer | Crate-CTF |
-| Start | 2026-11-21 |
-| End | 2026-11-21 |
+| Weight | 0.0 |
+| Organizer | L3m0n CTF |
+| Start | 2026-11-28 |
+| End | 2026-11-28 |
 
 ### Description
 
-Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges...
+L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on ...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
