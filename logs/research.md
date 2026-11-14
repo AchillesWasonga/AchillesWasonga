@@ -1,18 +1,16 @@
-# Security Research — 2026-11-13
+# Security Research — 2026-11-14
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) | 380 | 135 |
-| [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/) | 198 | 38 |
-| [TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm) | 70 | 9 |
-| [TSMC Has Been Hacked](https://mlq.ai/news/tsmc-says-employee-personal-data-was-posted-online-from-a-cloud-providers-systems/) | 16 | 0 |
-| [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) | 360 | 195 |
-| [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404) | 1 | 0 |
-| [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | 285 | 72 |
+| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | 755 | 214 |
+| [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) | 88 | 43 |
+| [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e) | 165 | 76 |
+| [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) | 475 | 180 |
+| [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o) | 98 | 36 |
 
 ## arXiv · Latest Papers (cs.CR)
 
