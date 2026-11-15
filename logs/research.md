@@ -1,4 +1,4 @@
-# Security Research — 2026-11-14
+# Security Research — 2026-11-15
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
@@ -6,11 +6,10 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | 755 | 214 |
-| [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) | 88 | 43 |
-| [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e) | 165 | 76 |
-| [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) | 475 | 180 |
-| [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o) | 98 | 36 |
+| [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) | 34 | 3 |
+| [Reverse engineering a vintage diode-transistor logic chip](https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) | 112 | 9 |
+| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | 792 | 222 |
+| [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) | 102 | 57 |
 
 ## arXiv · Latest Papers (cs.CR)
 
