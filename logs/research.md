@@ -1,28 +1,32 @@
-# Security Research — 2026-11-15
+# Security Research — 2026-11-16
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:04 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) | 34 | 3 |
-| [Reverse engineering a vintage diode-transistor logic chip](https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) | 112 | 9 |
-| [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | 792 | 222 |
-| [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) | 102 | 57 |
+| [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | 394 | 111 |
+| [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | 162 | 46 |
+| [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) | 428 | 211 |
+| [Aspidistra: A British wartime radio transmitter used for MitM attacks](https://en.wikipedia.org/wiki/Aspidistra_(transmitter)) | 41 | 4 |
+| [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) | 229 | 27 |
+| [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) | 95 | 18 |
+| [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization) | 10 | 0 |
+| [Reverse engineering a vintage diode-transistor logic chip](https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) | 118 | 9 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Preserve the Vulnerability, Break the Alert: Testing the Robustness of CodeQL Taint Tracking with Natural Rewrites](http://arxiv.org/abs/2611.17123v1) | Zhezhen Cao, Weiyuan Ding et al. | 2026-11-12 |
-| [CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts](http://arxiv.org/abs/2611.17115v1) | Zimo Xu, Wenzhuo Liu et al. | 2026-11-12 |
-| [On cryptographically non-linear all-or-nothing transforms](http://arxiv.org/abs/2611.17102v1) | Anantajeet Devaraj, Navid Nasr Esfahani | 2026-11-12 |
-| [GRID-MRI: Resilience Assessment of Power Systems under Coordinated Cyber-Physical Attacks](http://arxiv.org/abs/2611.17094v1) | Isaac Ortega Romero, Ioannis Zografopoulos | 2026-11-12 |
-| [Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography](http://arxiv.org/abs/2611.17091v1) | Feng Jiang | 2026-11-12 |
-| [NonSense: On the (In)security of FPGA Anti-tamper Sensors](http://arxiv.org/abs/2611.17065v1) | Mehmet Ali Cetin, Fatemeh Khojasteh Dana et al. | 2026-11-12 |
-| [Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help](http://arxiv.org/abs/2611.17042v1) | Yihan Xia, Wenxin Xu et al. | 2026-11-12 |
-| [Prevalence Bounds for Edited Watermarked Text: Power Envelopes and Calibration Sensitivity](http://arxiv.org/abs/2611.17035v1) | Kuancheng Ye | 2026-11-12 |
+| [Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1) | Daniel Grimm, Kyra Jongman et al. | 2026-11-13 |
+| [VellSSLH: Sound Type-Guided Selective Speculative Load Hardening for LLVM IR](http://arxiv.org/abs/2611.18463v1) | Swarn Priya | 2026-11-13 |
+| [Deterministic ECDSA on secp256k1: the RFC 6979 assumption, a counterexample, and the state of deployed implementations](http://arxiv.org/abs/2611.18449v1) | Ilia Prosianoi | 2026-11-13 |
+| [CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving](http://arxiv.org/abs/2611.18442v1) | Yuhang Wang, Jingxin Yang et al. | 2026-11-13 |
+| [Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters](http://arxiv.org/abs/2611.18363v1) | Mehrdad Saberi, Vishal Asnani et al. | 2026-11-13 |
+| [Quadratic APN Functions of $\mathbb{F}_2^{10}$ with a Self-Equivalence of Prime Order](http://arxiv.org/abs/2611.18358v1) | Emanuele Bellini | 2026-11-13 |
+| [Information-Theoretic Threshold Designated-Verifier Digital Signatures for Resource-Constrained Devices](http://arxiv.org/abs/2611.18355v1) | Andrew Wright, Aydin Abadi et al. | 2026-11-13 |
+| [On the Same Track: Privacy Leaks in Electric Rail Transport via Magnetic Fields](http://arxiv.org/abs/2611.18312v1) | Stefan Czybik, Pia Hanfeld et al. | 2026-11-13 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
