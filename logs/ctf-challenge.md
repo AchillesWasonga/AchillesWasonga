@@ -1,24 +1,28 @@
-# CTF Challenge of the Day — 2026-11-17
+# CTF Challenge of the Day — 2026-11-18
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)
+## [GlacierCTF 2026](https://glacierctf.com/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 45.76 |
-| Organizer | polygl0ts |
-| Start | 2026-11-27 |
-| End | 2026-11-28 |
+| Weight | 73.17 |
+| Organizer | LosFuzzys |
+| Start | 2026-11-20 |
+| End | 2026-11-21 |
 
 ### Description
 
-Qualifications for fifth edition of LakeCTF
+We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys.
 
-old discord server here for discussion: https://discord.gg/8FHmzT5aGM 
+Join our discord at:
+https://discord.gg/DFYnRAME23
 
-new discord server in your invite email
+- Hex-Rays (hex-rays.com)
+- ISEC @ Graz University of Technology (isec.tugraz.at)
+
+Infra sponsored by goo.gle/ctfsponsorship
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
