@@ -1,4 +1,4 @@
-# Security Research — 2026-11-17
+# Security Research — 2026-11-18
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,22 +6,24 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | 373 | 156 |
-| [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | 606 | 177 |
-| [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | 249 | 67 |
+| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 964 | 246 |
+| [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models) | 160 | 69 |
+| [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt) | 50 | 7 |
+| [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126) | 68 | 5 |
+| [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | 687 | 273 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [The Provenance-Privacy Paradox: Can Private Cloud Compute (PCC) Prove That Apple Reference Images Are Not Used for Learning?](http://arxiv.org/abs/2611.21590v1) | Mohammad I. Husain, Viet Nguyen | 2026-11-16 |
-| [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](http://arxiv.org/abs/2611.21579v1) | Jaime C. Acosta, Anantaa Kotal et al. | 2026-11-16 |
-| [When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents](http://arxiv.org/abs/2611.21577v1) | Zeynab Anbiaee, Sajjad Dadkhah et al. | 2026-11-16 |
-| [TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings](http://arxiv.org/abs/2611.21548v1) | Sydney Johns | 2026-11-16 |
-| [Post-Quantum Migration of Wi-Fi Key Establishment: A Hybrid ML-KEM Design for OWE and FILS, Validated on OWE with hostapd](http://arxiv.org/abs/2611.21528v1) | Jesús R. Abascal, Ana I. Gómez et al. | 2026-11-16 |
-| [The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU](http://arxiv.org/abs/2611.21497v1) | Nikolaos Kekatos, Georgios Koutidis et al. | 2026-11-16 |
-| [Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation](http://arxiv.org/abs/2611.21488v1) | Dumindu Samaraweera, Prashant Shekhar | 2026-11-16 |
-| [RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems](http://arxiv.org/abs/2611.21480v1) | Nikolaos Kekatos, Georgios Koutidis et al. | 2026-11-16 |
+| [Distortion-Free Semantic Watermarks for Black-Box Generative Models](http://arxiv.org/abs/2611.23208v1) | Aviv Yossef, Or Patashnik et al. | 2026-11-17 |
+| [Dissecting the GPU Load/Store Unit and Exposing Its Security Risks](http://arxiv.org/abs/2611.23022v1) | Wenbo Han, Pierre Talbot | 2026-11-17 |
+| [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](http://arxiv.org/abs/2611.22971v1) | Yuxuan Zhou, Chen Xiong et al. | 2026-11-17 |
+| [Can Verifiable PIR Match the Online Efficiency of SimplePIR?](http://arxiv.org/abs/2611.22911v1) | Xinxuan Zhang, Ruida Wang et al. | 2026-11-17 |
+| [Who Pays for Byzantine Robustness? Validity, Data-Share Dictatorships, and Fairness When Only a Few Hospitals Collaborate](http://arxiv.org/abs/2611.22904v1) | Adnan Malkani | 2026-11-17 |
+| [Stopping Is Not the Limit: Understanding and Eliciting Agent Capability in Long-Horizon Vulnerability Exploitation](http://arxiv.org/abs/2611.22888v1) | Deokhyung Kang, Minjae Gwon et al. | 2026-11-17 |
+| [CaFe: Causally Faithful Conditional Traffic Scenario Generation](http://arxiv.org/abs/2611.22855v1) | Steven Yu Tung, Shubham Vaijanath Phoolari et al. | 2026-11-17 |
+| [Guarded Swarms in the Loop: A ROS 2/PX4 Digital Twin for Hybrid Digital-Analog Coordination of UAV/UGV Swarms](http://arxiv.org/abs/2611.22773v1) | Uwe M. Borghoff, Paolo Bottoni et al. | 2026-11-17 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
