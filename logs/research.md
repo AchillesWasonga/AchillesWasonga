@@ -1,4 +1,4 @@
-# Security Research — 2026-11-18
+# Security Research — 2026-11-19
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,24 +6,26 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 964 | 246 |
-| [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models) | 160 | 69 |
-| [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt) | 50 | 7 |
-| [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126) | 68 | 5 |
-| [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | 687 | 273 |
+| [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | 144 | 51 |
+| [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) | 223 | 55 |
+| [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312) | 187 | 123 |
+| [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378) | 46 | 8 |
+| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 1168 | 326 |
+| [Oops All Shells – Stupid Vulnerability Name Generator](https://oops-all-shells.netlify.app/) | 17 | 2 |
+| [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models) | 184 | 75 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Distortion-Free Semantic Watermarks for Black-Box Generative Models](http://arxiv.org/abs/2611.23208v1) | Aviv Yossef, Or Patashnik et al. | 2026-11-17 |
-| [Dissecting the GPU Load/Store Unit and Exposing Its Security Risks](http://arxiv.org/abs/2611.23022v1) | Wenbo Han, Pierre Talbot | 2026-11-17 |
-| [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](http://arxiv.org/abs/2611.22971v1) | Yuxuan Zhou, Chen Xiong et al. | 2026-11-17 |
-| [Can Verifiable PIR Match the Online Efficiency of SimplePIR?](http://arxiv.org/abs/2611.22911v1) | Xinxuan Zhang, Ruida Wang et al. | 2026-11-17 |
-| [Who Pays for Byzantine Robustness? Validity, Data-Share Dictatorships, and Fairness When Only a Few Hospitals Collaborate](http://arxiv.org/abs/2611.22904v1) | Adnan Malkani | 2026-11-17 |
-| [Stopping Is Not the Limit: Understanding and Eliciting Agent Capability in Long-Horizon Vulnerability Exploitation](http://arxiv.org/abs/2611.22888v1) | Deokhyung Kang, Minjae Gwon et al. | 2026-11-17 |
-| [CaFe: Causally Faithful Conditional Traffic Scenario Generation](http://arxiv.org/abs/2611.22855v1) | Steven Yu Tung, Shubham Vaijanath Phoolari et al. | 2026-11-17 |
-| [Guarded Swarms in the Loop: A ROS 2/PX4 Digital Twin for Hybrid Digital-Analog Coordination of UAV/UGV Swarms](http://arxiv.org/abs/2611.22773v1) | Uwe M. Borghoff, Paolo Bottoni et al. | 2026-11-17 |
+| ["I Don't Think It's a Scam": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba](http://arxiv.org/abs/2611.24899v1) | Yipeng Wang, Huy Gia Han Vu et al. | 2026-11-18 |
+| [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) | Amr Elshazly, Jesse Roberts et al. | 2026-11-18 |
+| [Stealing Exact Training Data from Other Clients during Federated Learning](http://arxiv.org/abs/2611.24689v1) | Omkar Shrikanth, Soham Dambalkar et al. | 2026-11-18 |
+| [The Limit Is in the Input, Not the Model: State-Dependent Command Safety in Natural-Language Interfaces to Industrial Controllers](http://arxiv.org/abs/2611.24682v1) | Hemen Taukoor, Zhaoxia Wang et al. | 2026-11-18 |
+| [Gradient-Based Defensive Poisoning Against System Identification Attacks on Cyber-Physical Systems](http://arxiv.org/abs/2611.24662v1) | Gonçalo Fernandes, José Cecílio et al. | 2026-11-18 |
+| [ChainIT Transaction Truth: Stablecoins, Web3 Wallets, and Multi-Rail Commerce. A Zero-Trust Control Plane for Verified Identity, Organizational Authority, Runtime Compliance, Secure Wallet Execution, and Immutable Settlement Evidence](http://arxiv.org/abs/2611.24659v1) | Eric Tacl, Matthew Koepp et al. | 2026-11-18 |
+| [Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks](http://arxiv.org/abs/2611.24623v1) | Haochen Sun, Jacob Imola et al. | 2026-11-18 |
+| [Playing the SMR Game with Existential Honesty](http://arxiv.org/abs/2611.24586v1) | Zeta Avarikioti, Odysseas Sofikitis et al. | 2026-11-18 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
