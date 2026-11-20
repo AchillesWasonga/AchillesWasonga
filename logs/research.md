@@ -1,4 +1,4 @@
-# Security Research — 2026-11-19
+# Security Research — 2026-11-20
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,26 +6,26 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | 144 | 51 |
-| [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) | 223 | 55 |
-| [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312) | 187 | 123 |
-| [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378) | 46 | 8 |
-| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 1168 | 326 |
-| [Oops All Shells – Stupid Vulnerability Name Generator](https://oops-all-shells.netlify.app/) | 17 | 2 |
-| [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models) | 184 | 75 |
+| [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) | 270 | 211 |
+| [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o) | 36 | 19 |
+| [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) | 785 | 136 |
+| [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) | 655 | 308 |
+| [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) | 177 | 45 |
+| [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | 399 | 180 |
+| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 1179 | 330 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| ["I Don't Think It's a Scam": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba](http://arxiv.org/abs/2611.24899v1) | Yipeng Wang, Huy Gia Han Vu et al. | 2026-11-18 |
-| [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) | Amr Elshazly, Jesse Roberts et al. | 2026-11-18 |
-| [Stealing Exact Training Data from Other Clients during Federated Learning](http://arxiv.org/abs/2611.24689v1) | Omkar Shrikanth, Soham Dambalkar et al. | 2026-11-18 |
-| [The Limit Is in the Input, Not the Model: State-Dependent Command Safety in Natural-Language Interfaces to Industrial Controllers](http://arxiv.org/abs/2611.24682v1) | Hemen Taukoor, Zhaoxia Wang et al. | 2026-11-18 |
-| [Gradient-Based Defensive Poisoning Against System Identification Attacks on Cyber-Physical Systems](http://arxiv.org/abs/2611.24662v1) | Gonçalo Fernandes, José Cecílio et al. | 2026-11-18 |
-| [ChainIT Transaction Truth: Stablecoins, Web3 Wallets, and Multi-Rail Commerce. A Zero-Trust Control Plane for Verified Identity, Organizational Authority, Runtime Compliance, Secure Wallet Execution, and Immutable Settlement Evidence](http://arxiv.org/abs/2611.24659v1) | Eric Tacl, Matthew Koepp et al. | 2026-11-18 |
-| [Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks](http://arxiv.org/abs/2611.24623v1) | Haochen Sun, Jacob Imola et al. | 2026-11-18 |
-| [Playing the SMR Game with Existential Honesty](http://arxiv.org/abs/2611.24586v1) | Zeta Avarikioti, Odysseas Sofikitis et al. | 2026-11-18 |
+| [SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research](http://arxiv.org/abs/2611.26601v1) | Amine Lbath, Manan Suri et al. | 2026-11-19 |
+| [Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA](http://arxiv.org/abs/2611.26574v1) | Alper Cakan | 2026-11-19 |
+| [Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs](http://arxiv.org/abs/2611.26569v1) | Ziqing Yang, Yixin Wu et al. | 2026-11-19 |
+| [GEOHunter: Mapping a Generative Engine Optimization Network in the Wild](http://arxiv.org/abs/2611.26564v1) | Sean Tang, Peiran Wang et al. | 2026-11-19 |
+| [Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)](http://arxiv.org/abs/2611.26553v1) | Mengxiao Wang, Mahbub Alam et al. | 2026-11-19 |
+| [Backtracking Agent Applications Security Incidents](http://arxiv.org/abs/2611.26525v1) | Yicheng Cai, Taegyu Kim et al. | 2026-11-19 |
+| [Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs](http://arxiv.org/abs/2611.26508v1) | Haocheng Mei, Yuchuan Tian et al. | 2026-11-19 |
+| [When Suspicion Adds Up: A Stochastic Framework for Optimizing Honeypot-Based Insider-Threat Detection](http://arxiv.org/abs/2611.26353v1) | Saharnaz Mehrani, Lujia Zhan et al. | 2026-11-19 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
