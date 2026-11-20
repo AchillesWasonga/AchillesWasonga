@@ -156,3 +156,4 @@
 | 2026-11-17 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-11-18 | UP | UP | UP | UP | UP | UP | UP |
 | 2026-11-19 | UP | UP | UP | UP | UP | UP | UP |
+| 2026-11-20 | UP | UP | UP | UP | UP | UP | UP |
