@@ -1,20 +1,26 @@
-# CTF Challenge of the Day — 2026-11-20
+# CTF Challenge of the Day — 2026-11-21
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [Seize da Flaq](https://seizedaflaq.cyberonites.com/)
+## [RedReaper CTF](https://qualification.redx.site/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | Seize da Flaq |
-| Start | 2026-11-21 |
-| End | 2026-11-22 |
+| Weight | 0.0 |
+| Organizer | RedReaper |
+| Start | 2026-11-27 |
+| End | 2026-11-27 |
 
 ### Description
 
-Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reve...
+RedReaper CTF
+
+Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper 
+
+Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.
+
+Test your skills across mu...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
