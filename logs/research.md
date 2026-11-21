@@ -1,18 +1,19 @@
-# Security Research — 2026-11-20
+# Security Research — 2026-11-21
 
-> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
+> Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:02 UTC
 
 ## Hacker News · Security & Hacking
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) | 270 | 211 |
-| [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o) | 36 | 19 |
-| [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) | 785 | 136 |
-| [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) | 655 | 308 |
-| [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) | 177 | 45 |
-| [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | 399 | 180 |
-| [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 1179 | 330 |
+| [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) | 16 | 2 |
+| [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) | 17 | 0 |
+| [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models) | 42 | 14 |
+| [Algonquin Dam on Fox River has been hacked](https://www.cbsnews.com/chicago/news/algonquin-dam-fox-river-cyberattack/) | 4 | 0 |
+| [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/) | 32 | 12 |
+| [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) | 367 | 336 |
+| [UK fridges secured from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o) | 147 | 142 |
+| [The FBI was hacked again](https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database) | 24 | 3 |
 
 ## arXiv · Latest Papers (cs.CR)
 
