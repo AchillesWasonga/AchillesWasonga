@@ -1,26 +1,22 @@
-# CTF Challenge of the Day — 2026-11-21
+# CTF Challenge of the Day — 2026-11-22
 
-> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [RedReaper CTF](https://qualification.redx.site/)
+## [N0v4CTF 2026](https://n0v4ctf.devs.surf/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | RedReaper |
+| Organizer | NovaRun |
 | Start | 2026-11-27 |
-| End | 2026-11-27 |
+| End | 2026-11-28 |
 
 ### Description
 
-RedReaper CTF
+N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide.
 
-Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper 
-
-Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.
-
-Test your skills across mu...
+Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
