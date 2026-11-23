@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-11-22
+# CTF Challenge of the Day — 2026-11-23
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
 
-## [N0v4CTF 2026](https://n0v4ctf.devs.surf/)
+## [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | NovaRun |
-| Start | 2026-11-27 |
-| End | 2026-11-28 |
+| Organizer | SAFCSP |
+| Start | 2026-12-01 |
+| End | 2026-12-03 |
 
 ### Description
 
-N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide.
+Black Hat MEA Capture The Flag (CTF) 2026 ?
 
-Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden...
+The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersec...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
