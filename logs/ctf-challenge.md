@@ -1,22 +1,22 @@
-# CTF Challenge of the Day — 2026-11-23
+# CTF Challenge of the Day — 2026-11-24
 
-> Auto-fetched daily from CTFtime · Last updated: 09:06 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)
+## [2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)
 
 | Field | Value |
 |-------|-------|
-| Format | Jeopardy |
+| Format | Hack quest |
 | Weight | 0.0 |
-| Organizer | SAFCSP |
-| Start | 2026-12-01 |
-| End | 2026-12-03 |
+| Organizer | LoveFromMimic |
+| Start | 2026-12-03 |
+| End | 2026-12-06 |
 
 ### Description
 
-Black Hat MEA Capture The Flag (CTF) 2026 ?
+The 2026 Qiangwang Challenge on Cyber Mimic Defense Finals is the on-site final round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense in Nanjing, China.
 
-The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersec...
+Qualified and invited teams conduct security research on physical targets within the competition scope across six trac...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
