@@ -1,22 +1,24 @@
-# CTF Challenge of the Day — 2026-11-24
+# CTF Challenge of the Day — 2026-11-25
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)
+## [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)
 
 | Field | Value |
 |-------|-------|
-| Format | Hack quest |
-| Weight | 0.0 |
-| Organizer | LoveFromMimic |
-| Start | 2026-12-03 |
-| End | 2026-12-06 |
+| Format | Jeopardy |
+| Weight | 45.76 |
+| Organizer | polygl0ts |
+| Start | 2026-11-27 |
+| End | 2026-11-28 |
 
 ### Description
 
-The 2026 Qiangwang Challenge on Cyber Mimic Defense Finals is the on-site final round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense in Nanjing, China.
+Qualifications for fifth edition of LakeCTF
 
-Qualified and invited teams conduct security research on physical targets within the competition scope across six trac...
+old discord server here for discussion: https://discord.gg/8FHmzT5aGM 
+
+new discord server in your invite email
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
