@@ -1,4 +1,4 @@
-# Security Research — 2026-11-24
+# Security Research — 2026-11-25
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,23 +6,24 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031) | 62 | 4 |
-| [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/) | 19 | 9 |
-| [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use) | 51 | 23 |
-| [CVE-2026-124851: information disclosure vulnerability in ZSTD 1.5.1 to 1.5.7](https://www.facebook.com/security/advisories/cve-2026-124851?_fb_noscript=1) | 6 | 2 |
+| [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/) | 55 | 26 |
+| [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance) | 231 | 104 |
+| [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) | 976 | 403 |
+| [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download) | 153 | 26 |
+| [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77) | 128 | 46 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [Matching Under Metric Privacy](http://arxiv.org/abs/2611.31208v1) | Hongyi B. Hu, Dung Nguyen et al. | 2026-11-23 |
-| [Code-Based Message Authentication with Statistical Guarantees via Coordinate Selection and Masking](http://arxiv.org/abs/2611.31178v1) | Hsuan-Po Liu, Hessam Mahdavifar | 2026-11-23 |
-| [FATCAT: Fault Injection Attacks Targeting Chip-level Alignment](http://arxiv.org/abs/2611.31129v1) | Peter Horvath, Ilia Shumailov et al. | 2026-11-23 |
-| [The Privacy Cost of Writing an Audit Receipt Before Its Context Is Known](http://arxiv.org/abs/2611.31122v1) | Faruk Alpay, Taylan Alpay | 2026-11-23 |
-| [Preflight: Agentic Last-Mile Verification for AI Software Supply Chains](http://arxiv.org/abs/2611.31110v1) | Yaman Jandali, Nojan Sheybani et al. | 2026-11-23 |
-| [CenShaper: Shaping Proxy Traffic for Censorship Circumvention](http://arxiv.org/abs/2611.31016v1) | Shabbir Hussain, Aaron Ortwein et al. | 2026-11-23 |
-| [Airlock: Robust Sandboxing and Governance of Rogue Agents](http://arxiv.org/abs/2611.31010v1) | Sina Abdollahi, Amir Al Sadi et al. | 2026-11-23 |
-| [Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills](http://arxiv.org/abs/2611.30932v1) | Kaixuan Li, Wenbo Guo et al. | 2026-11-23 |
+| [A Bernstein-Type Variance-Adaptive PMW Mechanism for DP Query Release](http://arxiv.org/abs/2611.33045v1) | Mohamed Aniss Benstaali, Habib Louafi et al. | 2026-11-24 |
+| [SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment](http://arxiv.org/abs/2611.33030v1) | Shivank Rajput, Himanshu Singh et al. | 2026-11-24 |
+| [PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers](http://arxiv.org/abs/2611.33015v1) | Zixu Zhou, Xiangyu Guo et al. | 2026-11-24 |
+| [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](http://arxiv.org/abs/2611.32958v1) | Jie Li, Chenxu Niu et al. | 2026-11-24 |
+| ["I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?](http://arxiv.org/abs/2611.32957v1) | Megan Squire | 2026-11-24 |
+| [Sound Distributed Runtime Verification under Incomplete Evidence](http://arxiv.org/abs/2611.32868v1) | Nikolaos Kekatos, Antonio Anastasio Bruto da Costa et al. | 2026-11-24 |
+| [Fresh Keys, Stale Secrets: Numeric Leakage across Linked LLM Prompts](http://arxiv.org/abs/2611.32864v1) | Jian Li, Qinglin Zhao et al. | 2026-11-24 |
+| [C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems](http://arxiv.org/abs/2611.32780v1) | Guowei Guan, Yurong Hao et al. | 2026-11-24 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
