@@ -1,24 +1,22 @@
-# CTF Challenge of the Day — 2026-11-25
+# CTF Challenge of the Day — 2026-11-26
 
 > Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
 
-## [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)
+## [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 45.76 |
-| Organizer | polygl0ts |
-| Start | 2026-11-27 |
+| Weight | 0 |
+| Organizer | siberiansecurityleague |
+| Start | 2026-11-28 |
 | End | 2026-11-28 |
 
 ### Description
 
-Qualifications for fifth edition of LakeCTF
+CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security.
 
-old discord server here for discussion: https://discord.gg/8FHmzT5aGM 
-
-new discord server in your invite email
+The online qualification round is a 12-hour Jeopardy-style CTF. Teams of u...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
