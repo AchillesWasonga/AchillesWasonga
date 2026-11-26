@@ -1,4 +1,4 @@
-# Security Research — 2026-11-25
+# Security Research — 2026-11-26
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,24 +6,22 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/) | 55 | 26 |
-| [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance) | 231 | 104 |
-| [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) | 976 | 403 |
-| [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download) | 153 | 26 |
-| [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77) | 128 | 46 |
+| [Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 257 | 97 |
+| [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/) | 49 | 17 |
+| [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/) | 103 | 53 |
 
 ## arXiv · Latest Papers (cs.CR)
 
 | Title | Authors | Published |
 |-------|---------|-----------|
-| [A Bernstein-Type Variance-Adaptive PMW Mechanism for DP Query Release](http://arxiv.org/abs/2611.33045v1) | Mohamed Aniss Benstaali, Habib Louafi et al. | 2026-11-24 |
-| [SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment](http://arxiv.org/abs/2611.33030v1) | Shivank Rajput, Himanshu Singh et al. | 2026-11-24 |
-| [PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers](http://arxiv.org/abs/2611.33015v1) | Zixu Zhou, Xiangyu Guo et al. | 2026-11-24 |
-| [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](http://arxiv.org/abs/2611.32958v1) | Jie Li, Chenxu Niu et al. | 2026-11-24 |
-| ["I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?](http://arxiv.org/abs/2611.32957v1) | Megan Squire | 2026-11-24 |
-| [Sound Distributed Runtime Verification under Incomplete Evidence](http://arxiv.org/abs/2611.32868v1) | Nikolaos Kekatos, Antonio Anastasio Bruto da Costa et al. | 2026-11-24 |
-| [Fresh Keys, Stale Secrets: Numeric Leakage across Linked LLM Prompts](http://arxiv.org/abs/2611.32864v1) | Jian Li, Qinglin Zhao et al. | 2026-11-24 |
-| [C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems](http://arxiv.org/abs/2611.32780v1) | Guowei Guan, Yurong Hao et al. | 2026-11-24 |
+| [SoK: When FL Clients Cannot Train -- Delegated Federated Learning for IoT](http://arxiv.org/abs/2611.34876v1) | Hamed Mohammed Alkharsh, Aydin Abadi et al. | 2026-11-25 |
+| [A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom](http://arxiv.org/abs/2611.34868v1) | Joy Bose, Srinivas Adyapak | 2026-11-25 |
+| [Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines](http://arxiv.org/abs/2611.34859v1) | Rickard Brännvall, Henrik Forsgren et al. | 2026-11-25 |
+| [Full Structure Recovery of Linearized Reed-Solomon Codes](http://arxiv.org/abs/2611.34835v1) | Valentina Astore, Martino Borello et al. | 2026-11-25 |
+| [Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense](http://arxiv.org/abs/2611.34770v1) | Alessandro Cantelli-Forti, Isabella Marasco et al. | 2026-11-25 |
+| [Distance from the Truth: Why Fragmented Merchant Underwriting Misses Risk, and What Source-Attributable Evidence Changes](http://arxiv.org/abs/2611.34696v1) | Russell Lessard, Jeremy Blackburn et al. | 2026-11-25 |
+| [BridgeHammer: DNN Backdoor Attack via CPU-iGPU Shared-memory Rowhammer](http://arxiv.org/abs/2611.34684v1) | Yufei Wang, Saion K. Roy et al. | 2026-11-25 |
+| [From Models to Services: Systematizing Security Assurance for Model-as-a-Service](http://arxiv.org/abs/2611.34623v1) | Jianming Zhou, Yang Luo et al. | 2026-11-25 |
 
 ---
 *Sources: [Hacker News](https://news.ycombinator.com) · [arXiv cs.CR](https://arxiv.org/list/cs.CR/recent)*
