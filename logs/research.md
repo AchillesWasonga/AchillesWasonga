@@ -1,4 +1,4 @@
-# Security Research — 2026-11-26
+# Security Research — 2026-11-27
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,9 +6,7 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 257 | 97 |
-| [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/) | 49 | 17 |
-| [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/) | 103 | 53 |
+| [Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 284 | 105 |
 
 ## arXiv · Latest Papers (cs.CR)
 
