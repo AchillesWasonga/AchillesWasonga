@@ -1,22 +1,26 @@
-# CTF Challenge of the Day — 2026-11-26
+# CTF Challenge of the Day — 2026-11-27
 
-> Auto-fetched daily from CTFtime · Last updated: 09:05 UTC
+> Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)
+## [RedReaper CTF](https://qualification.redx.site/)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
-| Weight | 0 |
-| Organizer | siberiansecurityleague |
-| Start | 2026-11-28 |
-| End | 2026-11-28 |
+| Weight | 0.0 |
+| Organizer | RedReaper |
+| Start | 2026-11-27 |
+| End | 2026-11-27 |
 
 ### Description
 
-CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security.
+RedReaper CTF
 
-The online qualification round is a 12-hour Jeopardy-style CTF. Teams of u...
+Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper 
+
+Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.
+
+Test your skills across mu...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
