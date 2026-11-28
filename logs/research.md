@@ -1,4 +1,4 @@
-# Security Research — 2026-11-27
+# Security Research — 2026-11-28
 
 > Auto-fetched daily from Hacker News and arXiv cs.CR · Last updated: 11:03 UTC
 
@@ -6,7 +6,11 @@
 
 | Title | Points | Comments |
 |-------|--------|----------|
-| [Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 284 | 105 |
+| [Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice](https://dev.ua/en/news/durov-1795852825) | 6 | 0 |
+| [Hackers breach Erlang and Elixir package manager](https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/) | 7 | 0 |
+| [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163) | 345 | 211 |
+| [Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists](https://www.nature.com/articles/d41586-026-03875-6) | 8 | 0 |
+| [54% faster LLM token generation by removing the Linux OS and llama.cpp](https://twitter.com/superalesha/status/2125682626056839259) | 11 | 3 |
 
 ## arXiv · Latest Papers (cs.CR)
 
