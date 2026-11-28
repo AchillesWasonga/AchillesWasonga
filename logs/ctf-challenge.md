@@ -1,26 +1,22 @@
-# CTF Challenge of the Day — 2026-11-27
+# CTF Challenge of the Day — 2026-11-28
 
 > Auto-fetched daily from CTFtime · Last updated: 09:04 UTC
 
-## [RedReaper CTF](https://qualification.redx.site/)
+## [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)
 
 | Field | Value |
 |-------|-------|
 | Format | Jeopardy |
 | Weight | 0.0 |
-| Organizer | RedReaper |
-| Start | 2026-11-27 |
-| End | 2026-11-27 |
+| Organizer | SAFCSP |
+| Start | 2026-12-01 |
+| End | 2026-12-03 |
 
 ### Description
 
-RedReaper CTF
+Black Hat MEA Capture The Flag (CTF) 2026 ?
 
-Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper 
-
-Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.
-
-Test your skills across mu...
+The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersec...
 
 ---
 *Sources: [CTFtime](https://ctftime.org) · [PicoCTF](https://picoctf.org) · [HackTheBox](https://hackthebox.com)*
